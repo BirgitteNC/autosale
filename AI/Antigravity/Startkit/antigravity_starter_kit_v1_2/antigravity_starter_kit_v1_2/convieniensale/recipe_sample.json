@@ -1,0 +1,113 @@
+[
+  {
+    "id": "rec_meny_1",
+    "titel": "Svampe-bønne stroganoff med filotopping",
+    "beskrivelse": "Ægte opskrift fra Meny.dk Svampe-bønne stroganoff med filotopping",
+    "tidsforbrug_min": 30,
+    "portioner": 4,
+    "protein_per_300g": 13,
+    "kalorier_per_300g": 227,
+    "billed_url": "https://cdn-rdb.arla.com/dagrofa-dk/svampe-bonne-stroganoff-filotopping/45075023.jpg?w=960&h=439&anchor=middlecenter&mode=crop&scale=both&ak=8567bf50&hm=73811dac",
+    "estimeret_avance": null,
+    "instruktioner": [
+      "Tilberedning",
+      "Skær løg i små tern, hak hvidløget fint, og skær svampe i skiver.",
+      "Varm olien, og svits løg sammen med svampe og timian.",
+      "Krydr med lidt salt og peber.",
+      "Tilsæt tomatpuré og paprika.",
+      "Kom bønnerne inkl. den væde, de ligger i, sammen med sojasauce og fløde.",
+      "Lad retten simre i 10 min., og jævn så saucen med majsstivelse, rørt op i lidt vand.",
+      "Kom stroganoffen over i et ovnfast fad.",
+      "Rul filodejen ud.",
+      "Pensl hvert ark med lidt smør, krøl det lidt sammen, og læg det oven på stroganoffen.",
+      "Bag retten i ovnen i 15-20 min. ved 180 °C.",
+      "SPISETID opskrift",
+      "Frokost",
+      "Hovedret"
+    ],
+    "ingredienser": [
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_loeg"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_ris"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_9"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_11"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_12"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_28"
+      }
+    ],
+    "tags": [
+      "Meny",
+      "Hverdagsmad"
+    ],
+    "created_at": "2026-06-02T06:21:22.969195+00:00"
+  },
+  {
+    "id": "rec_meny_2",
+    "titel": "Langtidsstegt lammekølle med rosmarin & rodfrugter",
+    "beskrivelse": "Ægte opskrift fra Meny.dk Langtidsstegt lammekølle med rosmarin & rodfrugter",
+    "tidsforbrug_min": 30,
+    "portioner": 4,
+    "protein_per_300g": 21,
+    "kalorier_per_300g": 366,
+    "billed_url": "https://cdn-rdb.arla.com/dagrofa-dk/langtidsstegt-lammekoelle-rosmarin-rodfrugter/2522482038.jpg?w=960&h=439&anchor=middlecenter&mode=crop&scale=both&ak=8567bf50&hm=73811dac",
+    "estimeret_avance": null,
+    "instruktioner": [
+      "Læg lammekøllen i et ovnfast fad og gnid den med olie, citronsaft og skal, salt og peber.",
+      "Stik rosmarin og hvidløg ind i køllen, og læg den på en rist.",
+      "Rens rodfrugter, løg og kartofler og skær dem i grove stykker.",
+      "Vend dem med olivenolie, salt og peber og kom dem, sammen med vinen, i en badepande eller et ovnfast fad, der kan stå under risten med lammekøllen.",
+      "Sæt det hele i ovnen og steg det ved 150° i ca. 3 timer.",
+      "Tilsæt løbende fløden til rodfrugterne, så de ikke koger tørre.",
+      "Skær køllen i skiver og server med rodfrugter og evt. lidt friskkogte, grønne bønner.",
+      "Påske",
+      "Hovedret"
+    ],
+    "ingredienser": [
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_loeg"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_ris"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_4"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_6"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_9"
+      },
+      {
+        "maengde": "efter behov",
+        "raavare_id": "ing_extra_11"
+      }
+    ],
+    "tags": [
+      "Meny",
+      "Hverdagsmad"
+    ],
+    "created_at": "2026-06-02T06:21:22.969195+00:00"
+  }
+]

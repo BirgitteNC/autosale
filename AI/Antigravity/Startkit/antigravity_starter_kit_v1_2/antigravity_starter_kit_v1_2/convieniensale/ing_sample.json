@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ing_extra_1",
+    "eksternt_varenummer": null,
+    "navn": "Tomater (Danske)",
+    "kategori": "Frugt & Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_2",
+    "eksternt_varenummer": null,
+    "navn": "Agurk",
+    "kategori": "Frugt & Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  }
+]
