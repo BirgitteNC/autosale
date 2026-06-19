@@ -161,7 +161,7 @@ export default function StoreAdminView() {
 
       <div style={{background: 'white', padding: '2rem', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)', marginBottom: '2rem'}}>
         <h3 style={{marginBottom: '0.5rem'}}>Opret Ny Medarbejder-kode</h3>
-        <p className="text-muted" style={{marginBottom: '1.5rem'}}>Opret en 4-cifret pinkode, så en specifik afdeling (f.eks. frugt/grønt) kan bruge iPad'en.</p>
+        <p className="text-muted" style={{marginBottom: '1.5rem'}}>Opret en 4-cifret pinkode, så en specifik afdeling (f.eks. frugt/grønt) kan bruge terminalen.</p>
         {errorMsg && <div style={{background: '#fee2e2', color: '#991b1b', padding: '1rem', borderRadius: 'var(--radius-md)', marginBottom: '1.5rem'}}>{errorMsg}</div>}
         <form onSubmit={createPin} className="flex gap-4 items-end">
           <div style={{flex: 1}}>
@@ -244,7 +244,8 @@ export default function StoreAdminView() {
                     </button>
                  </td>
                </tr>
-             ))}
+               );
+             })}
            </tbody>
          </table>
          {pins.length === 0 && <div style={{padding: '3rem', textAlign: 'center', color: 'var(--color-text-muted)'}}>Ingen PIN koder oprettet for denne butik endnu.</div>}

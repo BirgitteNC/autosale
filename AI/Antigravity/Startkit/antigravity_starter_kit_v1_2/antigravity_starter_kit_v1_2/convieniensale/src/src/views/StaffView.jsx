@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { ChevronRight, PackageSearch, Lock, Search, Mic, MicOff, Trash2, Clock, Target, Loader2 } from 'lucide-react';
 import { useStaffData } from '../hooks/useStaffData';
 
@@ -6,19 +6,27 @@ export default function StaffView() {
   const {
     isAuthenticated,
     pin, setPin, pinError,
+    availableStores, selectedLoginStore, setSelectedLoginStore,
     ingredients, recipeCounts,
     selectedIds, foodWasteIds,
     showSuccess, isSubmitting, userRole, validateVoksenPin, voksenUnlockUntil,
     handleLogin, handleLogout,
     toggleIngredient, toggleFoodWaste, handleGenerate,
-    handleClearAll, handleAddIngredient
+    handleClearAll
   } = useStaffData();
 
   const [searchQuery, setSearchQuery] = useState('');
-  const [newIngredientName, setNewIngredientName] = useState('');
-  const [newIngredientCategory, setNewIngredientCategory] = useState('Frugt & Grønt');
   const [isListening, setIsListening] = useState(false);
   const [toastMessage, setToastMessage] = useState(null);
+  // eslint-disable-next-line react-hooks/purity
+  const [isTemporarilyUnlocked, setIsTemporarilyUnlocked] = useState(Date.now() < voksenUnlockUntil);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+       setIsTemporarilyUnlocked(Date.now() < voksenUnlockUntil);
+    }, 10000);
+    return () => clearInterval(interval);
+  }, [voksenUnlockUntil]);
 
   const handleVoiceSearch = () => {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -58,17 +66,36 @@ export default function StaffView() {
         <div style={{background: 'rgba(255, 255, 255, 0.05)', backdropFilter: 'blur(16px)', border: '1px solid rgba(255,255,255,0.1)', padding: '4rem 3rem', borderRadius: '24px', boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.5)', textAlign: 'center', maxWidth: '420px', width: '100%'}}>
           <Lock size={56} style={{margin: '0 auto 1.5rem', color: '#38bdf8'}} />
           <h2 style={{marginBottom: '0.5rem', fontSize: '2rem', fontWeight: '800', fontFamily: 'Outfit, sans-serif'}}>Medarbejder Login</h2>
-          <p style={{marginBottom: '2.5rem', fontSize: '1.1rem', color: '#94a3b8'}}>Indtast PIN-kode for at aktivere terminalen.</p>
+          <p style={{marginBottom: '2.5rem', fontSize: '1.1rem', color: '#94a3b8'}}>Vælg butik og indtast PIN-kode for at aktivere terminalen.</p>
           
           <form onSubmit={handleLogin} className="flex-col gap-4">
+            <select 
+              value={selectedLoginStore} 
+              onChange={(e) => setSelectedLoginStore(e.target.value)}
+              style={{
+                fontSize: '1.1rem', 
+                padding: '1rem', 
+                borderRadius: '16px', 
+                border: '1px solid rgba(255,255,255,0.2)',
+                background: 'rgba(0,0,0,0.2)',
+                color: 'white',
+                outline: 'none',
+                marginBottom: '1rem',
+                width: '100%'
+              }}
+            >
+              <option value="" disabled style={{color: 'black'}}>Vælg din butik</option>
+              {availableStores.map(s => <option key={s.id} value={s.id} style={{color: 'black'}}>{s.name}</option>)}
+            </select>
+
             <input 
               type="password" 
               value={pin}
               onChange={(e) => setPin(e.target.value)}
-              placeholder="****"
+              placeholder="PIN-KODE (4 cifre)"
               maxLength={4}
               style={{
-                fontSize: '2.5rem', 
+                fontSize: '2rem', 
                 padding: '1rem', 
                 borderRadius: '16px', 
                 border: '1px solid rgba(255,255,255,0.2)',
@@ -77,19 +104,20 @@ export default function StaffView() {
                 textAlign: 'center',
                 letterSpacing: '0.5rem',
                 outline: 'none',
-                transition: 'border-color 0.3s'
+                transition: 'border-color 0.3s',
+                width: '100%'
               }}
               onFocus={(e) => e.target.style.borderColor = '#38bdf8'}
               onBlur={(e) => e.target.style.borderColor = 'rgba(255,255,255,0.2)'}
             />
-            {pinError && <p style={{color: '#f87171', marginTop: '0.5rem', fontWeight: '600'}}>Ugyldig PIN-kode</p>}
+            {pinError && <p style={{color: '#f87171', marginTop: '0.5rem', fontWeight: '600'}}>Ugyldig butik eller PIN-kode</p>}
             <button type="submit" disabled={isSubmitting} style={{
               marginTop: '1.5rem', padding: '1.25rem', fontSize: '1.25rem', fontWeight: 'bold', 
               borderRadius: '16px', background: 'linear-gradient(135deg, #0ea5e9, #2563eb)', 
               color: 'white', border: 'none', cursor: isSubmitting ? 'not-allowed' : 'pointer', 
               boxShadow: '0 10px 20px -5px rgba(14, 165, 233, 0.5)', transition: 'transform 0.2s',
               display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem',
-              opacity: isSubmitting ? 0.7 : 1
+              opacity: isSubmitting ? 0.7 : 1, width: '100%'
             }}
             onMouseOver={(e) => { if (!isSubmitting) e.target.style.transform = 'translateY(-2px)' }}
             onMouseOut={(e) => { if (!isSubmitting) e.target.style.transform = 'translateY(0)' }}
@@ -300,8 +328,6 @@ export default function StaffView() {
 
         <button 
           onClick={async () => {
-            const isTemporarilyUnlocked = Date.now() < voksenUnlockUntil;
-            
             if (userRole === 'Ungarbejder' && !isTemporarilyUnlocked) {
               const approvalPin = window.prompt('Godkendelse påkrævet!\n\nDu er logget ind som ungarbejder.\nFor at sende disse varer til skærmen, skal en ansvarlig Voksen taste sin PIN-kode herunder:\n(Dette vil låse adgangen op i 10 minutter)');
               if (!approvalPin) return;
@@ -335,7 +361,7 @@ export default function StaffView() {
           onMouseOut={e => { if(selectedIds.length > 0 && !showSuccess) e.currentTarget.style.transform = 'translateY(0) scale(1)' }}
         >
           {isSubmitting && <Loader2 className="animate-spin" size={24} />}
-          {isSubmitting ? 'Beregner synergi...' : showSuccess ? 'Succes!' : (userRole === 'Ungarbejder' && Date.now() > voksenUnlockUntil) ? 'Klargør (Kræver Voksen-PIN)' : 'Find Opskrift & Send'} 
+          {isSubmitting ? 'Beregner synergi...' : showSuccess ? 'Succes!' : (userRole === 'Ungarbejder' && !isTemporarilyUnlocked) ? 'Klargør (Kræver Voksen-PIN)' : 'Find Opskrift & Send'} 
           {!isSubmitting && !showSuccess && <ChevronRight size={24} />}
         </button>
       </div>

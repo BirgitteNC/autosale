@@ -9,6 +9,8 @@ import { supabase } from '../supabaseClient';
 export function useStaffData() {
   const [storeId, setStoreId] = useState(localStorage.getItem('staff_store_id'));
   const [pin, setPin] = useState('');
+  const [selectedLoginStore, setSelectedLoginStore] = useState('');
+  const [availableStores, setAvailableStores] = useState([]);
   const [userRole, setUserRole] = useState(localStorage.getItem('staff_user_role') || 'Voksen');
   const [voksenUnlockUntil, setVoksenUnlockUntil] = useState(parseInt(localStorage.getItem('staff_voksen_unlock') || '0', 10));
   const [pinError, setPinError] = useState(false);
@@ -21,12 +23,35 @@ export function useStaffData() {
   const [showSuccess, setShowSuccess] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
 
+  const handleLogout = () => {
+    localStorage.removeItem('staff_store_id');
+    localStorage.removeItem('staff_store_pin');
+    localStorage.removeItem('staff_user_role');
+    localStorage.removeItem('staff_voksen_unlock');
+    localStorage.removeItem('staff_login_time');
+    setStoreId(null);
+    setUserRole('Voksen');
+    setVoksenUnlockUntil(0);
+    setSelectedIds([]);
+    setFoodWasteIds([]);
+  };
+
+  // Hent butikker til login skærmen
+  useEffect(() => {
+    if (!storeId) {
+      supabase.from('stores').select('id, name').eq('is_active', true).then(({data}) => {
+        if(data) setAvailableStores(data);
+      });
+    }
+  }, [storeId]);
+
   // Tjek om sessionen er udløbet (8 timer)
   useEffect(() => {
     const loginTime = localStorage.getItem('staff_login_time');
     if (loginTime) {
       const hoursSinceLogin = (Date.now() - parseInt(loginTime, 10)) / (1000 * 60 * 60);
       if (hoursSinceLogin >= 8) {
+        // eslint-disable-next-line react-hooks/set-state-in-effect
         handleLogout();
         window.dispatchEvent(new CustomEvent('staff-toast', { detail: 'Din session er udløbet (8 timer). Log venligst ind igen.' }));
       }
@@ -67,7 +92,7 @@ export function useStaffData() {
          }
       });
       
-      // Lyt efter live-ændringer fra andre iPads/afdelinger!
+      // Lyt efter live-ændringer fra andre terminals/afdelinger!
       const channel = supabase.channel('staff_active_promotions')
         .on('postgres_changes', { 
           event: '*', 
@@ -92,8 +117,12 @@ export function useStaffData() {
   const handleLogin = async (e) => {
     e.preventDefault();
     if (isSubmitting) return;
+    if (!selectedLoginStore) {
+       setPinError(true);
+       return;
+    }
     setIsSubmitting(true);
-    const { data, error } = await supabase.from('store_pins').select('store_id, description').eq('pin_code', pin).single();
+    const { data, error } = await supabase.from('store_pins').select('store_id, description').eq('store_id', selectedLoginStore).eq('pin_code', pin).single();
     
     if (data && !error) {
       let role = 'Voksen';
@@ -113,19 +142,6 @@ export function useStaffData() {
       setPin('');
     }
     setIsSubmitting(false);
-  };
-
-  const handleLogout = () => {
-    localStorage.removeItem('staff_store_id');
-    localStorage.removeItem('staff_store_pin');
-    localStorage.removeItem('staff_user_role');
-    localStorage.removeItem('staff_voksen_unlock');
-    localStorage.removeItem('staff_login_time');
-    setStoreId(null);
-    setUserRole('Voksen');
-    setVoksenUnlockUntil(0);
-    setSelectedIds([]);
-    setFoodWasteIds([]);
   };
 
   const toggleIngredient = (id) => {
@@ -255,6 +271,7 @@ export function useStaffData() {
     isAuthenticated,
     storeId, userRole, voksenUnlockUntil,
     pin, setPin, pinError,
+    availableStores, selectedLoginStore, setSelectedLoginStore,
     ingredients,
     recipeCounts,
     selectedIds, foodWasteIds,
