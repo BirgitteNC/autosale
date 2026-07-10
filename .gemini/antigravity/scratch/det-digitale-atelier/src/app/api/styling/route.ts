@@ -72,8 +72,8 @@ export async function POST(req: Request) {
         { 
           role: 'user', 
           content: [
-            { type: 'text', text: JSON.stringify({ body, garment: { name: garment.name, category: garment.category, fit: garment.fit, color: garment.color }, theme, userProfile }) },
-            ...(garment.imageUrl ? [{ type: 'image_url', image_url: { url: garment.imageUrl } }] : [])
+            { type: 'text' as const, text: JSON.stringify({ body, garment: { name: garment.name, category: garment.category, fit: garment.fit, color: garment.color }, theme, userProfile }) },
+            ...(garment.imageUrl ? [{ type: 'image_url' as const, image_url: { url: garment.imageUrl } }] : [])
           ]
         }
       ],
