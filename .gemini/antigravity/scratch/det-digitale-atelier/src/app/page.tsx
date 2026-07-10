@@ -146,9 +146,9 @@ export default function Home() {
       const result = await generateOutfitFormula(body, { ...garment, id: finalGarmentId, imageUrl: finalImageUrl || undefined }, colorState, userProfile, session?.user?.id);
       setFormulaResult(result);
       setCurrentImage(uploadedImage);
-    } catch (error) {
+    } catch (error: any) {
       console.error("Error generating formula:", error);
-      alert("Der skete en fejl ved generering af dit outfit. Prøv igen.");
+      alert("Fejl: " + error.message);
     } finally {
       setIsGenerating(false);
     }

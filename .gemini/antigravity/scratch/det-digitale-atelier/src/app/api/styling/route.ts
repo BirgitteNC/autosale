@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
+import OpenAI from 'openai';
 
 export const runtime = 'edge'; // Edge runtime gives 25s timeout on Hobby instead of 10s Serverless
 
@@ -62,35 +63,26 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: 'OpenAI API key er ikke konfigureret' }, { status: 500 });
     }
 
-    const response = await fetch('https://api.openai.com/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${openaiApiKey}`
-      },
-      body: JSON.stringify({
-        model: 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          { 
-            role: 'user', 
-            content: [
-              { type: 'text', text: JSON.stringify({ body, garment: { name: garment.name, category: garment.category, fit: garment.fit, color: garment.color }, theme, userProfile }) },
-              ...(garment.imageUrl ? [{ type: 'image_url', image_url: { url: garment.imageUrl } }] : [])
-            ]
-          }
-        ],
-        temperature: 0.7,
-        response_format: { type: 'json_object' }
-      })
+    const openai = new OpenAI({ apiKey: openaiApiKey });
+
+    const response = await openai.chat.completions.create({
+      model: 'gpt-4o-mini',
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT },
+        { 
+          role: 'user', 
+          content: [
+            { type: 'text', text: JSON.stringify({ body, garment: { name: garment.name, category: garment.category, fit: garment.fit, color: garment.color }, theme, userProfile }) },
+            ...(garment.imageUrl ? [{ type: 'image_url', image_url: { url: garment.imageUrl } }] : [])
+          ]
+        }
+      ],
+      temperature: 0.7,
+      response_format: { type: 'json_object' }
     });
 
-    if (!response.ok) {
-      throw new Error('Fejl fra OpenAI API');
-    }
-
-    const data = await response.json();
-    const result = JSON.parse(data.choices[0].message.content);
+    const resultText = response.choices[0]?.message?.content || '{}';
+    const result = JSON.parse(resultText);
 
     // Generer Fashion Sketch med GPT-Image-2
     let illustrationUrl = null;
