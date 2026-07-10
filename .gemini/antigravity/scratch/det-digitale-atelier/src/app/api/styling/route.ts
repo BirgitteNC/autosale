@@ -99,8 +99,7 @@ export async function POST(req: Request) {
           model: 'gpt-image-2',
           prompt: dallePrompt,
           n: 1,
-          size: '1024x1024',
-          response_format: 'b64_json'
+          size: '1024x1024'
         })
       });
 
