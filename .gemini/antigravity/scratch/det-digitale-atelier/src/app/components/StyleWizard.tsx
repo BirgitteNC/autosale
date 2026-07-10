@@ -61,7 +61,30 @@ export function StyleWizard({ onCalculate, colorState, setColorState }: StyleWiz
       const reader = new FileReader();
       reader.onloadend = async () => {
         const base64 = reader.result as string;
-        setUploadedImage(base64);
+        
+        // Resize image to max 512px width to avoid Vercel 4.5MB payload limit
+        const img = new Image();
+        img.src = base64;
+        await new Promise(resolve => { img.onload = resolve; });
+        
+        const canvas = document.createElement('canvas');
+        const MAX_WIDTH = 512;
+        let width = img.width;
+        let height = img.height;
+        
+        if (width > MAX_WIDTH) {
+          height = Math.round((height * MAX_WIDTH) / width);
+          width = MAX_WIDTH;
+        }
+        
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext('2d');
+        ctx?.drawImage(img, 0, 0, width, height);
+        
+        const resizedBase64 = canvas.toDataURL('image/jpeg', 0.8);
+        
+        setUploadedImage(resizedBase64);
         setScanning(true);
         setGarmentId(undefined); // Reset ID since it's a new image
         
@@ -69,7 +92,7 @@ export function StyleWizard({ onCalculate, colorState, setColorState }: StyleWiz
           const response = await fetch('/api/vision', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ imageBase64: base64 })
+            body: JSON.stringify({ imageBase64: resizedBase64 })
           });
           
           if (response.ok) {
