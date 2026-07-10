@@ -87,10 +87,10 @@ export default function Home() {
     // Hvis brugeren har valgt et eksisterende stykke tøj fra garderoben, har den et ID.
     // Hvis IKKE, og vi har et billede + navn, gemmer vi det først.
     let finalGarmentId = garment.id;
+    let finalImageUrl = uploadedImage;
     if (!finalGarmentId && uploadedImage && garment.name) {
       if (session?.user?.id) {
         // Upload image to Supabase Storage if it's base64
-        let imageUrl = uploadedImage;
         if (uploadedImage.startsWith('data:image')) {
           try {
             const fileData = await fetch(uploadedImage).then(res => res.blob());
@@ -98,7 +98,7 @@ export default function Home() {
             const { error: uploadError } = await supabase.storage.from('wardrobe-images').upload(fileName, fileData);
             if (!uploadError) {
               const { data: { publicUrl } } = supabase.storage.from('wardrobe-images').getPublicUrl(fileName);
-              imageUrl = publicUrl;
+              finalImageUrl = publicUrl;
             }
           } catch (e) {
             console.error("Could not upload image to storage", e);
@@ -127,7 +127,7 @@ export default function Home() {
               category: garment.category,
               fit: garment.fit,
               color: garment.color,
-              image_url: imageUrl
+              image_url: finalImageUrl
             })
             .select('id')
             .single();
@@ -143,7 +143,7 @@ export default function Home() {
     setFormulaResult(null);
 
     try {
-      const result = await generateOutfitFormula(body, { ...garment, id: finalGarmentId }, colorState, userProfile, session?.user?.id);
+      const result = await generateOutfitFormula(body, { ...garment, id: finalGarmentId, imageUrl: finalImageUrl || undefined }, colorState, userProfile, session?.user?.id);
       setFormulaResult(result);
       setCurrentImage(uploadedImage);
     } catch (error) {
@@ -184,7 +184,7 @@ export default function Home() {
               >
                 <div className="w-16 h-16 border-t-2 border-[#1A1816] rounded-full animate-spin mb-6"></div>
                 <h3 className={`${playfair.className} text-2xl text-[#1A1816] mb-2`}>AI Stylisten arbejder...</h3>
-                <p className="text-[#A69482] text-sm uppercase tracking-widest">Analyserer kropsform, farver og tegner dit outfit (ca. 10 sek)</p>
+                <p className="text-[#A69482] text-sm uppercase tracking-widest">Analyserer kropsform, farver og tegner dit outfit (dette kan tage et øjeblik)</p>
               </motion.div>
             )}
           </AnimatePresence>

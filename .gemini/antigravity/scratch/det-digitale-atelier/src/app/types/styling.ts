@@ -17,6 +17,7 @@ export interface FavoriteGarment {
   category: "top" | "bottom" | "footwear" | "outerwear";
   fit: "oversized" | "wide-leg" | "slim-fit" | "fitted" | "structured";
   color: string;
+  imageUrl?: string;
 }
 
 export type ColorTheme = "glow" | "analog" | "monochrome";
@@ -26,6 +27,7 @@ export interface OutfitFormulaResult {
   advice: string;
   formula: {
     anchor: string;
+    garmentVisualDescription: string;
     pairingPieces: string[];
     tuckStyle: "half_tuck" | "no_tuck" | "full_tuck";
     footwearChoice: string;

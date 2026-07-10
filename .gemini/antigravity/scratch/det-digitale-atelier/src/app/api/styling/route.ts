@@ -40,6 +40,7 @@ Returner KUN et JSON objekt i dette format (præcis dette format, ingen markdown
   "advice": "1-2 sætninger der beskriver hvorfor dette look virker, henvendt til brugeren (brug ord som 'vi' og 'din').",
   "formula": {
     "anchor": "Navnet på tøjet fra input",
+    "garmentVisualDescription": "En ultra-detaljeret visuel beskrivelse af det valgte tøj på billedet (farve, tekstur, pasform, mønster, fx 'hvide baggy bukser med semi-transparent blomsterblonde, løs pasform og elastik i taljen'). VIGTIGT: Hvis der er et billede vedlagt, baser beskrivelsen på dette billede. Hvis ikke, brug dit bedste gæt baseret på navnet.",
     "pairingPieces": ["Piece 1", "Piece 2"],
     "tuckStyle": "half_tuck | no_tuck | full_tuck",
     "footwearChoice": "Beskrivelse af fodtøj (husk The Wrong Shoe Theory eller Sandwiching)",
@@ -70,7 +71,13 @@ export async function POST(req: Request) {
         model: 'gpt-4o',
         messages: [
           { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: JSON.stringify({ body, garment, theme, userProfile }) }
+          { 
+            role: 'user', 
+            content: [
+              { type: 'text', text: JSON.stringify({ body, garment: { name: garment.name, category: garment.category, fit: garment.fit, color: garment.color }, theme, userProfile }) },
+              ...(garment.imageUrl ? [{ type: 'image_url', image_url: { url: garment.imageUrl } }] : [])
+            ]
+          }
         ],
         temperature: 0.7,
         response_format: { type: 'json_object' }
@@ -87,7 +94,7 @@ export async function POST(req: Request) {
     // Generer Fashion Sketch med GPT-Image-2
     let illustrationUrl = null;
     try {
-      const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.anchor}, ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
+      const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
       
       const dalleResponse = await fetch('https://api.openai.com/v1/images/generations', {
         method: 'POST',
