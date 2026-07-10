@@ -90,7 +90,7 @@ export async function POST(req: Request) {
       const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
       
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 15000); // 15 second timeout for image generation
+      const timeoutId = setTimeout(() => controller.abort(), 21000); // 21 second timeout for image generation
       
       const dalleResponse = await fetch('https://api.openai.com/v1/images/generations', {
         method: 'POST',
