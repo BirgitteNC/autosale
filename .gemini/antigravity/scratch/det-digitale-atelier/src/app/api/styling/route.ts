@@ -84,7 +84,7 @@ export async function POST(req: Request) {
     const data = await response.json();
     const result = JSON.parse(data.choices[0].message.content);
 
-    // Generer Fashion Sketch med DALL-E 3
+    // Generer Fashion Sketch med GPT-Image-2
     let illustrationUrl = null;
     try {
       const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.anchor}, ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
@@ -96,23 +96,27 @@ export async function POST(req: Request) {
           'Authorization': `Bearer ${openaiApiKey}`
         },
         body: JSON.stringify({
-          model: 'dall-e-3',
+          model: 'gpt-image-2',
           prompt: dallePrompt,
           n: 1,
           size: '1024x1024',
-          quality: 'standard'
+          response_format: 'b64_json'
         })
       });
 
       if (dalleResponse.ok) {
         const dalleData = await dalleResponse.json();
-        illustrationUrl = dalleData.data[0].url;
+        if (dalleData.data && dalleData.data[0].b64_json) {
+          illustrationUrl = 'data:image/png;base64,' + dalleData.data[0].b64_json;
+        } else if (dalleData.data && dalleData.data[0].url) {
+          illustrationUrl = dalleData.data[0].url;
+        }
         result.illustrationUrl = illustrationUrl;
       } else {
-        console.error("DALL-E API Error:", await dalleResponse.text());
+        console.error("GPT-Image-2 API Error:", await dalleResponse.text());
       }
     } catch (e) {
-      console.error("Failed to generate DALL-E image", e);
+      console.error("Failed to generate GPT-Image-2 image", e);
     }
 
     // Rule 8: EU AI Act - Data Provenance Logging
