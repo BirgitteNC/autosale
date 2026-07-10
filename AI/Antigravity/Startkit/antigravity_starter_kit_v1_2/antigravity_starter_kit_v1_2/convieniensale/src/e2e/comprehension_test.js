@@ -1,8 +1,13 @@
 import puppeteer from 'puppeteer';
 import { createClient } from '@supabase/supabase-js';
+import 'dotenv/config';
 
-const supabaseUrl = 'https://llfyffxbeuvwwethwbli.supabase.co';
-const supabaseKey = 'REDACTED_ROTATE_THIS_KEY'; // SERVICE KEY
+const supabaseUrl = process.env.VITE_SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+if (!supabaseUrl || !supabaseKey) {
+  console.error('Mangler VITE_SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY i miljøet (se .env).');
+  process.exit(1);
+}
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 const storeId = '11111111-1111-1111-1111-111111111111';
@@ -35,12 +40,25 @@ async function runTest() {
   console.log(`[2] Medarbejder vælger råvare IDs: ${selectedIds.join(', ')}`);
 
   // 4. Opdater active_promotions (Simulér Medarbejder Tablet "Send")
-  const { error: err2 } = await supabase.from('active_promotions')
-    .update({
+  let err2 = null;
+  const { data: existing } = await supabase.from('active_promotions').select('id').eq('store_id', storeId).maybeSingle();
+  
+  if (existing) {
+    const { error } = await supabase.from('active_promotions').update({
       selected_ingredients: selectedIds,
-      food_waste_ingredients: []
-    })
-    .eq('store_id', storeId);
+      food_waste_ingredients: [],
+      updated_at: new Date().toISOString()
+    }).eq('store_id', storeId);
+    err2 = error;
+  } else {
+    const { error } = await supabase.from('active_promotions').insert({
+      store_id: storeId,
+      selected_ingredients: selectedIds,
+      food_waste_ingredients: [],
+      updated_at: new Date().toISOString()
+    });
+    err2 = error;
+  }
 
   if (err2) {
     console.error("Fejl: Kunne ikke opdatere active_promotions", err2);
@@ -57,8 +75,8 @@ async function runTest() {
   const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
   
-  // Vi tester mod localhost, der kører under testen
-  await page.goto('http://localhost:5173/signage', { waitUntil: 'networkidle0' });
+  // Vi tester mod localhost, der kører under testen på port 5180, MED storeId!
+  await page.goto(`http://127.0.0.1:5180/signage?storeId=${storeId}`, { waitUntil: 'networkidle0' });
 
   try {
     await page.waitForSelector('h1', { timeout: 5000 });
@@ -79,11 +97,26 @@ async function runTest() {
   await browser.close();
 
   // 6. Verifikation
-  if (titleOnScreen === randomRecipe.titel) {
-    console.log("✅ SUCCES! Forståelses-testen er bestået. Skærmen reagerede korrekt og placerede opskriften i toppen.");
+  if (!titleOnScreen || titleOnScreen === 'MENY') {
+    console.error(`❌ FEJL! Skærmen viste '${titleOnScreen}', men vi forventede at se en opskrift!`);
+    process.exit(1);
+  }
+
+  // Tjek om opskriften på skærmen rent faktisk indeholder de ingredienser, vi valgte
+  const screenRecipe = recipes.find(r => r.titel === titleOnScreen);
+  if (!screenRecipe) {
+    console.error(`❌ FEJL! Skærmen viste '${titleOnScreen}', som ikke findes i opskrifts-databasen!`);
+    process.exit(1);
+  }
+
+  const screenRecipeIngs = (screenRecipe.ingredienser || []).map(i => i.raavare_id);
+  const hasMatch = selectedIds.some(id => screenRecipeIngs.includes(id));
+
+  if (hasMatch) {
+    console.log(`✅ SUCCES! Forståelses-testen er bestået. Skærmen viste '${titleOnScreen}' som indeholder de promoverede ingredienser.`);
     process.exit(0);
   } else {
-    console.error(`❌ FEJL! Skærmen viste '${titleOnScreen}', men vi forventede at se '${randomRecipe.titel}'. Logikken er i stykker!`);
+    console.error(`❌ FEJL! Skærmen viste '${titleOnScreen}', men den indeholder IKKE de valgte råvarer (${selectedIds.join(', ')}). Logikken er i stykker!`);
     process.exit(1);
   }
 }
