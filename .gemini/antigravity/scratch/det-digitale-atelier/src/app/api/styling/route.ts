@@ -69,7 +69,7 @@ export async function POST(req: Request) {
         'Authorization': `Bearer ${openaiApiKey}`
       },
       body: JSON.stringify({
-        model: 'gpt-4o',
+        model: 'gpt-4o-mini',
         messages: [
           { role: 'system', content: SYSTEM_PROMPT },
           { 
@@ -97,17 +97,21 @@ export async function POST(req: Request) {
     try {
       const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
       
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 15000); // 15 second timeout for image generation
+      
       const dalleResponse = await fetch('https://api.openai.com/v1/images/generations', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
           'Authorization': `Bearer ${openaiApiKey}`
         },
+        signal: controller.signal,
         body: JSON.stringify({
           model: 'gpt-image-2',
           prompt: dallePrompt,
           n: 1,
-          size: '512x512'
+          size: '1024x1024'
         })
       });
 
@@ -122,6 +126,7 @@ export async function POST(req: Request) {
       } else {
         console.error("GPT-Image-2 API Error:", await dalleResponse.text());
       }
+      clearTimeout(timeoutId);
     } catch (e) {
       console.error("Failed to generate GPT-Image-2 image", e);
     }
