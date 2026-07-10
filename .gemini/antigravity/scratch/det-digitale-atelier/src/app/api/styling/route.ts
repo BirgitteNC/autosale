@@ -1,8 +1,7 @@
 import { NextResponse } from 'next/server';
-import crypto from 'crypto';
 import { supabase } from '@/lib/supabase';
 
-export const maxDuration = 60; // Allow up to 60 seconds for GPT-4o and DALL-E
+export const runtime = 'edge'; // Edge runtime gives 25s timeout on Hobby instead of 10s Serverless
 
 // System promptet for AI Stylisten
 const SYSTEM_PROMPT = `Du er Anastasiia Preston, en professionel fashion stylist. Din æstetik er 'Quiet Luxury' og 'Old Money', og du bygger dine anbefalinger på et videnskabeligt Kildebaseret Stylingskodeks (Stylewise, Laura Lava, Trinny London).
@@ -108,7 +107,7 @@ export async function POST(req: Request) {
           model: 'gpt-image-2',
           prompt: dallePrompt,
           n: 1,
-          size: '1024x1024'
+          size: '512x512'
         })
       });
 
@@ -129,9 +128,11 @@ export async function POST(req: Request) {
 
     // Rule 8: EU AI Act - Data Provenance Logging
     if (userId) {
-      const integrityHash = crypto.createHash('sha256')
-        .update(userId + JSON.stringify(body) + JSON.stringify(garment) + JSON.stringify(result.appliedRuleIds))
-        .digest('hex');
+      const message = userId + JSON.stringify(body) + JSON.stringify(garment) + JSON.stringify(result.appliedRuleIds);
+      const msgBuffer = new TextEncoder().encode(message);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      const integrityHash = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
       await supabase.from('styling_recommendation_logs').insert({
         user_id: userId,
