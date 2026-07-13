@@ -100,7 +100,7 @@ export async function POST(req: Request) {
         },
         signal: controller.signal,
         body: JSON.stringify({
-          model: 'dall-e-2',
+          model: 'gpt-image-1-mini',
           prompt: dallePrompt,
           n: 1,
           size: '1024x1024'
