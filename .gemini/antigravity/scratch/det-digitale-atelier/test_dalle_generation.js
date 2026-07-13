@@ -23,7 +23,8 @@ async function testDalle() {
         model: 'gpt-image-1-mini',
         prompt: prompt,
         n: 1,
-        size: '1024x1024'
+        size: '1024x1024',
+        response_format: 'url'
       })
     });
 

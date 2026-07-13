@@ -84,44 +84,8 @@ export async function POST(req: Request) {
     const resultText = response.choices[0]?.message?.content || '{}';
     const result = JSON.parse(resultText);
 
-    // Generer Fashion Sketch med GPT-Image-2
+    // DALL-E generering er deaktiveret, da det overskrider Vercel Hobby Edge Function 4MB memory/payload limits for base64 JSON
     let illustrationUrl = null;
-    try {
-      const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
-      
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 21000); // 21 second timeout for image generation
-      
-      const dalleResponse = await fetch('https://api.openai.com/v1/images/generations', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${openaiApiKey}`
-        },
-        signal: controller.signal,
-        body: JSON.stringify({
-          model: 'gpt-image-1-mini',
-          prompt: dallePrompt,
-          n: 1,
-          size: '1024x1024'
-        })
-      });
-
-      if (dalleResponse.ok) {
-        const dalleData = await dalleResponse.json();
-        if (dalleData.data && dalleData.data[0].b64_json) {
-          illustrationUrl = 'data:image/png;base64,' + dalleData.data[0].b64_json;
-        } else if (dalleData.data && dalleData.data[0].url) {
-          illustrationUrl = dalleData.data[0].url;
-        }
-        result.illustrationUrl = illustrationUrl;
-      } else {
-        console.error("GPT-Image-2 API Error:", await dalleResponse.text());
-      }
-      clearTimeout(timeoutId);
-    } catch (e) {
-      console.error("Failed to generate GPT-Image-2 image", e);
-    }
 
     // Rule 8: EU AI Act - Data Provenance Logging
     if (userId) {
