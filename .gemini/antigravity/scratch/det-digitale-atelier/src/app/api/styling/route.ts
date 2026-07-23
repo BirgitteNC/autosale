@@ -87,7 +87,7 @@ export async function POST(req: Request) {
     // Generer Fashion Sketch med GPT-Image-1-Mini
     let illustrationUrl = null;
     try {
-      const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
+      const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person from head to toe with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. Ensure the feet and footwear are fully visible and not cropped out. White background, editorial fashion sketch style, highly artistic.`;
       
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), 45000); // 45 sekunders intern timeout
