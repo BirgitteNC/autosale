@@ -20,7 +20,7 @@ async function testDalle() {
         'Authorization': `Bearer ${openaiApiKey}`
       },
       body: JSON.stringify({
-        model: 'gpt-image-1-mini',
+        model: 'gpt-image-1',
         prompt: prompt,
         n: 1,
         size: '1024x1024',

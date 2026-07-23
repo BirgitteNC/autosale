@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
 import OpenAI from 'openai';
 
-export const runtime = 'edge'; // Edge runtime gives 25s timeout on Hobby instead of 10s Serverless
+export const maxDuration = 60; // Giver funktionen 60 sekunder til at hente billedet (kræver Vercel Pro)
 
 // System promptet for AI Stylisten
 const SYSTEM_PROMPT = `Du er Anastasiia Preston, en professionel fashion stylist. Din æstetik er 'Quiet Luxury' og 'Old Money', og du bygger dine anbefalinger på et videnskabeligt Kildebaseret Stylingskodeks (Stylewise, Laura Lava, Trinny London).
@@ -84,8 +84,44 @@ export async function POST(req: Request) {
     const resultText = response.choices[0]?.message?.content || '{}';
     const result = JSON.parse(resultText);
 
-    // DALL-E generering er deaktiveret, da det overskrider Vercel Hobby Edge Function 4MB memory/payload limits for base64 JSON
+    // Generer Fashion Sketch med GPT-Image-1-Mini
     let illustrationUrl = null;
+    try {
+      const dallePrompt = `Minimalist fashion illustration, elegant continuous line drawing, watercolor hints. NOT photorealistic. A full body sketch of a person with a ${userProfile?.body_shape || 'balanced'} body shape, wearing: ${result.formula.garmentVisualDescription}, and paired with ${result.formula.pairingPieces.join(', ')}. Footwear: ${result.formula.footwearChoice}. Color palette highlights: ${result.formula.colorCombination}. White background, editorial fashion sketch style, highly artistic.`;
+      
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 45000); // 45 sekunders intern timeout
+
+      const dalleResponse = await fetch('https://api.openai.com/v1/images/generations', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${openaiApiKey}`
+        },
+        signal: controller.signal,
+        body: JSON.stringify({
+          model: 'gpt-image-1-mini',
+          prompt: dallePrompt,
+          n: 1,
+          size: '1024x1024'
+        })
+      });
+
+      if (dalleResponse.ok) {
+        const dalleData = await dalleResponse.json();
+        if (dalleData.data && dalleData.data[0].b64_json) {
+          illustrationUrl = 'data:image/png;base64,' + dalleData.data[0].b64_json;
+        } else if (dalleData.data && dalleData.data[0].url) {
+          illustrationUrl = dalleData.data[0].url;
+        }
+        result.illustrationUrl = illustrationUrl;
+      } else {
+        console.error("GPT-Image API Error:", await dalleResponse.text());
+      }
+      clearTimeout(timeoutId);
+    } catch (e) {
+      console.error("Failed to generate image", e);
+    }
 
     // Rule 8: EU AI Act - Data Provenance Logging
     if (userId) {
