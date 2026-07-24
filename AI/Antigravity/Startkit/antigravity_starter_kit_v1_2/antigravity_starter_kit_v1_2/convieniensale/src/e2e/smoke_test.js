@@ -15,12 +15,12 @@ async function runSmokeTest() {
   const routesToTest = [
     '/staff',
     '/signage',
-    '/recipe/rec_dk_1' // En af vores Dagrofa opskrifter
+    '/recipe/rec_fisk_1' // En af vores Dagrofa opskrifter
   ];
 
   for (const route of routesToTest) {
     console.log(`Tester rute: ${route}`);
-    await page.goto(`http://localhost:5173${route}`, { waitUntil: 'networkidle0' });
+    await page.goto(`http://127.0.0.1:5180${route}`, { waitUntil: 'networkidle0' });
     
     // Check for "Opskrift ikke fundet" text som indikator for fejl på route
     const content = await page.content();

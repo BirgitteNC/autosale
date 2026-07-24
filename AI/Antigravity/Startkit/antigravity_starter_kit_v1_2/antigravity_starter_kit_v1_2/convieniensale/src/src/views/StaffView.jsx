@@ -12,7 +12,7 @@ export default function StaffView() {
     showSuccess, isSubmitting, userRole, validateVoksenPin, voksenUnlockUntil,
     handleLogin, handleLogout,
     toggleIngredient, toggleFoodWaste, handleGenerate,
-    handleClearAll
+    handleClearAll, userRoleDesc
   } = useStaffData();
 
   const [searchQuery, setSearchQuery] = useState('');
@@ -29,26 +29,8 @@ export default function StaffView() {
   }, [voksenUnlockUntil]);
 
   const handleVoiceSearch = () => {
-    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    if (!SpeechRecognition) {
-      setToastMessage("Din browser understøtter desværre ikke stemmegenkendelse.");
-      setTimeout(() => setToastMessage(null), 3000);
-      return;
-    }
-
-    const recognition = new SpeechRecognition();
-    recognition.lang = 'da-DK';
-    recognition.interimResults = false;
-    recognition.maxAlternatives = 1;
-
-    recognition.onstart = () => setIsListening(true);
-    recognition.onresult = (event) => {
-      const transcript = event.results[0][0].transcript;
-      setSearchQuery(transcript.replace(/\.$/, ''));
-      setIsListening(false);
-    };
-    recognition.onend = () => setIsListening(false);
-    recognition.start();
+    setToastMessage("Stemmegenkendelse er deaktiveret af sikkerheds- og GDPR-hensyn.");
+    setTimeout(() => setToastMessage(null), 3000);
   };
 
   useEffect(() => {
@@ -143,7 +125,18 @@ export default function StaffView() {
     return acc;
   }, {});
 
-  const categories = Object.keys(groupedIngredients).sort();
+  const categories = Object.keys(groupedIngredients).sort((a, b) => {
+    // Fjern "[Voksen]" eller "[Ungarbejder]" fra rollen for at finde selve afdelingen
+    const desc = (userRoleDesc || '').toLowerCase().replace(/\[.*?\]\s*/, '');
+    
+    // Simpel string matching for at rykke matchende afdelinger i toppen
+    const aMatch = desc && (desc.includes(a.toLowerCase().split(/\s+/)[0]) || a.toLowerCase().includes(desc.split(/\s+/)[0]));
+    const bMatch = desc && (desc.includes(b.toLowerCase().split(/\s+/)[0]) || b.toLowerCase().includes(desc.split(/\s+/)[0]));
+    
+    if (aMatch && !bMatch) return -1;
+    if (!aMatch && bMatch) return 1;
+    return a.localeCompare(b);
+  });
 
   return (
     <div className="animate-fade-in" style={{paddingBottom: '120px', background: 'radial-gradient(circle at top left, #1e293b, #020617)', minHeight: '100vh', color: '#f8fafc', fontFamily: 'Inter, sans-serif'}}>

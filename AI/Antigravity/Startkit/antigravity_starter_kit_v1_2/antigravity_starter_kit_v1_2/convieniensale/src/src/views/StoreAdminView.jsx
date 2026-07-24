@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { supabase } from '../supabaseClient';
-import { Store, Plus, Trash2, ShieldCheck, Loader2 } from 'lucide-react';
+import { Store, Plus, Trash2, ShieldCheck, Loader2, TrendingUp } from 'lucide-react';
 
 export default function StoreAdminView() {
   const [stores, setStores] = useState([]);
@@ -17,13 +17,42 @@ export default function StoreAdminView() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isRegistering, setIsRegistering] = useState(false);
 
+  const fetchStores = async () => {
+    supabase.from('stores').select('id, name').then(({data}) => setStores(data || []));
+  };
+
   useEffect(() => {
-    supabase.from('stores').select('id, name').eq('is_active', true).then(({data}) => setStores(data || []));
+    fetchStores();
   }, []);
 
   const fetchPins = async (storeId) => {
     const { data } = await supabase.from('store_pins').select('*').eq('store_id', storeId);
     if (data) setPins(data);
+  };
+
+  const [topRecipes, setTopRecipes] = useState([]);
+
+  const fetchTopRecipes = async (storeId) => {
+    // Bemærk: Hvis tabellen recipe_scans endnu ikke er oprettet, dør den i stilhed (som planlagt til dashboardet)
+    const { data: scans, error } = await supabase.from('recipe_scans').select('recipe_id').eq('store_id', storeId);
+    if (error || !scans) return;
+    
+    const counts = {};
+    scans.forEach(scan => {
+       counts[scan.recipe_id] = (counts[scan.recipe_id] || 0) + 1;
+    });
+    
+    const topIds = Object.keys(counts).sort((a,b) => counts[b] - counts[a]).slice(0, 5);
+    if (topIds.length === 0) {
+       setTopRecipes([]);
+       return;
+    }
+    
+    const { data: recipesData } = await supabase.from('recipes').select('id, titel, billed_url').in('id', topIds);
+    if (recipesData) {
+       const merged = recipesData.map(r => ({...r, scans: counts[r.id] })).sort((a,b) => b.scans - a.scans);
+       setTopRecipes(merged);
+    }
   };
 
   const handleAuth = async (e) => {
@@ -51,6 +80,7 @@ export default function StoreAdminView() {
           setIsAuthenticated(true);
           setLoggedInStoreId(selectedStore);
           fetchPins(selectedStore);
+          fetchTopRecipes(selectedStore);
         }
       } else {
         const { error } = await supabase.auth.signInWithPassword({ email: storeEmail, password: password });
@@ -60,6 +90,7 @@ export default function StoreAdminView() {
           setIsAuthenticated(true);
           setLoggedInStoreId(selectedStore);
           fetchPins(selectedStore);
+          fetchTopRecipes(selectedStore);
         }
       }
     } catch (err) {
@@ -249,7 +280,38 @@ export default function StoreAdminView() {
            </tbody>
          </table>
          {pins.length === 0 && <div style={{padding: '3rem', textAlign: 'center', color: 'var(--color-text-muted)'}}>Ingen PIN koder oprettet for denne butik endnu.</div>}
-      </div>
+       </div>
+
+       <div style={{background: 'white', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)', padding: '2rem', marginTop: '2rem'}}>
+         <div className="flex items-center gap-3" style={{marginBottom: '1.5rem'}}>
+           <div style={{background: 'rgba(56, 189, 248, 0.1)', padding: '0.75rem', borderRadius: 'var(--radius-md)'}}>
+             <TrendingUp size={24} color="#0284c7" />
+           </div>
+           <div>
+             <h3 style={{margin: 0}}>📊 Analytics / Populært Netop Nu</h3>
+             <p className="text-muted" style={{margin: 0, fontSize: '0.9rem'}}>Mest scannede opskrifter i din butik de sidste 30 dage.</p>
+           </div>
+         </div>
+         
+         {topRecipes.length === 0 ? (
+           <div style={{padding: '3rem', textAlign: 'center', color: 'var(--color-text-muted)', background: '#f8fafc', borderRadius: 'var(--radius-md)'}}>
+             Ingen data endnu. Kunderne skal scannere QR-koden på butiksskærmen, før opskrifterne vises her.
+           </div>
+         ) : (
+           <div style={{display: 'flex', flexDirection: 'column', gap: '1rem'}}>
+             {topRecipes.map((recipe, index) => (
+               <div key={recipe.id} style={{display: 'flex', alignItems: 'center', gap: '1rem', padding: '1rem', background: '#f8fafc', borderRadius: 'var(--radius-md)', border: '1px solid #e2e8f0'}}>
+                 <div style={{fontSize: '1.5rem', fontWeight: 'bold', color: '#94a3b8', width: '30px', textAlign: 'center'}}>#{index + 1}</div>
+                 <img src={recipe.billed_url} alt={recipe.titel} style={{width: '60px', height: '60px', objectFit: 'cover', borderRadius: '8px'}} />
+                 <div style={{flex: 1}}>
+                   <h4 style={{margin: '0 0 0.25rem 0', fontSize: '1.1rem', color: '#0f172a'}}>{recipe.titel}</h4>
+                   <div style={{color: '#64748b', fontSize: '0.9rem'}}>Overført til kundens telefon: <strong style={{color: '#0284c7'}}>{recipe.scans} gange</strong></div>
+                 </div>
+               </div>
+             ))}
+           </div>
+         )}
+       </div>
     </div>
   );
 }

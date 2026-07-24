@@ -12,6 +12,7 @@ export function useStaffData() {
   const [selectedLoginStore, setSelectedLoginStore] = useState('');
   const [availableStores, setAvailableStores] = useState([]);
   const [userRole, setUserRole] = useState(localStorage.getItem('staff_user_role') || 'Voksen');
+  const [userRoleDesc, setUserRoleDesc] = useState(localStorage.getItem('staff_role_desc') || '');
   const [voksenUnlockUntil, setVoksenUnlockUntil] = useState(parseInt(localStorage.getItem('staff_voksen_unlock') || '0', 10));
   const [pinError, setPinError] = useState(false);
   
@@ -24,13 +25,19 @@ export function useStaffData() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleLogout = () => {
-    localStorage.removeItem('staff_store_id');
-    localStorage.removeItem('staff_store_pin');
-    localStorage.removeItem('staff_user_role');
-    localStorage.removeItem('staff_voksen_unlock');
-    localStorage.removeItem('staff_login_time');
+    try {
+      localStorage.removeItem('staff_store_id');
+      localStorage.removeItem('staff_store_pin');
+      localStorage.removeItem('staff_user_role');
+      localStorage.removeItem('staff_role_desc');
+      localStorage.removeItem('staff_voksen_unlock');
+      localStorage.removeItem('staff_login_time');
+    } catch(e) {
+      console.warn('localStorage er blokeret under logout', e);
+    }
     setStoreId(null);
     setUserRole('Voksen');
+    setUserRoleDesc('');
     setVoksenUnlockUntil(0);
     setSelectedIds([]);
     setFoodWasteIds([]);
@@ -39,7 +46,7 @@ export function useStaffData() {
   // Hent butikker til login skærmen
   useEffect(() => {
     if (!storeId) {
-      supabase.from('stores').select('id, name').eq('is_active', true).then(({data}) => {
+      supabase.from('stores').select('id, name').then(({data}) => {
         if(data) setAvailableStores(data);
       });
     }
@@ -65,7 +72,7 @@ export function useStaffData() {
     if (isAuthenticated) {
       supabase.from('ingredients').select('*').eq('standard_vare', false).then(({data: ingData}) => {
         if(ingData) {
-          supabase.from('recipes').select('ingredienser').then(({data: recData}) => {
+          supabase.from('recipes').select('ingredienser').neq('beskrivelse', 'Importeret fra Meny').then(({data: recData}) => {
             const counts = {};
             ingData.forEach(i => counts[i.id] = 0);
             if(recData) {
@@ -112,30 +119,49 @@ export function useStaffData() {
         supabase.removeChannel(channel);
       };
     }
-  }, [isAuthenticated, storeId, isSubmitting]);
+  }, [isAuthenticated, storeId]);
 
   const handleLogin = async (e) => {
     e.preventDefault();
     if (isSubmitting) return;
+    if (!navigator.onLine) {
+       window.dispatchEvent(new CustomEvent('staff-toast', { detail: 'Ingen internetforbindelse - prøv igen.' }));
+       return;
+    }
     if (!selectedLoginStore) {
        setPinError(true);
        return;
     }
     setIsSubmitting(true);
-    const { data, error } = await supabase.from('store_pins').select('store_id, description').eq('store_id', selectedLoginStore).eq('pin_code', pin).single();
     
-    if (data && !error) {
+    const trimmedPin = pin.trim();
+
+    // SIKKERT RPC KALD: I stedet for at læse hele tabellen (som nu er blokeret af RLS),
+    // beder vi databasen om blindt at verificere koden for os.
+    const { data, error } = await supabase.rpc('verify_staff_pin', {
+      p_store_id: selectedLoginStore,
+      p_pin_code: trimmedPin
+    });
+    
+    // RPC returnerer en array med 1 objekt: [{ is_valid: true/false, role_description: '...' }]
+    const result = data && data.length > 0 ? data[0] : null;
+
+    if (result && result.is_valid && !error) {
       let role = 'Voksen';
-      if (data.description && data.description.startsWith('[Ungarbejder]')) {
+      if (result.role_description && result.role_description.startsWith('[Ungarbejder]')) {
         role = 'Ungarbejder';
       }
       
-      localStorage.setItem('staff_store_id', data.store_id);
-      localStorage.setItem('staff_store_pin', pin);
-      localStorage.setItem('staff_user_role', role);
-      localStorage.setItem('staff_login_time', Date.now().toString());
-      setStoreId(data.store_id);
+      try {
+        localStorage.setItem('staff_store_id', selectedLoginStore);
+        localStorage.setItem('staff_store_pin', 'hashed_or_hidden'); // Sikkerhed: Vi gemmer ikke raw pin længere
+        localStorage.setItem('staff_user_role', role);
+        localStorage.setItem('staff_role_desc', result.role_description || '');
+        localStorage.setItem('staff_login_time', Date.now().toString());
+      } catch(e) {}
+      setStoreId(selectedLoginStore);
       setUserRole(role);
+      setUserRoleDesc(result.role_description || '');
       setPinError(false);
     } else {
       setPinError(true);
@@ -162,6 +188,10 @@ export function useStaffData() {
       if (prev.includes(id)) {
         return prev.filter(i => i !== id);
       } else {
+        if (selectedIds.length >= 6 && !selectedIds.includes(id)) {
+          window.dispatchEvent(new CustomEvent('staff-toast', { detail: 'Du kan maksimalt vælge 6 varer ad gangen.' }));
+          return prev;
+        }
         setSelectedIds(sel => sel.includes(id) ? sel : [...sel, id]);
         return [...prev, id];
       }
@@ -169,12 +199,24 @@ export function useStaffData() {
   };
 
   const validateVoksenPin = async (pinToCheck) => {
-    const { data, error } = await supabase.from('store_pins').select('description').eq('store_id', storeId).eq('pin_code', pinToCheck).single();
-    if (data && !error) {
-      if (data.description && data.description.startsWith('[Ungarbejder]')) return false;
+    if (!navigator.onLine) {
+       window.dispatchEvent(new CustomEvent('staff-toast', { detail: 'Ingen internetforbindelse - prøv igen.' }));
+       return false;
+    }
+    const { data, error } = await supabase.rpc('verify_staff_pin', {
+      p_store_id: storeId,
+      p_pin_code: pinToCheck
+    });
+    
+    const result = data && data.length > 0 ? data[0] : null;
+
+    if (result && result.is_valid && !error) {
+      if (result.role_description && result.role_description.startsWith('[Ungarbejder]')) return false;
       // Godkendt voksen. Lås op i 10 minutter!
       const unlockTime = Date.now() + 10 * 60 * 1000;
-      localStorage.setItem('staff_voksen_unlock', unlockTime.toString());
+      try {
+        localStorage.setItem('staff_voksen_unlock', unlockTime.toString());
+      } catch(e) {}
       setVoksenUnlockUntil(unlockTime);
       return true;
     }
@@ -183,6 +225,10 @@ export function useStaffData() {
 
   const handleGenerate = async (overridePin = null) => {
     if (!storeId || isSubmitting) return;
+    if (!navigator.onLine) {
+       window.dispatchEvent(new CustomEvent('staff-toast', { detail: 'Ingen internetforbindelse - prøv igen.' }));
+       return;
+    }
 
     // DROGON PROTOCOL HARD LOCK: Nådesløs Validering
     const validSelectedIds = selectedIds.filter(id => (recipeCounts[id] || 0) > 0);
@@ -203,6 +249,35 @@ export function useStaffData() {
 
     setIsSubmitting(true);
     
+    // VALIDERING AF BUNDT (Undgå at systemet viser fuldstændig irrelevante opskrifter)
+    if (validSelectedIds.length > 1) {
+        const { data: allRecipes } = await supabase.from('recipes').select('ingredienser').neq('beskrivelse', 'Importeret fra Meny');
+        let maxMatch = 0;
+        if (allRecipes) {
+            allRecipes.forEach(recipe => {
+                const recipeIngs = recipe.ingredienser || [];
+                let matchCount = 0;
+                recipeIngs.forEach(ri => {
+                    if (validSelectedIds.includes(ri.raavare_id)) matchCount++;
+                });
+                if (matchCount > maxMatch) maxMatch = matchCount;
+            });
+        }
+        
+        // Demo-tilpasning: Hvis man kun vælger 2 varer, kræver vi kun at mindst én af dem findes i opskriften, 
+        // for at undgå at demoen blokerer og viser "Stop Madspild" skærmen ved uskyldige kombinationer.
+        // Hvis man har valgt 3 varer, forventer vi mindst 2 findes sammen, og ved 4+ varer mindst 3.
+        const requiredMatches = validSelectedIds.length <= 2 ? 1 : (validSelectedIds.length === 3 ? 2 : 3);
+        
+        if (maxMatch < requiredMatches) {
+            window.dispatchEvent(new CustomEvent('staff-toast', { 
+               detail: `Systemet kender ikke en opskrift, der samler nok af de valgte varer. Prøv en anden kombination.` 
+            }));
+            setIsSubmitting(false);
+            return;
+        }
+    }
+
     const savedPin = overridePin || localStorage.getItem('staff_store_pin') || pin;
     try {
        const { error } = await supabase.rpc('update_store_promotions', {
@@ -212,8 +287,13 @@ export function useStaffData() {
          p_food_waste_ids: validFoodWasteIds
        });
        
-       if (error) throw new Error("Sikkerhedsfejl eller forkert PIN");
-       setShowSuccess(true);
+       if (error) {
+      console.error('Generering fejlede:', error);
+      window.dispatchEvent(new CustomEvent('staff-toast', { detail: `DB Fejl: ${error.message || 'Ukendt fejl'}` }));
+      setIsSubmitting(false);
+      return;
+    }
+      setShowSuccess(true);
     } catch(err) {
        console.error("Fejl ved opdatering:", err);
        window.dispatchEvent(new CustomEvent('staff-toast', { detail: "Sikkerhedsfejl: Kunne ikke opdatere tilbud." }));
@@ -279,6 +359,7 @@ export function useStaffData() {
     handleLogin, handleLogout,
     toggleIngredient, toggleFoodWaste, handleGenerate, validateVoksenPin,
     handleClearAll,
-    handleAddIngredient
+    handleAddIngredient,
+    userRoleDesc
   };
 }

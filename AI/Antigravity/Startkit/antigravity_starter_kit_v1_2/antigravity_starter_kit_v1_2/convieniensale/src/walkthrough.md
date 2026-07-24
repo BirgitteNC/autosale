@@ -78,3 +78,19 @@ Vi har re-defineret hele forretningsmodellen baseret på chefens knivskarpe anal
 
 ### 4. Hands-Off SAP Arkitektur
 Vi har lagt strategien for IT-integration. Vi rører aldrig ved Dagrofas sensitive POS/Lager data. I stedet bygger vi en passiv **REST Webhook (Brevsprække)**, hvor deres SAP-system frivilligt og sikkert kan skubbe varer op på skærmen uden nogen data-risiko.
+
+---
+
+## 🔒 Fase 3: Enterprise Security & Auth (Zero Trust)
+
+For at gøre projektet klar til M&A (Mergers & Acquisitions) og Enterprise-skalering, har vi lukket alle P0 sikkerhedshuller og implementeret ægte Supabase sikkerhed.
+
+### 1. Hardcodede Passwords er Migreret
+Vi har fuldstændig fjernet den "falske" client-side godkendelse fra The Boardroom (`SuperAdminView`) og Butikschefens panel (`StoreAdminView`). Begge bruger nu indbygget **Supabase Auth** med krypterede adgangskoder.
+
+### 2. "Blind Verification" af Medarbejder-PINs (RLS)
+Tidligere lå de 4-cifrede PIN-koder, som medarbejderne bruger nede i butikken, åbent fremme i databasen til potentiel læsning fra frontend'en. 
+Vi har nu indført **Zero Trust**:
+- **Row Level Security (RLS)** blokerer alt eksternt indkig i PIN-tabellen.
+- Frontend'en anvender i stedet en sikker **RPC (`verify_staff_pin`)**, som kører direkte på serveren (`SECURITY DEFINER`). RPC'en returnerer udelukkende `TRUE` eller `FALSE` (og rollen) uden at eksponere koden.
+- Vi har dokumenteret og bevist sikkerheden via et dedikeret Node.js QA-script (`team_qa_verify_auth.js`), der fejler enhver udefrakommende indtrængen!

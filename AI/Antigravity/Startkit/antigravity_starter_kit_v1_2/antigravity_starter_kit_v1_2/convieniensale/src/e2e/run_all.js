@@ -28,11 +28,11 @@ async function runTest(file) {
 async function runAll() {
   console.log("Starter lokal udviklingsserver til test...");
   
-  // Start Vite i baggrunden
-  const server = spawn('npm', ['run', 'dev'], { stdio: 'ignore', shell: true });
+  // Start Vite i baggrunden på en specifik port og host
+  const server = spawn('npx', ['vite', '--port', '5180', '--strictPort', '--host', '127.0.0.1'], { stdio: 'ignore', shell: true });
 
   // Vent på at serveren svarer
-  const isUp = await waitForServer('http://localhost:5173');
+  const isUp = await waitForServer('http://127.0.0.1:5180');
   if (!isUp) {
     console.error("Fejl: Kunne ikke starte den lokale server.");
     server.kill();
@@ -41,19 +41,31 @@ async function runAll() {
 
   console.log("Server kører. Starter test suite...");
 
-  try {
-    await runTest('scripts/audit_database.js');
-    await runTest('e2e/smoke_test.js');
-    await runTest('e2e/comprehension_test.js');
-    console.log("\n✅ ALLE TESTS BESTÅET! Systemet er stabilt og klar til deploy.");
-    server.kill();
-    process.exit(0);
-  } catch (err) {
-    console.error("\n❌ TESTS FEJLEDE:", err.message);
-    console.error("Vercel Deployment Blokeret af Nørde-Niels!");
-    server.kill();
-    process.exit(1);
+  let totalErrors = 0;
+
+  const tests = [
+    'scripts/team_qa_verify_full_system.cjs',
+    'e2e/smoke_test.js',
+    'e2e/comprehension_test.js'
+  ];
+
+  for (const test of tests) {
+    try {
+      await runTest(test);
+    } catch (err) {
+      console.error(`\n❌ TEST FEJLEDE: ${test} - ${err.message}`);
+      totalErrors++;
+    }
   }
+
+  if (totalErrors === 0) {
+    console.log("\n✅ ALLE TESTS BESTÅET! Systemet er stabilt og klar til deploy.");
+  } else {
+    console.error(`\n❌ E2E SUITE FEJLEDE: ${totalErrors} tests fejlede.`);
+  }
+
+  server.kill();
+  process.exit(totalErrors > 0 ? 1 : 0);
 }
 
 runAll();

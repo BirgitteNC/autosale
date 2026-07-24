@@ -13,6 +13,15 @@ export default function CustomerMobileView() {
   const [loading, setLoading] = useState(true);
   
   const [checkedItems, setCheckedItems] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    const checkedQuery = params.get('checked');
+    if (checkedQuery) {
+      const keys = checkedQuery.split(',');
+      const obj = {};
+      keys.forEach(k => obj[k] = true);
+      return obj;
+    }
+    // Bagudkompatibilitet for eksisterende brugere
     try {
       const saved = localStorage.getItem(`recipe_checks_${id}`);
       return saved ? JSON.parse(saved) : {};
@@ -22,17 +31,32 @@ export default function CustomerMobileView() {
   });
 
   useEffect(() => {
-    localStorage.setItem(`recipe_checks_${id}`, JSON.stringify(checkedItems));
+    // Gem i localStorage som backup
+    try {
+      localStorage.setItem(`recipe_checks_${id}`, JSON.stringify(checkedItems));
+    } catch(e) {}
+    
+    // Opdater URL lydløst (replaceState) for at muliggøre "Share Link" til familien
+    const activeKeys = Object.keys(checkedItems).filter(k => checkedItems[k]);
+    const params = new URLSearchParams(window.location.search);
+    if (activeKeys.length > 0) {
+      params.set('checked', activeKeys.join(','));
+    } else {
+      params.delete('checked');
+    }
+    const newUrl = `${window.location.pathname}${params.toString() ? '?' + params.toString() : ''}`;
+    window.history.replaceState(null, '', newUrl);
   }, [checkedItems, id]);
   const [allergyFilter, setAllergyFilter] = useState('none');
   const [targetServings, setTargetServings] = useState(2);
 
   useEffect(() => {
-    // 1. WAKELOCK: Hold skærmen tændt mens kunden er i køkkenet!
     let wakeLock = null;
+    let isMounted = true;
+    
     const requestWakeLock = async () => {
       try {
-        if ('wakeLock' in navigator) {
+        if ('wakeLock' in navigator && isMounted) {
           wakeLock = await navigator.wakeLock.request('screen');
         }
       } catch (err) {
@@ -42,14 +66,15 @@ export default function CustomerMobileView() {
     requestWakeLock();
 
     return () => {
+      isMounted = false;
       if (wakeLock !== null) wakeLock.release().catch(console.error);
     };
   }, []);
 
   useEffect(() => {
     const fetchData = async () => {
-      // Hent opskriften
-      const { data: recipeData } = await supabase.from('recipes').select('*').eq('id', id).single();
+      // Hent opskriften sikkert med maybeSingle
+      const { data: recipeData } = await supabase.from('recipes').select('*').eq('id', id).maybeSingle();
       
       if (recipeData) {
         setRecipe(recipeData);
@@ -62,10 +87,21 @@ export default function CustomerMobileView() {
               setAllIngredients(ingData);
            }
         }
+        
+        // ANALYTICS: Anonym registrering af scan
+        if (storeId) {
+          // Vi fyrer den af i baggrunden uden at vente eller blokere
+          supabase.from('recipe_scans').insert([{ 
+            store_id: storeId, 
+            recipe_id: recipeData.id 
+          }]).then(({error}) => {
+             if (error) console.warn("Analytics: Kunne ikke registrere scan (Måske mangler tabellen endnu?)", error);
+          });
+        }
       }
 
       // Hent aktuelle madspildsvarer for den specifikke butik (dynamisk!)
-      const { data: promoData } = await supabase.from('active_promotions').select('food_waste_ingredients').eq('store_id', storeId).single();
+      const { data: promoData } = await supabase.from('active_promotions').select('food_waste_ingredients').eq('store_id', storeId).maybeSingle();
       if (promoData && recipeData) {
          const promoIngs = promoData.food_waste_ingredients || [];
          const matchCount = (recipeData.ingredienser || []).filter(ing => promoIngs.includes(ing.raavare_id)).length;
@@ -100,13 +136,16 @@ export default function CustomerMobileView() {
   };
 
   const formatIngredient = (ingred, factor) => {
-    // 1. Har vi en præcis 'amount' i databasen fra ETL pipelinen?
-    if (ingred.amount !== null && ingred.amount !== undefined) {
-       const scaled = ingred.amount * factor;
+    // 1. Har vi en præcis 'amount' eller 'mængde' i databasen?
+    // Brug unicode escape for 'æ' (\u00E6) for at undgå encoding fejl
+    const val = ingred.amount !== undefined ? ingred.amount : ingred['m\u00E6ngde'];
+    const unitStr = ingred.unit || ingred.enhed || '';
+    
+    if (val !== null && val !== undefined && !isNaN(val)) {
+       const scaled = Number(val) * factor;
        // Fjerner unødige nul-decimaler og bruger dansk komma
        const formattedAmount = parseFloat(scaled.toFixed(2)).toString().replace('.', ',');
-       const unitStr = ingred.unit ? ` ${ingred.unit}` : '';
-       return `${formattedAmount}${unitStr}`;
+       return `${formattedAmount} ${unitStr}`.trim();
     }
     
     // 2. Fallback til teksten "Efter behov", "Tilpasset mængde" etc.
@@ -115,7 +154,16 @@ export default function CustomerMobileView() {
 
   const getIngredientInfo = (ingred) => {
     let dbItem = allIngredients.find(i => i.id === ingred.raavare_id);
-    if (!dbItem) return null;
+    
+    if (!dbItem) {
+      return {
+        id: 'unmapped_' + Math.random().toString(36),
+        navn: ingred.text || 'Ukendt',
+        kategori: 'Øvrigt',
+        maengde: '', // Selve navnet indeholder mængden for unmapped, f.eks. "4 ark filodej"
+        allergener: []
+      };
+    }
 
     if (allergyFilter === 'gluten' && dbItem.allergener.includes('gluten') && dbItem.alternativ_id) {
         dbItem = allIngredients.find(i => i.id === dbItem.alternativ_id) || dbItem;
@@ -125,7 +173,25 @@ export default function CustomerMobileView() {
     }
 
     const factor = targetServings / (recipe.portioner || 2);
-    return { ...dbItem, maengde: formatIngredient(ingred, factor) };
+    let mappedNavn = dbItem.navn;
+    let formattedAmount = formatIngredient(ingred, factor);
+
+    // Speciel skaleringsregel for "hel kylling" som ønsket af brugeren
+    if (ingred.raavare_id === 'ing_hel_kylling') {
+      const baseGram = 1250;
+      const scaledGram = baseGram * factor;
+      
+      let fraction = factor.toString();
+      if (factor === 1) fraction = "1/1";
+      else if (factor === 0.5) fraction = "1/2";
+      else if (factor === 0.25) fraction = "1/4";
+      else if (factor === 1.5) fraction = "1 1/2";
+      
+      mappedNavn = `${fraction} kylling ca. ${scaledGram} gram`;
+      formattedAmount = ""; // Fjern standard mængde for at undgå "0,5 stk 1/2 kylling..."
+    }
+
+    return { ...dbItem, navn: mappedNavn, maengde: formattedAmount };
   };
 
   const ingredientList = recipe?.ingredienser?.map(getIngredientInfo).filter(Boolean) || [];
@@ -204,8 +270,28 @@ export default function CustomerMobileView() {
         </div>
 
         <div style={{marginBottom: '3rem'}}>
-           <div className="flex items-center justify-between" style={{marginBottom: '1rem'}}>
-              <h3 style={{fontSize: '1.25rem', margin: 0}}>Indkøbsliste</h3>
+           <div className="flex items-center justify-between flex-wrap gap-2" style={{marginBottom: '1rem'}}>
+              <h3 style={{fontSize: '1.25rem', margin: 0, display: 'flex', alignItems: 'center', gap: '0.5rem'}}>
+                Indkøbsliste
+                <button 
+                  onClick={() => {
+                    if (navigator.share) {
+                      navigator.share({
+                        title: 'Min Indkøbsliste',
+                        text: `Indkøbsliste til ${recipe.titel}`,
+                        url: window.location.href,
+                      }).catch(console.error);
+                    } else {
+                      navigator.clipboard.writeText(window.location.href);
+                      alert('Link kopieret! Du kan nu sende det til familien.');
+                    }
+                  }}
+                  style={{background: 'none', border: 'none', color: 'var(--color-primary)', cursor: 'pointer', display: 'flex', alignItems: 'center'}}
+                  title="Del med familien"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
+                </button>
+              </h3>
               <span style={{background: 'var(--color-primary)', color: 'white', padding: '0.25rem 0.75rem', borderRadius: '16px', fontSize: '0.875rem', fontWeight: 'bold'}}>
                 Beregnet til {targetServings} personer
               </span>

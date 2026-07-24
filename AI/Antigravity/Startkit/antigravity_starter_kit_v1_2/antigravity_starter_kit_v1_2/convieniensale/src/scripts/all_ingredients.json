@@ -1,0 +1,6801 @@
+[
+  {
+    "id": "ing_extra_12",
+    "eksternt_varenummer": null,
+    "navn": "Ingefær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_2",
+    "eksternt_varenummer": null,
+    "navn": "Agurk",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_svinemoerbrad",
+    "eksternt_varenummer": null,
+    "navn": "Svinemørbrad",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_quinoa",
+    "eksternt_varenummer": null,
+    "navn": "Quinoa",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_laktosefri_floede",
+    "eksternt_varenummer": null,
+    "navn": "Laktosefri Fløde",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_glutenfri_pasta",
+    "eksternt_varenummer": null,
+    "navn": "Glutenfri Pasta",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_extra_4",
+    "eksternt_varenummer": null,
+    "navn": "Gulerødder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_5",
+    "eksternt_varenummer": null,
+    "navn": "Porrer",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_1",
+    "eksternt_varenummer": null,
+    "navn": "Tomater (Danske)",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_7",
+    "eksternt_varenummer": null,
+    "navn": "Bananer",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_9",
+    "eksternt_varenummer": null,
+    "navn": "Spinat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_14",
+    "eksternt_varenummer": null,
+    "navn": "Flæskesteg",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_28",
+    "eksternt_varenummer": null,
+    "navn": "Sorte Bønner",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_16",
+    "eksternt_varenummer": null,
+    "navn": "Roastbeef",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_hakket_gris",
+    "eksternt_varenummer": null,
+    "navn": "Grisekød",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_extra_29",
+    "eksternt_varenummer": null,
+    "navn": "Hvedemel",
+    "kategori": "Bagning",
+    "standard_vare": true,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_pasta",
+    "eksternt_varenummer": null,
+    "navn": "Pasta",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": "ing_glutenfri_pasta",
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_kokosmaelk",
+    "eksternt_varenummer": null,
+    "navn": "Kokosmælk",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_extra_18",
+    "eksternt_varenummer": null,
+    "navn": "Medister",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_bacon",
+    "eksternt_varenummer": null,
+    "navn": "Bacon",
+    "kategori": "Køl",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_extra_37",
+    "eksternt_varenummer": null,
+    "navn": "Rundstykker",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_39",
+    "eksternt_varenummer": null,
+    "navn": "Rødvin (Italiensk)",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_40",
+    "eksternt_varenummer": null,
+    "navn": "Hvidvin",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_41",
+    "eksternt_varenummer": null,
+    "navn": "Rosé",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_kyllingebryst",
+    "eksternt_varenummer": null,
+    "navn": "Kyllingebryst",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_extra_20",
+    "eksternt_varenummer": null,
+    "navn": "oksekød (8-14%)",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_42",
+    "eksternt_varenummer": null,
+    "navn": "Pilsner Øl",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_30",
+    "eksternt_varenummer": null,
+    "navn": "Sukker",
+    "kategori": "Bagning",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_hakket_okse",
+    "eksternt_varenummer": null,
+    "navn": "Oksekød",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_extra_46",
+    "eksternt_varenummer": null,
+    "navn": "Oregano",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_kanel",
+    "eksternt_varenummer": null,
+    "navn": "Stødt Kanel",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:49:46.57987+00:00"
+  },
+  {
+    "id": "ing_spidskommen",
+    "eksternt_varenummer": null,
+    "navn": "Spidskommen",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_hvidkaal",
+    "eksternt_varenummer": null,
+    "navn": "Hvidkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_champignon",
+    "eksternt_varenummer": null,
+    "navn": "Champignon",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_bagepulver",
+    "eksternt_varenummer": null,
+    "navn": "Bagepulver",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:49:46.57987+00:00"
+  },
+  {
+    "id": "ing_laks",
+    "eksternt_varenummer": null,
+    "navn": "Fersk Laks",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [
+      "fisk"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_mozzarella",
+    "eksternt_varenummer": null,
+    "navn": "Mozzarella",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [
+      "laktose"
+    ],
+    "alternativ_id": "ing_laktosefri_ost",
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_parmesan",
+    "eksternt_varenummer": null,
+    "navn": "parmesan",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [
+      "laktose"
+    ],
+    "alternativ_id": "ing_laktosefri_ost",
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_peberfrugt",
+    "eksternt_varenummer": null,
+    "navn": "Peberfrugt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_aeble",
+    "eksternt_varenummer": null,
+    "navn": "Æble",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_lammekoelle",
+    "eksternt_varenummer": null,
+    "navn": "Lammekølle (ca. 1,5 kg)",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:18:55.049067+00:00"
+  },
+  {
+    "id": "ing_meny_auto_187",
+    "eksternt_varenummer": null,
+    "navn": "laurbærblade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_188",
+    "eksternt_varenummer": null,
+    "navn": "timianblad",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_extra_3",
+    "eksternt_varenummer": null,
+    "navn": "Kartofler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_ris",
+    "eksternt_varenummer": null,
+    "navn": "Ris",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_karry",
+    "eksternt_varenummer": null,
+    "navn": "Karrypulver",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_bouillon",
+    "eksternt_varenummer": null,
+    "navn": "Bouillon",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_taertedej",
+    "eksternt_varenummer": null,
+    "navn": "Tærtedej",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_extra_8",
+    "eksternt_varenummer": null,
+    "navn": "Iceberg Salat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_meny_auto_189",
+    "eksternt_varenummer": null,
+    "navn": "koncentreret kalvefond",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_extra_13",
+    "eksternt_varenummer": null,
+    "navn": "Svinekoteletter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_15",
+    "eksternt_varenummer": null,
+    "navn": "Kalv og Flæsk",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_17",
+    "eksternt_varenummer": null,
+    "navn": "Skinketern",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_19",
+    "eksternt_varenummer": null,
+    "navn": "Kyllingeunderlår",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_21",
+    "eksternt_varenummer": null,
+    "navn": "Torskefileter",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [
+      "fisk"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_22",
+    "eksternt_varenummer": null,
+    "navn": "Rødspætte",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [
+      "fisk"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_23",
+    "eksternt_varenummer": null,
+    "navn": "Fiskefars",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [
+      "fisk"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_24",
+    "eksternt_varenummer": null,
+    "navn": "Rejer i lage",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [
+      "skaldyr"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_meny_auto_185",
+    "eksternt_varenummer": null,
+    "navn": "skalotteløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_extra_31",
+    "eksternt_varenummer": null,
+    "navn": "Olivenolie",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_32",
+    "eksternt_varenummer": null,
+    "navn": "Ketchup",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_33",
+    "eksternt_varenummer": null,
+    "navn": "Havregryn",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_34",
+    "eksternt_varenummer": null,
+    "navn": "Mørkt Rugbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_35",
+    "eksternt_varenummer": null,
+    "navn": "Solsikkerugbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_36",
+    "eksternt_varenummer": null,
+    "navn": "Franskbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_38",
+    "eksternt_varenummer": null,
+    "navn": "Kanelsnegle",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [
+      "gluten",
+      "laktose"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_43",
+    "eksternt_varenummer": null,
+    "navn": "Salt",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_44",
+    "eksternt_varenummer": null,
+    "navn": "Sort Peber",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_45",
+    "eksternt_varenummer": null,
+    "navn": "Paprika",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_extra_47",
+    "eksternt_varenummer": null,
+    "navn": "Basilikum (Tørret)",
+    "kategori": "Grønt",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_laktosefri_ost",
+    "eksternt_varenummer": null,
+    "navn": "Laktosefri Ost",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:00:44.001157+00:00"
+  },
+  {
+    "id": "ing_maelk",
+    "eksternt_varenummer": null,
+    "navn": "Mælk",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [
+      "laktose"
+    ],
+    "alternativ_id": "ing_laktosefri_floede",
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_rød_karry",
+    "eksternt_varenummer": null,
+    "navn": "Rød Karrypasta",
+    "kategori": "Krydderier",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_kikærter",
+    "eksternt_varenummer": null,
+    "navn": "Kikærter på dåse",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_tortillas",
+    "eksternt_varenummer": null,
+    "navn": "Tortillas",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": "ing_glutenfri_tortillas",
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_glutenfri_tortillas",
+    "eksternt_varenummer": null,
+    "navn": "Glutenfri Tortillas",
+    "kategori": "Kolonial",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_rosmarin",
+    "eksternt_varenummer": null,
+    "navn": "Rosmarin",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:18:55.049067+00:00"
+  },
+  {
+    "id": "ing_tomatsovs",
+    "eksternt_varenummer": null,
+    "navn": "Hakkede Tomater",
+    "kategori": "Grønt",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_aubergine",
+    "eksternt_varenummer": null,
+    "navn": "Aubergine",
+    "kategori": "Grønt",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_squash",
+    "eksternt_varenummer": null,
+    "navn": "Squash",
+    "kategori": "Grønt",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_floede",
+    "eksternt_varenummer": null,
+    "navn": "Madlavningsfløde",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:18:55.049067+00:00"
+  },
+  {
+    "id": "ing_pancetta",
+    "eksternt_varenummer": null,
+    "navn": "Pancetta / Bacon",
+    "kategori": "Køl",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_aeg",
+    "eksternt_varenummer": null,
+    "navn": "Æg",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [
+      "æg"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_cheddar",
+    "eksternt_varenummer": null,
+    "navn": "Cheddarost",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [
+      "laktose"
+    ],
+    "alternativ_id": "ing_laktosefri_ost",
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_mork_chokolade",
+    "eksternt_varenummer": null,
+    "navn": "Mørk Chokolade",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:49:46.57987+00:00"
+  },
+  {
+    "id": "ing_ahornsirup",
+    "eksternt_varenummer": null,
+    "navn": "Ahornsirup",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:49:46.57987+00:00"
+  },
+  {
+    "id": "ing_vanilje",
+    "eksternt_varenummer": null,
+    "navn": "Vaniljesukker",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:49:46.57987+00:00"
+  },
+  {
+    "id": "ing_hasselnoedder",
+    "eksternt_varenummer": null,
+    "navn": "Hasselnødder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:53:53.668376+00:00"
+  },
+  {
+    "id": "ing_rugbroedschips",
+    "eksternt_varenummer": null,
+    "navn": "Rugbrødschips",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:53:53.668376+00:00"
+  },
+  {
+    "id": "ing_meny_auto_4",
+    "eksternt_varenummer": null,
+    "navn": "rødvin",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_skinke",
+    "eksternt_varenummer": null,
+    "navn": "Skinke",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-19T05:59:26.214406+00:00"
+  },
+  {
+    "id": "ing_flutes",
+    "eksternt_varenummer": null,
+    "navn": "Friskbagt Flutes",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-06-19T05:59:26.121811+00:00"
+  },
+  {
+    "id": "ing_meny_auto_27",
+    "eksternt_varenummer": null,
+    "navn": "yoghurt 10% 10%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_auto_gkdp72lg2",
+    "eksternt_varenummer": null,
+    "navn": "Bladsselleri",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_23",
+    "eksternt_varenummer": null,
+    "navn": "gedeoste",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_37",
+    "eksternt_varenummer": null,
+    "navn": "hvid balsamicoeddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_48",
+    "eksternt_varenummer": null,
+    "navn": "grøntsagsbouillon",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_pølser",
+    "eksternt_varenummer": null,
+    "navn": "Gode Brunchpølser",
+    "kategori": "Slagter",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_avocado",
+    "eksternt_varenummer": null,
+    "navn": "Avocado",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-11T12:45:35.435308+00:00"
+  },
+  {
+    "id": "ing_broccoli",
+    "eksternt_varenummer": null,
+    "navn": "Broccoli",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:53:53.668376+00:00"
+  },
+  {
+    "id": "ing_auto_94n4m8ktk",
+    "eksternt_varenummer": null,
+    "navn": "Mozarella ost (revet)",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_14",
+    "eksternt_varenummer": null,
+    "navn": "dild",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_49",
+    "eksternt_varenummer": null,
+    "navn": "grønkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_19",
+    "eksternt_varenummer": null,
+    "navn": "torpedo rejer",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_44",
+    "eksternt_varenummer": null,
+    "navn": "sort bønne",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_55",
+    "eksternt_varenummer": null,
+    "navn": "græsk inspireret yoghurt 10%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_51",
+    "eksternt_varenummer": null,
+    "navn": "kikærter",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_62",
+    "eksternt_varenummer": null,
+    "navn": "hovedsalat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_24",
+    "eksternt_varenummer": null,
+    "navn": "purløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_56",
+    "eksternt_varenummer": null,
+    "navn": "mynte",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_auto_xxiz80we8",
+    "eksternt_varenummer": null,
+    "navn": "Kalvebov",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1",
+    "eksternt_varenummer": null,
+    "navn": "bacontern",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_5",
+    "eksternt_varenummer": null,
+    "navn": "laksefileter",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_auto_k4gu1faa8",
+    "eksternt_varenummer": null,
+    "navn": "Rødløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_9",
+    "eksternt_varenummer": null,
+    "navn": "mozzarellaost",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_12",
+    "eksternt_varenummer": null,
+    "navn": "røde og gule cherrytomater",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_16",
+    "eksternt_varenummer": null,
+    "navn": "kalamataoliven",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_auto_rn70kastk",
+    "eksternt_varenummer": null,
+    "navn": "Timian",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_17",
+    "eksternt_varenummer": null,
+    "navn": "citronsaft",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_citron",
+    "eksternt_varenummer": null,
+    "navn": "Citron",
+    "kategori": "Grønt",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_meny_auto_20",
+    "eksternt_varenummer": null,
+    "navn": "limesaft",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_linser",
+    "eksternt_varenummer": null,
+    "navn": "Røde Linser",
+    "kategori": "Grønt",
+    "standard_vare": true,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_burgerboller",
+    "eksternt_varenummer": null,
+    "navn": "Burgerboller",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-02T05:28:33.718433+00:00"
+  },
+  {
+    "id": "ing_salat_mix",
+    "eksternt_varenummer": null,
+    "navn": "Blandet salat",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-02T05:28:33.718433+00:00"
+  },
+  {
+    "id": "ing_salatblanding",
+    "eksternt_varenummer": null,
+    "navn": "Skåret Salatblanding",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-11T12:45:35.435308+00:00"
+  },
+  {
+    "id": "ing_cremefraiche",
+    "eksternt_varenummer": null,
+    "navn": "Creme Fraiche",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-11T12:45:35.435308+00:00"
+  },
+  {
+    "id": "ing_hakket_gris_kalv",
+    "eksternt_varenummer": null,
+    "navn": "Gris & Kalv",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-11T12:53:38.252325+00:00"
+  },
+  {
+    "id": "ing_meny_auto_30",
+    "eksternt_varenummer": null,
+    "navn": "Puck® salatost i blok",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_31",
+    "eksternt_varenummer": null,
+    "navn": "kalvecuvette",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_34",
+    "eksternt_varenummer": null,
+    "navn": "jordbær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_auto_u8qq9cccu",
+    "eksternt_varenummer": null,
+    "navn": "Fuldkorns tærtedej",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_6",
+    "eksternt_varenummer": null,
+    "navn": "citronskal af 1 citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_21",
+    "eksternt_varenummer": null,
+    "navn": "sliders",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_38",
+    "eksternt_varenummer": null,
+    "navn": "havsalt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_25",
+    "eksternt_varenummer": null,
+    "navn": "rosmarinkvist",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_28",
+    "eksternt_varenummer": null,
+    "navn": "plantefars",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_10",
+    "eksternt_varenummer": null,
+    "navn": "peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_47",
+    "eksternt_varenummer": null,
+    "navn": "knoldselleri",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_63",
+    "eksternt_varenummer": null,
+    "navn": "oksecuvette ca. 1 kg",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_33",
+    "eksternt_varenummer": null,
+    "navn": "stilke timian",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_35",
+    "eksternt_varenummer": null,
+    "navn": "Arla Karolines Køkken® Mozzarella Tern",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_41",
+    "eksternt_varenummer": null,
+    "navn": "barbecuekrydderi med selleri",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_46",
+    "eksternt_varenummer": null,
+    "navn": "olie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_104",
+    "eksternt_varenummer": null,
+    "navn": "mandler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_mayonnaise",
+    "eksternt_varenummer": null,
+    "navn": "Mayonnaise",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_meny_auto_82",
+    "eksternt_varenummer": null,
+    "navn": "smør",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_64",
+    "eksternt_varenummer": null,
+    "navn": "stødt kardemomme",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_kalveculotte",
+    "eksternt_varenummer": null,
+    "navn": "Kalveculotte",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_asparges",
+    "eksternt_varenummer": null,
+    "navn": "Grønne Asparges",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_fennikel",
+    "eksternt_varenummer": null,
+    "navn": "Fennikel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_meny_auto_83",
+    "eksternt_varenummer": null,
+    "navn": "karry",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_66",
+    "eksternt_varenummer": null,
+    "navn": "røget paprika",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_kapers",
+    "eksternt_varenummer": null,
+    "navn": "Kapers",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_meny_auto_67",
+    "eksternt_varenummer": null,
+    "navn": "brun farin",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_86",
+    "eksternt_varenummer": null,
+    "navn": "koge vand fra kødbollerne",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_87",
+    "eksternt_varenummer": null,
+    "navn": "Arla Karolines Køkken® Piskefløde 38%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_boghvedenudler",
+    "eksternt_varenummer": null,
+    "navn": "Boghvedenudler (Soba)",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_meny_auto_93",
+    "eksternt_varenummer": null,
+    "navn": "bæger koriander",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_oestershatte",
+    "eksternt_varenummer": null,
+    "navn": "Østershatte",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_meny_auto_96",
+    "eksternt_varenummer": null,
+    "navn": "appelsiner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_boennespirer",
+    "eksternt_varenummer": null,
+    "navn": "Bønnespirer",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_soja",
+    "eksternt_varenummer": null,
+    "navn": "Sojasauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_roedvin",
+    "eksternt_varenummer": null,
+    "navn": "Rødvin til madlavning",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_meny_auto_97",
+    "eksternt_varenummer": null,
+    "navn": "vand",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_100",
+    "eksternt_varenummer": null,
+    "navn": "æblecidereddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_frisk_chili",
+    "eksternt_varenummer": null,
+    "navn": "Chili",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_enoki",
+    "eksternt_varenummer": null,
+    "navn": "Enoki Svampe",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_graeskar",
+    "eksternt_varenummer": null,
+    "navn": "Hokkaido Græskar",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_klementiner",
+    "eksternt_varenummer": null,
+    "navn": "Klementiner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_meny_auto_90",
+    "eksternt_varenummer": null,
+    "navn": "rosin",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_koriander",
+    "eksternt_varenummer": null,
+    "navn": "Koriander",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_meny_auto_127",
+    "eksternt_varenummer": null,
+    "navn": "yoghurt 10%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_sesam",
+    "eksternt_varenummer": null,
+    "navn": "Sesamfrø",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T10:07:36.193348+00:00"
+  },
+  {
+    "id": "ing_meny_auto_108",
+    "eksternt_varenummer": null,
+    "navn": "kyllingefileter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_109",
+    "eksternt_varenummer": null,
+    "navn": "korianderfrø",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_110",
+    "eksternt_varenummer": null,
+    "navn": "citrongræs",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_91",
+    "eksternt_varenummer": null,
+    "navn": "kokosmel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_70",
+    "eksternt_varenummer": null,
+    "navn": "bredbladet persille",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_113",
+    "eksternt_varenummer": null,
+    "navn": "sesamolie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_120",
+    "eksternt_varenummer": null,
+    "navn": "blåbær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_121",
+    "eksternt_varenummer": null,
+    "navn": "perlesukker",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_foraarssloeg",
+    "eksternt_varenummer": null,
+    "navn": "Forårsløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_meny_auto_77",
+    "eksternt_varenummer": null,
+    "navn": "smagsneutral olie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_ost",
+    "eksternt_varenummer": null,
+    "navn": "Ost",
+    "kategori": "Mejeri",
+    "standard_vare": true,
+    "allergener": [
+      "laktose"
+    ],
+    "alternativ_id": "ing_laktosefri_ost",
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_baguette",
+    "eksternt_varenummer": null,
+    "navn": "Surdejsbaguette",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:36:16.92271+00:00"
+  },
+  {
+    "id": "ing_meny_auto_89",
+    "eksternt_varenummer": null,
+    "navn": "æble i små tern",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_94",
+    "eksternt_varenummer": null,
+    "navn": "brune ris",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_95",
+    "eksternt_varenummer": null,
+    "navn": "and bryststeg",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_84",
+    "eksternt_varenummer": null,
+    "navn": "stødt gurkemeje",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_99",
+    "eksternt_varenummer": null,
+    "navn": "honning",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_119",
+    "eksternt_varenummer": null,
+    "navn": "tranebær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_102",
+    "eksternt_varenummer": null,
+    "navn": "perlebyg",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_106",
+    "eksternt_varenummer": null,
+    "navn": "skovsyre",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_bagekartofler",
+    "eksternt_varenummer": null,
+    "navn": "Bagekartofler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-12T06:25:36.434343+00:00"
+  },
+  {
+    "id": "ing_meny_auto_111",
+    "eksternt_varenummer": null,
+    "navn": "lime",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_115",
+    "eksternt_varenummer": null,
+    "navn": "Arla Karolines Køkken® Græsk inspireret yoghurt 10%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_124",
+    "eksternt_varenummer": null,
+    "navn": "kalkunbryster",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_126",
+    "eksternt_varenummer": null,
+    "navn": "garam masala",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_71",
+    "eksternt_varenummer": null,
+    "navn": "valnøddekerner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_78",
+    "eksternt_varenummer": null,
+    "navn": "pebermynteblad",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.798754+00:00"
+  },
+  {
+    "id": "ing_meny_auto_154",
+    "eksternt_varenummer": null,
+    "navn": "mozzarella oste",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_chili",
+    "eksternt_varenummer": null,
+    "navn": "Chilipulver",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-16T09:43:07.161374+00:00"
+  },
+  {
+    "id": "ing_meny_auto_138",
+    "eksternt_varenummer": null,
+    "navn": "hele dorade fisk",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_140",
+    "eksternt_varenummer": null,
+    "navn": "peber og groft salt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_177",
+    "eksternt_varenummer": null,
+    "navn": "pære",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_135",
+    "eksternt_varenummer": null,
+    "navn": "græskar",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_146",
+    "eksternt_varenummer": null,
+    "navn": "fløde",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_150",
+    "eksternt_varenummer": null,
+    "navn": "persille eller oregano, kørvel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_152",
+    "eksternt_varenummer": null,
+    "navn": "sorte oliven uden sten",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_147",
+    "eksternt_varenummer": null,
+    "navn": "pinjekerne",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_155",
+    "eksternt_varenummer": null,
+    "navn": "ricotta",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_174",
+    "eksternt_varenummer": null,
+    "navn": "økologisk creme fraiche 9%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_153",
+    "eksternt_varenummer": null,
+    "navn": "basilikum",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_158",
+    "eksternt_varenummer": null,
+    "navn": "kartoffel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_129",
+    "eksternt_varenummer": null,
+    "navn": "naanbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_132",
+    "eksternt_varenummer": null,
+    "navn": "lunkent vand",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_134",
+    "eksternt_varenummer": null,
+    "navn": "FiberHUSK loppefrøskaller",
+    "kategori": "Diverse",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_142",
+    "eksternt_varenummer": null,
+    "navn": "finthakkede skalotteløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_143",
+    "eksternt_varenummer": null,
+    "navn": "fed hvidløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_144",
+    "eksternt_varenummer": null,
+    "navn": "markchampignoner brækket",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_loeg",
+    "eksternt_varenummer": null,
+    "navn": "Løg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_meny_auto_160",
+    "eksternt_varenummer": null,
+    "navn": "fennikelfrø",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_extra_11",
+    "eksternt_varenummer": null,
+    "navn": "Hvidløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:46:37.897005+00:00"
+  },
+  {
+    "id": "ing_sødkartoffel",
+    "eksternt_varenummer": null,
+    "navn": "Sød Kartoffel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-29T07:23:29.272012+00:00"
+  },
+  {
+    "id": "ing_spidskaal",
+    "eksternt_varenummer": null,
+    "navn": "Spidskål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-05-28T17:31:06.185991+00:00"
+  },
+  {
+    "id": "ing_toastbrod",
+    "eksternt_varenummer": null,
+    "navn": "Toastbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [
+      "gluten"
+    ],
+    "alternativ_id": null,
+    "created_at": "2026-06-19T05:59:26.169228+00:00"
+  },
+  {
+    "id": "ing_meny_auto_130",
+    "eksternt_varenummer": null,
+    "navn": "mangochutney",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_131",
+    "eksternt_varenummer": null,
+    "navn": "gær",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_133",
+    "eksternt_varenummer": null,
+    "navn": "Finax Glutenfri Melmix",
+    "kategori": "Diverse",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_172",
+    "eksternt_varenummer": null,
+    "navn": "tranebær tørrede",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_181",
+    "eksternt_varenummer": null,
+    "navn": "oksemørbrad",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_164",
+    "eksternt_varenummer": null,
+    "navn": "kullerfileter",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_165",
+    "eksternt_varenummer": null,
+    "navn": "pankorasp",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_169",
+    "eksternt_varenummer": null,
+    "navn": "couscousgryn",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_173",
+    "eksternt_varenummer": null,
+    "navn": "aioli",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_175",
+    "eksternt_varenummer": null,
+    "navn": "butterdej",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_176",
+    "eksternt_varenummer": null,
+    "navn": "Castello® økologisk brie",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_hel_kylling",
+    "eksternt_varenummer": null,
+    "navn": "Hel kylling",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-12T11:25:31.022182+00:00"
+  },
+  {
+    "id": "ing_smaa_kartofler",
+    "eksternt_varenummer": null,
+    "navn": "Små kartofler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-12T11:30:57.437049+00:00"
+  },
+  {
+    "id": "ing_nye_kartofler",
+    "eksternt_varenummer": null,
+    "navn": "Nye kartofler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-12T11:30:57.437049+00:00"
+  },
+  {
+    "id": "ing_meny_auto_232",
+    "eksternt_varenummer": null,
+    "navn": "flødeost naturel",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_235",
+    "eksternt_varenummer": null,
+    "navn": "Santa Maria Green Jalapeño",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_238",
+    "eksternt_varenummer": null,
+    "navn": "smør til bruning",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_257",
+    "eksternt_varenummer": null,
+    "navn": "ark filodej",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_264",
+    "eksternt_varenummer": null,
+    "navn": "chiliflage",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_239",
+    "eksternt_varenummer": null,
+    "navn": "stilke bladselleri",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_254",
+    "eksternt_varenummer": null,
+    "navn": "koncentreret tomatpuré",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_276",
+    "eksternt_varenummer": null,
+    "navn": "hvedebrød f.eks. ciabatta",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_277",
+    "eksternt_varenummer": null,
+    "navn": "romainesalat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_215",
+    "eksternt_varenummer": null,
+    "navn": "salt og peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_237",
+    "eksternt_varenummer": null,
+    "navn": "kalvespidsbryst",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_242",
+    "eksternt_varenummer": null,
+    "navn": "peberkorn",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_216",
+    "eksternt_varenummer": null,
+    "navn": "kviste timian",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_210",
+    "eksternt_varenummer": null,
+    "navn": "cashewnød",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_213",
+    "eksternt_varenummer": null,
+    "navn": "knivspids muskatnød",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_218",
+    "eksternt_varenummer": null,
+    "navn": "syltet rødbede",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_233",
+    "eksternt_varenummer": null,
+    "navn": "Cheasy® cheddar",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_247",
+    "eksternt_varenummer": null,
+    "navn": "rød peberfrugt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_236",
+    "eksternt_varenummer": null,
+    "navn": "rasp",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_248",
+    "eksternt_varenummer": null,
+    "navn": "gul peberfrugt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_245",
+    "eksternt_varenummer": null,
+    "navn": "majsstivelse",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_263",
+    "eksternt_varenummer": null,
+    "navn": "0.5 lime",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_265",
+    "eksternt_varenummer": null,
+    "navn": "tortilla",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_278",
+    "eksternt_varenummer": null,
+    "navn": "ansjosfileter",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_281",
+    "eksternt_varenummer": null,
+    "navn": "engelsk sauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_191",
+    "eksternt_varenummer": null,
+    "navn": "flagesalt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.931683+00:00"
+  },
+  {
+    "id": "ing_meny_auto_192",
+    "eksternt_varenummer": null,
+    "navn": "1 dl blåbær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_255",
+    "eksternt_varenummer": null,
+    "navn": "piskefløde",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_199",
+    "eksternt_varenummer": null,
+    "navn": "hvidvinseddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_201",
+    "eksternt_varenummer": null,
+    "navn": "dijonsennep",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_202",
+    "eksternt_varenummer": null,
+    "navn": "kyllingeinderfileter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_205",
+    "eksternt_varenummer": null,
+    "navn": "hønsebouillon",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_206",
+    "eksternt_varenummer": null,
+    "navn": "lidt vand",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_208",
+    "eksternt_varenummer": null,
+    "navn": "æbler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_217",
+    "eksternt_varenummer": null,
+    "navn": "mørk balsamicoeddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_221",
+    "eksternt_varenummer": null,
+    "navn": "cherrytomater",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_261",
+    "eksternt_varenummer": null,
+    "navn": "tacokrydderi el. texmex blanding",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_266",
+    "eksternt_varenummer": null,
+    "navn": "limebåde",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_270",
+    "eksternt_varenummer": null,
+    "navn": "frysetørrede hindbær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_274",
+    "eksternt_varenummer": null,
+    "navn": "blomkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_225",
+    "eksternt_varenummer": null,
+    "navn": "lammeculotter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_228",
+    "eksternt_varenummer": null,
+    "navn": "grøn chilipeber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_294",
+    "eksternt_varenummer": null,
+    "navn": "kvark, 0,3% rørt op med",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_298",
+    "eksternt_varenummer": null,
+    "navn": "kylling",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_367",
+    "eksternt_varenummer": null,
+    "navn": "majskolber",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_308",
+    "eksternt_varenummer": null,
+    "navn": "ølandshvedemel",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_311",
+    "eksternt_varenummer": null,
+    "navn": "rødbeder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_320",
+    "eksternt_varenummer": null,
+    "navn": "haricots verts",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_359",
+    "eksternt_varenummer": null,
+    "navn": "gulerod",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_357",
+    "eksternt_varenummer": null,
+    "navn": "marengs kys",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_295",
+    "eksternt_varenummer": null,
+    "navn": "lidt citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_297",
+    "eksternt_varenummer": null,
+    "navn": "flormelis",
+    "kategori": "Basis",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_304",
+    "eksternt_varenummer": null,
+    "navn": "hønsekødssuppe",
+    "kategori": "Frost",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_306",
+    "eksternt_varenummer": null,
+    "navn": "tilbehør: tartelet",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_319",
+    "eksternt_varenummer": null,
+    "navn": "rød pesto",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_324",
+    "eksternt_varenummer": null,
+    "navn": "sorte oliven",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_332",
+    "eksternt_varenummer": null,
+    "navn": "boghvede nudler",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_336",
+    "eksternt_varenummer": null,
+    "navn": "lidt olie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_323",
+    "eksternt_varenummer": null,
+    "navn": "edamamebønner",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_353",
+    "eksternt_varenummer": null,
+    "navn": "græsk inspireret yoghurt",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_374",
+    "eksternt_varenummer": null,
+    "navn": "hvid chokolade",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_377",
+    "eksternt_varenummer": null,
+    "navn": "grise- og kalvekød",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_337",
+    "eksternt_varenummer": null,
+    "navn": "enokisvampe",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_286",
+    "eksternt_varenummer": null,
+    "navn": "vaniljestang",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_347",
+    "eksternt_varenummer": null,
+    "navn": "hindbær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_291",
+    "eksternt_varenummer": null,
+    "navn": "hakkede mandler",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:24.99328+00:00"
+  },
+  {
+    "id": "ing_meny_auto_292",
+    "eksternt_varenummer": null,
+    "navn": "hindbær &",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_305",
+    "eksternt_varenummer": null,
+    "navn": "kruspersille",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_312",
+    "eksternt_varenummer": null,
+    "navn": "små rødløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_348",
+    "eksternt_varenummer": null,
+    "navn": "digestive kiks",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_350",
+    "eksternt_varenummer": null,
+    "navn": "husblas",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_329",
+    "eksternt_varenummer": null,
+    "navn": "citronskal",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_344",
+    "eksternt_varenummer": null,
+    "navn": "persillerod",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_346",
+    "eksternt_varenummer": null,
+    "navn": "Arla Karolines Køkken® Madlavningsfløde 15%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_366",
+    "eksternt_varenummer": null,
+    "navn": "oksecuvette",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_371",
+    "eksternt_varenummer": null,
+    "navn": "limeskal",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_375",
+    "eksternt_varenummer": null,
+    "navn": "plade butterdej",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_376",
+    "eksternt_varenummer": null,
+    "navn": "Jarlsberg® Revet",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_451",
+    "eksternt_varenummer": null,
+    "navn": "flødeost",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_456",
+    "eksternt_varenummer": null,
+    "navn": "rørsukker",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_410",
+    "eksternt_varenummer": null,
+    "navn": "sødmælk",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_438",
+    "eksternt_varenummer": null,
+    "navn": "marcipan",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_411",
+    "eksternt_varenummer": null,
+    "navn": "stærk kaffe",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_422",
+    "eksternt_varenummer": null,
+    "navn": "creme fraiche 38%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_408",
+    "eksternt_varenummer": null,
+    "navn": "mandelmel",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_421",
+    "eksternt_varenummer": null,
+    "navn": "ærtemel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_384",
+    "eksternt_varenummer": null,
+    "navn": "store tortillaer",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_403",
+    "eksternt_varenummer": null,
+    "navn": "chokolade",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_434",
+    "eksternt_varenummer": null,
+    "navn": "banan",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_460",
+    "eksternt_varenummer": null,
+    "navn": "Arla® Laktosefri piskefløde 36%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_406",
+    "eksternt_varenummer": null,
+    "navn": "dadler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_461",
+    "eksternt_varenummer": null,
+    "navn": "laktosefri vaniljeflødeis",
+    "kategori": "Basis",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_409",
+    "eksternt_varenummer": null,
+    "navn": "kakaopulver",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_429",
+    "eksternt_varenummer": null,
+    "navn": "stort æg",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_432",
+    "eksternt_varenummer": null,
+    "navn": "grofthakket mørk chokolade",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_420",
+    "eksternt_varenummer": null,
+    "navn": "karse",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_471",
+    "eksternt_varenummer": null,
+    "navn": "stødt ingefær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_464",
+    "eksternt_varenummer": null,
+    "navn": "rosiner",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_467",
+    "eksternt_varenummer": null,
+    "navn": "okseculotte",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_412",
+    "eksternt_varenummer": null,
+    "navn": "clementinsaft",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_466",
+    "eksternt_varenummer": null,
+    "navn": "2 clementiner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_469",
+    "eksternt_varenummer": null,
+    "navn": "hvid peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_473",
+    "eksternt_varenummer": null,
+    "navn": "stødt hvid peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_446",
+    "eksternt_varenummer": null,
+    "navn": "Cheasy® skyr naturel",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_379",
+    "eksternt_varenummer": null,
+    "navn": "cayennepeber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_385",
+    "eksternt_varenummer": null,
+    "navn": "rødløg i tynde ringe",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_388",
+    "eksternt_varenummer": null,
+    "navn": "800 g grisehjerter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_450",
+    "eksternt_varenummer": null,
+    "navn": "flute",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_468",
+    "eksternt_varenummer": null,
+    "navn": "sorte peberkorn",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_452",
+    "eksternt_varenummer": null,
+    "navn": "nektariner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_391",
+    "eksternt_varenummer": null,
+    "navn": "timianblade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.085804+00:00"
+  },
+  {
+    "id": "ing_meny_auto_395",
+    "eksternt_varenummer": null,
+    "navn": "grønne linser",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_457",
+    "eksternt_varenummer": null,
+    "navn": "margarine",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_399",
+    "eksternt_varenummer": null,
+    "navn": "rosenkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_405",
+    "eksternt_varenummer": null,
+    "navn": "glukosesirup",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_418",
+    "eksternt_varenummer": null,
+    "navn": "koldpresset rapsolie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_419",
+    "eksternt_varenummer": null,
+    "navn": "løgspirer",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_424",
+    "eksternt_varenummer": null,
+    "navn": "anicia linser",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_428",
+    "eksternt_varenummer": null,
+    "navn": "Matilde® Premium Kakaoletmælk",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_441",
+    "eksternt_varenummer": null,
+    "navn": "frosne hindbær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_502",
+    "eksternt_varenummer": null,
+    "navn": "tagliatelle",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_558",
+    "eksternt_varenummer": null,
+    "navn": "hakkede peanuts",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_493",
+    "eksternt_varenummer": null,
+    "navn": "gedeoste rulle",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_549",
+    "eksternt_varenummer": null,
+    "navn": "rucolasalat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_476",
+    "eksternt_varenummer": null,
+    "navn": "hvid hvedemel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_507",
+    "eksternt_varenummer": null,
+    "navn": "majsmel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_508",
+    "eksternt_varenummer": null,
+    "navn": "boghvedemel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_509",
+    "eksternt_varenummer": null,
+    "navn": "fiber husk hvedemel",
+    "kategori": "Diverse",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_474",
+    "eksternt_varenummer": null,
+    "navn": "stødt nellike",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_486",
+    "eksternt_varenummer": null,
+    "navn": "brioche burgerboller",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_487",
+    "eksternt_varenummer": null,
+    "navn": "sriracha mayonnaise",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_488",
+    "eksternt_varenummer": null,
+    "navn": "syltet agurker",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.146355+00:00"
+  },
+  {
+    "id": "ing_meny_auto_504",
+    "eksternt_varenummer": null,
+    "navn": "salt & peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_513",
+    "eksternt_varenummer": null,
+    "navn": "salt og sort peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_530",
+    "eksternt_varenummer": null,
+    "navn": "potte dild",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_535",
+    "eksternt_varenummer": null,
+    "navn": "groftrevet æble",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_540",
+    "eksternt_varenummer": null,
+    "navn": "skal fra en appelsin",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_510",
+    "eksternt_varenummer": null,
+    "navn": "natron",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_541",
+    "eksternt_varenummer": null,
+    "navn": "majs",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_512",
+    "eksternt_varenummer": null,
+    "navn": "mascarpone",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_517",
+    "eksternt_varenummer": null,
+    "navn": "Maizena majsstivelse",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_564",
+    "eksternt_varenummer": null,
+    "navn": "saltede peanuts",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_565",
+    "eksternt_varenummer": null,
+    "navn": "2 lime",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_525",
+    "eksternt_varenummer": null,
+    "navn": "frugtfarve i fire forskellige kulører, fx slikfarve",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_526",
+    "eksternt_varenummer": null,
+    "navn": "kammusling",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_494",
+    "eksternt_varenummer": null,
+    "navn": "pinjekerner",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_503",
+    "eksternt_varenummer": null,
+    "navn": "tomatsauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_531",
+    "eksternt_varenummer": null,
+    "navn": "bagemargarine",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_532",
+    "eksternt_varenummer": null,
+    "navn": "bagespray",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_545",
+    "eksternt_varenummer": null,
+    "navn": "blandede salatblade",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_552",
+    "eksternt_varenummer": null,
+    "navn": "peberrod",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_557",
+    "eksternt_varenummer": null,
+    "navn": "hoisinsauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_560",
+    "eksternt_varenummer": null,
+    "navn": "risnudler",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_544",
+    "eksternt_varenummer": null,
+    "navn": "salsa",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_596",
+    "eksternt_varenummer": null,
+    "navn": "feta",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_585",
+    "eksternt_varenummer": null,
+    "navn": "benfri sild",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_593",
+    "eksternt_varenummer": null,
+    "navn": "stødt allehånde",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_582",
+    "eksternt_varenummer": null,
+    "navn": "persille",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_603",
+    "eksternt_varenummer": null,
+    "navn": "sort madfarve eller mørk chokolade til dekoration",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_640",
+    "eksternt_varenummer": null,
+    "navn": "madeira",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_647",
+    "eksternt_varenummer": null,
+    "navn": "tipo 00 hvedemel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_571",
+    "eksternt_varenummer": null,
+    "navn": "kæmperejer",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_576",
+    "eksternt_varenummer": null,
+    "navn": "Arla Buko® Økologisk naturel 70+",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_577",
+    "eksternt_varenummer": null,
+    "navn": "klippet purløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_584",
+    "eksternt_varenummer": null,
+    "navn": "løvstikke",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_586",
+    "eksternt_varenummer": null,
+    "navn": "grov sennep",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_597",
+    "eksternt_varenummer": null,
+    "navn": "fladbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_602",
+    "eksternt_varenummer": null,
+    "navn": "skumfiduser",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_604",
+    "eksternt_varenummer": null,
+    "navn": "byggryn",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_614",
+    "eksternt_varenummer": null,
+    "navn": "mørk sirup",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_651",
+    "eksternt_varenummer": null,
+    "navn": "salt & sort peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_567",
+    "eksternt_varenummer": null,
+    "navn": "fiskesauce",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_568",
+    "eksternt_varenummer": null,
+    "navn": "2 tsk chilier",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_642",
+    "eksternt_varenummer": null,
+    "navn": "lidt kulør",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_580",
+    "eksternt_varenummer": null,
+    "navn": "laksefileter uden skind",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_583",
+    "eksternt_varenummer": null,
+    "navn": "løvstikkeblade",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.209647+00:00"
+  },
+  {
+    "id": "ing_meny_auto_608",
+    "eksternt_varenummer": null,
+    "navn": "solsikkekerner",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_610",
+    "eksternt_varenummer": null,
+    "navn": "hvidløgssalt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_613",
+    "eksternt_varenummer": null,
+    "navn": "æbleeddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_621",
+    "eksternt_varenummer": null,
+    "navn": "perlespelt",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_623",
+    "eksternt_varenummer": null,
+    "navn": "lyse rosiner",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_625",
+    "eksternt_varenummer": null,
+    "navn": "lagret cheddarost",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_627",
+    "eksternt_varenummer": null,
+    "navn": "syrlige æbler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_632",
+    "eksternt_varenummer": null,
+    "navn": "grisehjerter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_637",
+    "eksternt_varenummer": null,
+    "navn": "stilke kruspersille",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_648",
+    "eksternt_varenummer": null,
+    "navn": "parmaskinke",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_650",
+    "eksternt_varenummer": null,
+    "navn": "abrikoser",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_658",
+    "eksternt_varenummer": null,
+    "navn": "blommetomater",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_663",
+    "eksternt_varenummer": null,
+    "navn": "peanutbutter",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_665",
+    "eksternt_varenummer": null,
+    "navn": "rød chilipeber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_668",
+    "eksternt_varenummer": null,
+    "navn": "allround krydderi",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_672",
+    "eksternt_varenummer": null,
+    "navn": "kulmuler filet",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_711",
+    "eksternt_varenummer": null,
+    "navn": "stødt spidskommen",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_730",
+    "eksternt_varenummer": null,
+    "navn": "mørk øl",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_664",
+    "eksternt_varenummer": null,
+    "navn": "rød chilipeber uden kerner",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_749",
+    "eksternt_varenummer": null,
+    "navn": "flormelis til drys",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_701",
+    "eksternt_varenummer": null,
+    "navn": "clementiner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_723",
+    "eksternt_varenummer": null,
+    "navn": "ænder",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_688",
+    "eksternt_varenummer": null,
+    "navn": "salvie",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_752",
+    "eksternt_varenummer": null,
+    "navn": "fennikler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_690",
+    "eksternt_varenummer": null,
+    "navn": "smør og olie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_694",
+    "eksternt_varenummer": null,
+    "navn": "flået tomat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_679",
+    "eksternt_varenummer": null,
+    "navn": "rosmarinkviste",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_661",
+    "eksternt_varenummer": null,
+    "navn": "kyllingekød",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_662",
+    "eksternt_varenummer": null,
+    "navn": "presset fed hvidløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_691",
+    "eksternt_varenummer": null,
+    "navn": "tyttebærsyltetøj",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.272727+00:00"
+  },
+  {
+    "id": "ing_meny_auto_702",
+    "eksternt_varenummer": null,
+    "navn": "sennepskorn",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_716",
+    "eksternt_varenummer": null,
+    "navn": "sorte sesamfrø",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_717",
+    "eksternt_varenummer": null,
+    "navn": "radiser",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_732",
+    "eksternt_varenummer": null,
+    "navn": "hele nelliker",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_741",
+    "eksternt_varenummer": null,
+    "navn": "kærnemælk",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_750",
+    "eksternt_varenummer": null,
+    "navn": "appelsiner eller blodappelsiner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_751",
+    "eksternt_varenummer": null,
+    "navn": "fiskefrikadeller",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_755",
+    "eksternt_varenummer": null,
+    "navn": "appelsinsaft",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_829",
+    "eksternt_varenummer": null,
+    "navn": "bourbon eller whisky",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_762",
+    "eksternt_varenummer": null,
+    "navn": "hørfrø",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_816",
+    "eksternt_varenummer": null,
+    "navn": "mango",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_838",
+    "eksternt_varenummer": null,
+    "navn": "æggeblommer",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_764",
+    "eksternt_varenummer": null,
+    "navn": "græskarkerner",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_769",
+    "eksternt_varenummer": null,
+    "navn": "rålakrids",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_785",
+    "eksternt_varenummer": null,
+    "navn": "knivspids salt & sort peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_801",
+    "eksternt_varenummer": null,
+    "navn": "sammen pisket æg",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_793",
+    "eksternt_varenummer": null,
+    "navn": "worcestershiresauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_803",
+    "eksternt_varenummer": null,
+    "navn": "granatæble i kerner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_802",
+    "eksternt_varenummer": null,
+    "navn": "rødløg i tynde både",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_763",
+    "eksternt_varenummer": null,
+    "navn": "solsikkekerne",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_805",
+    "eksternt_varenummer": null,
+    "navn": "groft dild",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_806",
+    "eksternt_varenummer": null,
+    "navn": "skiver stegte parmaskinke",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_823",
+    "eksternt_varenummer": null,
+    "navn": "hel fasan",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_818",
+    "eksternt_varenummer": null,
+    "navn": "Arla Karolines Køkken® Hytteost 4%",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_836",
+    "eksternt_varenummer": null,
+    "navn": "friskrevet ingefær",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_821",
+    "eksternt_varenummer": null,
+    "navn": "cashewnødder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_760",
+    "eksternt_varenummer": null,
+    "navn": "chiafrø",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_827",
+    "eksternt_varenummer": null,
+    "navn": "enebær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_770",
+    "eksternt_varenummer": null,
+    "navn": "finthakkede mandler",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_772",
+    "eksternt_varenummer": null,
+    "navn": "finthakkede æbler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_775",
+    "eksternt_varenummer": null,
+    "navn": "rødvinseddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_833",
+    "eksternt_varenummer": null,
+    "navn": "kartoffelmos eller rodfrugtmos",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_783",
+    "eksternt_varenummer": null,
+    "navn": "saft fra citronsaft",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_834",
+    "eksternt_varenummer": null,
+    "navn": "krabbeklo",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_790",
+    "eksternt_varenummer": null,
+    "navn": "tomatketchup",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.334146+00:00"
+  },
+  {
+    "id": "ing_meny_auto_848",
+    "eksternt_varenummer": null,
+    "navn": "stødt korianderfrø",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_849",
+    "eksternt_varenummer": null,
+    "navn": "kikært",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_937",
+    "eksternt_varenummer": null,
+    "navn": "kikært i lage",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_870",
+    "eksternt_varenummer": null,
+    "navn": "rejer",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_903",
+    "eksternt_varenummer": null,
+    "navn": "Dumle karamel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_929",
+    "eksternt_varenummer": null,
+    "navn": "laurbærblad",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_872",
+    "eksternt_varenummer": null,
+    "navn": "ærteskud",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_850",
+    "eksternt_varenummer": null,
+    "navn": "0.5 citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_851",
+    "eksternt_varenummer": null,
+    "navn": "tahin",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_860",
+    "eksternt_varenummer": null,
+    "navn": "lunket mælk",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_877",
+    "eksternt_varenummer": null,
+    "navn": "Arla A38® Ymer",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_878",
+    "eksternt_varenummer": null,
+    "navn": "sød fransk sennep",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_879",
+    "eksternt_varenummer": null,
+    "navn": "kørvel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_895",
+    "eksternt_varenummer": null,
+    "navn": "friskhakket mynte",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_909",
+    "eksternt_varenummer": null,
+    "navn": "grønne asparges + gem aspargeshovederne",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_925",
+    "eksternt_varenummer": null,
+    "navn": "appelsin",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_858",
+    "eksternt_varenummer": null,
+    "navn": "granatæblekerner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_874",
+    "eksternt_varenummer": null,
+    "navn": "tilberedt kyllingekød uden skind",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_876",
+    "eksternt_varenummer": null,
+    "navn": "valnødder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_911",
+    "eksternt_varenummer": null,
+    "navn": "frossen ært",
+    "kategori": "Frost",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_885",
+    "eksternt_varenummer": null,
+    "navn": "granatæblekerne",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_886",
+    "eksternt_varenummer": null,
+    "navn": "auberginer",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.396909+00:00"
+  },
+  {
+    "id": "ing_meny_auto_918",
+    "eksternt_varenummer": null,
+    "navn": "Arla Buko® Pikant",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_908",
+    "eksternt_varenummer": null,
+    "navn": "1 terning hønsebouillon",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_916",
+    "eksternt_varenummer": null,
+    "navn": "rosa peberkorn",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_923",
+    "eksternt_varenummer": null,
+    "navn": "1/2 rødkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_927",
+    "eksternt_varenummer": null,
+    "navn": "solbærsaft",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_931",
+    "eksternt_varenummer": null,
+    "navn": "kanelstænger",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_932",
+    "eksternt_varenummer": null,
+    "navn": "2 spsk andefedt",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_936",
+    "eksternt_varenummer": null,
+    "navn": "koncentreret oksefond",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_941",
+    "eksternt_varenummer": null,
+    "navn": "grisenakkefilet ca. 1 kg",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_950",
+    "eksternt_varenummer": null,
+    "navn": "kogte kartoffel, ris eller perlebyg",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_951",
+    "eksternt_varenummer": null,
+    "navn": "isterninger",
+    "kategori": "Basis",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_952",
+    "eksternt_varenummer": null,
+    "navn": "The London N°1 gin",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_960",
+    "eksternt_varenummer": null,
+    "navn": "lys sirup",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_969",
+    "eksternt_varenummer": null,
+    "navn": "hasselnøddecreme eller nutella",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_980",
+    "eksternt_varenummer": null,
+    "navn": "tomat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_989",
+    "eksternt_varenummer": null,
+    "navn": "HP sauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_977",
+    "eksternt_varenummer": null,
+    "navn": "gurkemeje",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_993",
+    "eksternt_varenummer": null,
+    "navn": "sød sennep",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_994",
+    "eksternt_varenummer": null,
+    "navn": "salat mix",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_997",
+    "eksternt_varenummer": null,
+    "navn": "mørk chokolade med chili eller orange",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1017",
+    "eksternt_varenummer": null,
+    "navn": "pasta eller ris",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_998",
+    "eksternt_varenummer": null,
+    "navn": "nescafé",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1033",
+    "eksternt_varenummer": null,
+    "navn": "majs fra dåse",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_945",
+    "eksternt_varenummer": null,
+    "navn": "tør æblecider",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_946",
+    "eksternt_varenummer": null,
+    "navn": "hønsefond",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1007",
+    "eksternt_varenummer": null,
+    "navn": "ferskner eller nektariner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_953",
+    "eksternt_varenummer": null,
+    "navn": "stilke timianblade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_954",
+    "eksternt_varenummer": null,
+    "navn": "tonic vand",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_955",
+    "eksternt_varenummer": null,
+    "navn": "brombær",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_962",
+    "eksternt_varenummer": null,
+    "navn": "Arla® ØKO letmælk",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_973",
+    "eksternt_varenummer": null,
+    "navn": "oliventapenade",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_975",
+    "eksternt_varenummer": null,
+    "navn": "krusemynteblade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_976",
+    "eksternt_varenummer": null,
+    "navn": "kyllingebrystfileter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_979",
+    "eksternt_varenummer": null,
+    "navn": "solsikkeolie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_982",
+    "eksternt_varenummer": null,
+    "navn": "rødkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_986",
+    "eksternt_varenummer": null,
+    "navn": "basmatiris",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_990",
+    "eksternt_varenummer": null,
+    "navn": "majsolie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_991",
+    "eksternt_varenummer": null,
+    "navn": "nakkekoteletter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.458506+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1000",
+    "eksternt_varenummer": null,
+    "navn": "pasteuriserede æggehvider",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1023",
+    "eksternt_varenummer": null,
+    "navn": "vaniljeflødeis",
+    "kategori": "Basis",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1025",
+    "eksternt_varenummer": null,
+    "navn": "skiver surdejsbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1030",
+    "eksternt_varenummer": null,
+    "navn": "panerede fiskefileter",
+    "kategori": "Frost",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1034",
+    "eksternt_varenummer": null,
+    "navn": "frilands griseslag med svær",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1036",
+    "eksternt_varenummer": null,
+    "navn": "Oreo",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1082",
+    "eksternt_varenummer": null,
+    "navn": "skiver rugbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1037",
+    "eksternt_varenummer": null,
+    "navn": "træspyd",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1068",
+    "eksternt_varenummer": null,
+    "navn": "krymmel",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1125",
+    "eksternt_varenummer": null,
+    "navn": "spaghetti af kvalitet",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1042",
+    "eksternt_varenummer": null,
+    "navn": "rabarber",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1054",
+    "eksternt_varenummer": null,
+    "navn": "groft salt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1069",
+    "eksternt_varenummer": null,
+    "navn": "ribeye-steak af dansk krogmodnet oksekød",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1073",
+    "eksternt_varenummer": null,
+    "navn": "kruspersille eller timian",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1087",
+    "eksternt_varenummer": null,
+    "navn": "kartoffel chips",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1048",
+    "eksternt_varenummer": null,
+    "navn": "estragonblade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1050",
+    "eksternt_varenummer": null,
+    "navn": "skiver sandwichbrød",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1051",
+    "eksternt_varenummer": null,
+    "navn": "sildefileter",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1052",
+    "eksternt_varenummer": null,
+    "navn": "lagereddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1058",
+    "eksternt_varenummer": null,
+    "navn": "hvid peberkorn",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1062",
+    "eksternt_varenummer": null,
+    "navn": "vaniljepulver",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1084",
+    "eksternt_varenummer": null,
+    "navn": "Bearnaise sauce fra køl",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1086",
+    "eksternt_varenummer": null,
+    "navn": "syltede perleløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1099",
+    "eksternt_varenummer": null,
+    "navn": "oksecuvetter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1107",
+    "eksternt_varenummer": null,
+    "navn": "kviste grønkål",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1118",
+    "eksternt_varenummer": null,
+    "navn": "vaniljepasta",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1128",
+    "eksternt_varenummer": null,
+    "navn": "pistacienødder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1089",
+    "eksternt_varenummer": null,
+    "navn": "plader frossen butterdej",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.518548+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1093",
+    "eksternt_varenummer": null,
+    "navn": "optøede ærter",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1220",
+    "eksternt_varenummer": null,
+    "navn": "kokosmel eller kokosflager",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1133",
+    "eksternt_varenummer": null,
+    "navn": "yoghurt naturel",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1157",
+    "eksternt_varenummer": null,
+    "navn": "karry pulver",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1163",
+    "eksternt_varenummer": null,
+    "navn": "zucchini",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1191",
+    "eksternt_varenummer": null,
+    "navn": "knivspids sort peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1151",
+    "eksternt_varenummer": null,
+    "navn": "akaciehonning",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1210",
+    "eksternt_varenummer": null,
+    "navn": "il fornaio brød i grove tern",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1211",
+    "eksternt_varenummer": null,
+    "navn": "olie til ristning af brød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1221",
+    "eksternt_varenummer": null,
+    "navn": "kakaonibs eller meget mørkt chokolade",
+    "kategori": "Bagning",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1131",
+    "eksternt_varenummer": null,
+    "navn": "hvidløgspulver",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1135",
+    "eksternt_varenummer": null,
+    "navn": "babysalatblade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1142",
+    "eksternt_varenummer": null,
+    "navn": "skaftkotelet",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1159",
+    "eksternt_varenummer": null,
+    "navn": "røde peberfrugter",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1160",
+    "eksternt_varenummer": null,
+    "navn": "usaltede cashewnødder",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1161",
+    "eksternt_varenummer": null,
+    "navn": "lammekoteletter",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1167",
+    "eksternt_varenummer": null,
+    "navn": "champignoner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1172",
+    "eksternt_varenummer": null,
+    "navn": "spidskål blade",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1181",
+    "eksternt_varenummer": null,
+    "navn": "ærter",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1189",
+    "eksternt_varenummer": null,
+    "navn": "myntekviste",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.576594+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1194",
+    "eksternt_varenummer": null,
+    "navn": "0.5- 1 dl vand",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1197",
+    "eksternt_varenummer": null,
+    "navn": "stegeben fra gris",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1198",
+    "eksternt_varenummer": null,
+    "navn": "stilke citrongræs",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1205",
+    "eksternt_varenummer": null,
+    "navn": "sød chilisauce",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1212",
+    "eksternt_varenummer": null,
+    "navn": "Arla Karolines Køkken® Klassisk Salatost",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1216",
+    "eksternt_varenummer": null,
+    "navn": "havredrik eller en anden plantedrik",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1195",
+    "eksternt_varenummer": null,
+    "navn": "hummus",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1215",
+    "eksternt_varenummer": null,
+    "navn": "& ærteskud",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1218",
+    "eksternt_varenummer": null,
+    "navn": "kiwifrugter",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1253",
+    "eksternt_varenummer": null,
+    "navn": "rapsolie",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1241",
+    "eksternt_varenummer": null,
+    "navn": "fintrevet pecorino",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1244",
+    "eksternt_varenummer": null,
+    "navn": "Grøn Pesto",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1225",
+    "eksternt_varenummer": null,
+    "navn": "jalapeño",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1232",
+    "eksternt_varenummer": null,
+    "navn": "grøn asparges",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1258",
+    "eksternt_varenummer": null,
+    "navn": "grønne asparges trimmet",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1261",
+    "eksternt_varenummer": null,
+    "navn": "Bearnaise sauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1222",
+    "eksternt_varenummer": null,
+    "navn": "tabascosauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1274",
+    "eksternt_varenummer": null,
+    "navn": "bundter grønne asparges",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1282",
+    "eksternt_varenummer": null,
+    "navn": "ribeye-steaks af dansk kalv",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1283",
+    "eksternt_varenummer": null,
+    "navn": "mellemstore kartoffel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1294",
+    "eksternt_varenummer": null,
+    "navn": "krydderurt : persille, kørvel eller purløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1297",
+    "eksternt_varenummer": null,
+    "navn": "grøn squash",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1311",
+    "eksternt_varenummer": null,
+    "navn": "hvid asparges",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1233",
+    "eksternt_varenummer": null,
+    "navn": "gedeoste i saltlage",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1235",
+    "eksternt_varenummer": null,
+    "navn": "persillerødder",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1239",
+    "eksternt_varenummer": null,
+    "navn": "serrano skinker",
+    "kategori": "Køl",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1288",
+    "eksternt_varenummer": null,
+    "navn": "fine frosne ærter",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1247",
+    "eksternt_varenummer": null,
+    "navn": "blandet salat med rucola",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1256",
+    "eksternt_varenummer": null,
+    "navn": "kalve T-bonesteaks",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1259",
+    "eksternt_varenummer": null,
+    "navn": "grønne bønner nippet",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1260",
+    "eksternt_varenummer": null,
+    "navn": "cherrytomater ,",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1265",
+    "eksternt_varenummer": null,
+    "navn": "guldborg æbler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1266",
+    "eksternt_varenummer": null,
+    "navn": "hjertesalat",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1268",
+    "eksternt_varenummer": null,
+    "navn": "ramsløg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1271",
+    "eksternt_varenummer": null,
+    "navn": "sennepsfrø",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1275",
+    "eksternt_varenummer": null,
+    "navn": "brioche hotdogbrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1280",
+    "eksternt_varenummer": null,
+    "navn": "ørredrogn",
+    "kategori": "Fisk",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.639221+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1292",
+    "eksternt_varenummer": null,
+    "navn": "rygeost",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1309",
+    "eksternt_varenummer": null,
+    "navn": "pastinak",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1310",
+    "eksternt_varenummer": null,
+    "navn": "røde æbler",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1313",
+    "eksternt_varenummer": null,
+    "navn": "mandel",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1356",
+    "eksternt_varenummer": null,
+    "navn": "æggeblomme",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1336",
+    "eksternt_varenummer": null,
+    "navn": "tomater",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1331",
+    "eksternt_varenummer": null,
+    "navn": "små grove flutes",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1352",
+    "eksternt_varenummer": null,
+    "navn": "ært",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1372",
+    "eksternt_varenummer": null,
+    "navn": "danskvand",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1384",
+    "eksternt_varenummer": null,
+    "navn": "korn af 1 vaniljestang",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1370",
+    "eksternt_varenummer": null,
+    "navn": "gin",
+    "kategori": "Vin & Spiritus",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1315",
+    "eksternt_varenummer": null,
+    "navn": "citron, saft og skal",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1376",
+    "eksternt_varenummer": null,
+    "navn": "skiver flutes",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1381",
+    "eksternt_varenummer": null,
+    "navn": "smør, smeltet",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1316",
+    "eksternt_varenummer": null,
+    "navn": "pecorino ost",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1327",
+    "eksternt_varenummer": null,
+    "navn": "grønne oliven, gerne med citron",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1391",
+    "eksternt_varenummer": null,
+    "navn": "ægnudler",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1403",
+    "eksternt_varenummer": null,
+    "navn": "mynteblad",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1329",
+    "eksternt_varenummer": null,
+    "navn": "skal af 1 citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1319",
+    "eksternt_varenummer": null,
+    "navn": "grillspyd",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1332",
+    "eksternt_varenummer": null,
+    "navn": "kød fra revelsben",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1338",
+    "eksternt_varenummer": null,
+    "navn": "saften 0.5 citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1343",
+    "eksternt_varenummer": null,
+    "navn": "neutral olie til grill",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1349",
+    "eksternt_varenummer": null,
+    "navn": "ærter i bælg",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1353",
+    "eksternt_varenummer": null,
+    "navn": "brød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1355",
+    "eksternt_varenummer": null,
+    "navn": "estragon",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1360",
+    "eksternt_varenummer": null,
+    "navn": "saft fra 0.5 citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1361",
+    "eksternt_varenummer": null,
+    "navn": "store æg",
+    "kategori": "Mejeri",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1371",
+    "eksternt_varenummer": null,
+    "navn": "sugar sirup",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1378",
+    "eksternt_varenummer": null,
+    "navn": "Caesardressing S",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1374",
+    "eksternt_varenummer": null,
+    "navn": "citron skive",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1377",
+    "eksternt_varenummer": null,
+    "navn": "radise",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1386",
+    "eksternt_varenummer": null,
+    "navn": "citronsaft - af en halv citron",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1390",
+    "eksternt_varenummer": null,
+    "navn": "broccolini",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1389",
+    "eksternt_varenummer": null,
+    "navn": "mynte og hvide chokolade spåner",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1399",
+    "eksternt_varenummer": null,
+    "navn": "stødt sort peber",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1401",
+    "eksternt_varenummer": null,
+    "navn": "eddike",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1318",
+    "eksternt_varenummer": null,
+    "navn": "mandelflage",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1321",
+    "eksternt_varenummer": null,
+    "navn": "1 helt fed hvidløg i fed",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1330",
+    "eksternt_varenummer": null,
+    "navn": "barbecuesauce",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1347",
+    "eksternt_varenummer": null,
+    "navn": "5-peberblanding",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1351",
+    "eksternt_varenummer": null,
+    "navn": "salturt",
+    "kategori": "Krydderier",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.698399+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1413",
+    "eksternt_varenummer": null,
+    "navn": "granatæble",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1411",
+    "eksternt_varenummer": null,
+    "navn": "bulgur",
+    "kategori": "Kolonial",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1405",
+    "eksternt_varenummer": null,
+    "navn": "tandoorikrydderi",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1410",
+    "eksternt_varenummer": null,
+    "navn": "persille, dild eller andre krydderurter og spirer",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1419",
+    "eksternt_varenummer": null,
+    "navn": "hvedebrød",
+    "kategori": "Bager",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1421",
+    "eksternt_varenummer": null,
+    "navn": "bæger basilikum",
+    "kategori": "Grønt",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  },
+  {
+    "id": "ing_meny_auto_1425",
+    "eksternt_varenummer": null,
+    "navn": "flanksteak",
+    "kategori": "Slagter",
+    "standard_vare": false,
+    "allergener": [],
+    "alternativ_id": null,
+    "created_at": "2026-06-30T11:54:25.749801+00:00"
+  }
+]

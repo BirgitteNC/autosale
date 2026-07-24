@@ -1,0 +1,3558 @@
+AENDRINGSLOG - MENY Opskrift Opdatering v3
+Genereret: 2026-06-30 13:39
+================================================================================
+
+OPSKRIFT: Gullasch med gulerødder
+  MENY-URL: https://meny.dk/opskrift/gullasch-guleroedder
+  MENY (13 ing): [600 g] kalvebove, [100 g] bacontern, [400 g] gulerødder i grove tern, [1 stk] finthakket løg, [4 stk] stilke bladselleri i mindre stykker, [1 spsk] hvedemel, [2 stk] dåser flåede tomater, [1 stk] dåse koncentreret tomatpuré, [1 tsk] tørret timian, [2 dl] rødvin, [3 dl] oksebouillon, [ ] salt & sort peber, [ ] kartoffelmos eller ris
+    OPDATERET: Ris | 75 gram =>  
+    OPDATERET: Bouillon | 0,75 dl => 3 dl
+    OPDATERET: Gulerødder | 100 gram => 400 g
+    OPDATERET: Salt | 1 knivspids =>  
+    OPDATERET: Hvedemel | 0,25 spsk => 1 spsk
+    OPDATERET: Hakkede Tomater | 0,5 dåse => 2 stk
+    OPDATERET: Løg | 0,25 stk => 1 stk
+    OPDATERET: Tomater (Danske) | 0,5 stk => 2 stk
+    OPDATERET: Friske Tomater | 0,5 stk => 2 stk
+    OPDATERET: Bacon i tern | 25 gram => 400 g
+    OPDATERET: Kalvebov | 150 gram => 600 g
+    UAENDRET:  Timian | 1 tsk
+    INGEN MATCH: Bladsselleri
+  TILFOJET (4):
+    + bacontern | 100 g
+    + stilke bladselleri i mindre stykker | 4 stk
+    + dåse koncentreret tomatpuré | 1 stk
+    + rødvin | 2 dl
+
+OPSKRIFT: Laks med pasta og langtidsbagte tomater, persille og kapers
+  MENY-URL: https://meny.dk/opskrift/laks-pasta-og-langtidsbagte-tomater-persille-og-kapers
+  MENY (9 ing): [600 g] laksefileter, [ ] citronskal  af 1 citron, [500 g] cherrytomater, [2 spsk] olivenolie, [ ] friskkværnet peber og salt, [500 g] frisk pasta, fettucine, [1 dl] kruspersille, hakket, [2 spsk] kapers, hakket, [ ] revet parmigiano reggiano
+    OPDATERET: Olivenolie | 0,5 spsk => 2 spsk
+    OPDATERET: Salt | 1 knivspids =>  
+    OPDATERET: Pasta | 100 gram => 500 g
+    OPDATERET: Frisk Pasta | 125 gram => 500 g
+    OPDATERET: Kapers | 0,5 spsk => 2 spsk
+    OPDATERET: Tomater (Danske) | 125 gram => 500 g
+    INGEN MATCH: Citroner
+    INGEN MATCH: Hakkede Tomater
+    OPDATERET: Frisk Persille | 0,25 dl => 1 dl
+    OPDATERET: Friske Tomater | 125 gram => 500 g
+    INGEN MATCH: Torskefileter
+    INGEN MATCH: Fersk Laks
+  TILFOJET (3):
+    + laksefileter | 600 g
+    + citronskal  af 1 citron |  
+    + revet parmigiano reggiano |  
+
+OPSKRIFT: Tærte med rødløg, spinat, skinke og timian
+  MENY-URL: https://meny.dk/opskrift/tarte-rodlog-spinat-skinke-og-timian
+  MENY (12 ing): [2 fed] hvidløg, [1 spsk] olivenolie, [200 g] spinatblade, [1 pakke] fuldkorns tærtedej, [1.5 dl] revet mozzarellaost, [200 g] skinke- eller wokstrimler, [6 stk] æg, [3 dl] mælk, [1 spsk] frisk timian, [0.5 tsk] friskkværnet peber, [0.5 tsk] salt, [3 stk] rødløg
+    OPDATERET: Salt | 1 drys => 0.5 tsk
+    OPDATERET: Mælk | 0,75 dl => 3 dl
+    OPDATERET: Frisk Spinat | 50 gram => 200 g
+    INGEN MATCH: Skinketern
+    OPDATERET: Kogt Skinke | 50 gram => 200 g
+    OPDATERET: Æg | 1,5 stk => 6 stk
+    INGEN MATCH: Mozarella ost (revet)
+    OPDATERET: Timian | 0,25 tsk => 1 spsk
+    OPDATERET: Fuldkorns tærtedej | 0,25 pakke => 1 pakke
+    OPDATERET: Hvidløg | 0,5 fed => 2 fed
+    OPDATERET: Rødløg | 0,75 stk => 3 stk
+  TILFOJET (3):
+    + olivenolie | 1 spsk
+    + revet mozzarellaost | 1.5 dl
+    + friskkværnet peber | 0.5 tsk
+
+OPSKRIFT: Græsk salat med nye kartofler
+  MENY-URL: https://meny.dk/opskrift/grask-salat-nye-kartofler
+  MENY (12 ing): [500 g] kogte små nye kartofler, [2 stk] agurker, [300 g] røde og gule cherrytomater, [1 stk] lille rødløg, [1 bundt] frisk dild, [1 stk] håndfuld bredbladet persille, [150 g] feta i tern, [75 g] kalamataoliven, [0.5 stk] citronsaft, [5 spsk] olivenolie, [0.5 tsk] salt, [0.5 tsk] sort peber
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Olivenolie |   => 5 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Nye kartofler |   => 500 g
+    INGEN MATCH: Citroner
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Frisk Persille |   => 1 stk
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (8):
+    + agurker | 2 stk
+    + røde og gule cherrytomater | 300 g
+    + lille rødløg | 1 stk
+    + frisk dild | 1 bundt
+    + feta i tern | 150 g
+    + kalamataoliven | 75 g
+    + citronsaft | 0.5 stk
+    + sort peber | 0.5 tsk
+
+OPSKRIFT: Sliders med torpedorejer og avocadocoleslaw
+  MENY-URL: https://meny.dk/opskrift/sliders-torpedorejer-og-avocadocoleslaw
+  MENY (10 ing): [12 stk] torpedo rejer, [200 g] hvidkål, [150 g] gulerødder, [2 stk] avocadoer, [ ] friskpresset limesaft, [ ] groft salt, [1 stk] håndfuld frisk koriander, [1 stk] rød chilipeber, [4 spsk] mayonnaise, [12 stk] sliders
+    OPDATERET: Hvidkål |   => 200 g
+    OPDATERET: Gulerødder |   => 150 g
+    UAENDRET:  Salt |  
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Mayonnaise |   => 4 spsk
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 1 stk
+    INGEN MATCH: Torskefileter
+  TILFOJET (3):
+    + torpedo rejer | 12 stk
+    + friskpresset limesaft |  
+    + sliders | 12 stk
+
+OPSKRIFT: Squash ‘fettuccine’ med sød kartoffelpure, bacon og gedeost
+  MENY-URL: https://meny.dk/opskrift/squash-fettuccine-soed-kartoffelpure-bacon-og-gedeost
+  MENY (7 ing): [500 g] søde kartofler, [150 g] bacontern, [1 stk] grøn squash, [1 spsk] olivenolie, [150 g] friske gedeoste, [1 bundt] purløg, [ ] salt & sort peber
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Olivenolie |   => 1 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Squash |   => 1 stk
+    INGEN MATCH: Bacon i tern
+    INGEN MATCH: Pancetta / Bacon i tern
+  TILFOJET (3):
+    + bacontern | 150 g
+    + friske gedeoste | 150 g
+    + purløg | 1 bundt
+
+OPSKRIFT: Grønne frikadeller med feta, tzatziki og græske kartofler
+  MENY-URL: https://meny.dk/opskrift/groenne-frikadeller-feta-tzatziki-og-graeske-kartofler
+  MENY (11 ing): [800 g] kartofler, [2 stk] løg, [1 stk] rosmarinkvist, [4 spsk] olivenolie, [ ] salt & sort peber, [4 dl] grøntsagsbouillon, [0.33 stk] agurk, [250 g] yoghurt 10% 10%, [300 g] plantefars, [1 fed] hvidløg, [100 g] Puck® salatost i blok
+    OPDATERET: Kartofler |   => 800 g
+    OPDATERET: Bouillon |   => 4 dl
+    OPDATERET: Olivenolie |   => 4 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Løg |   => 2 stk
+    OPDATERET: Hvidløg |   => 2 stk
+  TILFOJET (6):
+    + rosmarinkvist | 1 stk
+    + agurk | 0.33 stk
+    + yoghurt 10% 10% | 250 g
+    + plantefars | 300 g
+    + hvidløg | 1 fed
+    + Puck® salatost i blok | 100 g
+
+OPSKRIFT: Grillet kalvecuvette med jordbær-caprese
+  MENY-URL: https://meny.dk/opskrift/grillet-kalvecuvette-jordbaer-caprese
+  MENY (11 ing): [1 stk] kalvecuvette, [1 tsk] salt, [1 tsk] friskkværnet peber, [3 stk] stilke frisk timian, [500 g] jordbær, [200 g] Arla Karolines Køkken® Mozzarella Tern, [1 stk] bakke rucolasalat, [3 spsk] hvid balsamicoeddike, [1 tsk] havsalt, [ ] friskkværnet peber, [600 g] nye kartofler vendt med krydderurter
+    OPDATERET: Kartofler |   => 600 g
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Nye kartofler |   => 600 g
+  TILFOJET (9):
+    + kalvecuvette | 1 stk
+    + friskkværnet peber | 1 tsk
+    + stilke frisk timian | 3 stk
+    + jordbær | 500 g
+    + Arla Karolines Køkken® Mozzarella Tern | 200 g
+    + bakke rucolasalat | 1 stk
+    + hvid balsamicoeddike | 3 spsk
+    + havsalt | 1 tsk
+    + friskkværnet peber |  
+
+OPSKRIFT: Grillet kyllingebryststeg med ristet majs, chili og forårsløg
+  MENY-URL: https://meny.dk/opskrift/grillet-kyllingebryststeg-ristet-majs-chili-og-foraarsloeg
+  MENY (9 ing): [2 stk] kyllingebryst, [15 tsk] barbecuekrydderi med selleri, [2 spsk] olivenolie, [3 stk] friske majskolber, [1 stk] frisk chili, [1 bundt] forårsløg, [1 stk] dåse sort bønne, [0.5 tsk] havsalt, [ ] friske korianderblade BRUG \
+    INGEN MATCH: Sorte Bønner
+    UAENDRET:  Frisk Koriander |  
+    OPDATERET: Forårsløg |   => 1 bundt
+    OPDATERET: Frisk Chili |   => 1 stk
+  TILFOJET (6):
+    + kyllingebryst | 2 stk
+    + barbecuekrydderi med selleri | 15 tsk
+    + olivenolie | 2 spsk
+    + friske majskolber | 3 stk
+    + dåse sort bønne | 1 stk
+    + havsalt | 0.5 tsk
+
+OPSKRIFT: Gris i kål med chili
+  MENY-URL: https://meny.dk/opskrift/gris-kaal-chili
+  MENY (12 ing): [500 g] hakket grisekød, [2 spsk] olie, [1 tsk] paprika, [1 tsk] rød chilipeber, [0.5 tsk] stødt spidskommen, [300 g] gulerødder, [300 g] knoldselleri, [7 dl] grøntsagsbouillon, [100 g] grønkål, [2 spsk] sojasauce, [ ] creme fraiche 5%, [ ] tørret chiliflage
+    OPDATERET: Hakket Grisekød |   => 500 g
+    OPDATERET: Gulerødder |   => 300 g
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Spidskommen |   => 0.5 tsk
+    UAENDRET:  Creme Fraiche |  
+    OPDATERET: Sojasauce |   => 2 spsk
+    OPDATERET: Frisk Chili |   => 1 tsk
+  TILFOJET (5):
+    + olie | 2 spsk
+    + knoldselleri | 300 g
+    + grøntsagsbouillon | 7 dl
+    + grønkål | 100 g
+    + tørret chiliflage |  
+
+OPSKRIFT: Falafelburger med myntedressing
+  MENY-URL: https://meny.dk/opskrift/falafelburger-myntedressing
+  MENY (19 ing): [250 g] kikærter, [1 stk] løg, [1 fed] hvidløg, [ ] bredbladet persille, [1.5 tsk] stødt koriander, [1.5 tsk] stødt spidskommen, [2 tsk] flagesalt, [1 spsk] sesamfrø, [4 spsk] hvedemel, [1 dl] olivenolie til stegning, [150 g] græsk inspireret yoghurt 10%, [ ] mynte, [1 fed] hvidløg, [ ] salt, [ ] sort peber, [2 stk] tomater, [1 stk] rødløg, [4 stk] burgerboller, [8 blade] hovedsalat
+    OPDATERET: Salt |   => 2 tsk
+    OPDATERET: Hvedemel |   => 4 spsk
+    OPDATERET: Spidskommen |   => 1.5 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 stk
+    OPDATERET: Tomater (Danske) |   => 2 stk
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Hakkede Tomater |   => 2 stk
+    UAENDRET:  Frisk Persille |  
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Friske Tomater |   => 2 stk
+    OPDATERET: Frisk Koriander |   => 1.5 tsk
+  TILFOJET (12):
+    + kikærter | 250 g
+    + hvidløg | 1 fed
+    + sesamfrø | 1 spsk
+    + olivenolie til stegning | 1 dl
+    + græsk inspireret yoghurt 10% | 150 g
+    + mynte |  
+    + hvidløg | 1 fed
+    + salt |  
+    + sort peber |  
+    + rødløg | 1 stk
+    + burgerboller | 4 stk
+    + hovedsalat | 8 blade
+
+OPSKRIFT: Grillet oksecuvette med krydderiblanding og mynte-persillepesto
+  MENY-URL: https://meny.dk/opskrift/grillet-oksecuvette-krydderiblanding-og-mynte-persillepesto
+  MENY (16 ing): [1 stk] oksecuvette ca. 1 kg, [1 tsk] stødt kardemomme, [1 tsk] tørret chiliflage, [1 tsk] røget paprika, [1 tsk] brun farin, [1 tsk] havsalt, [25 g] mynte, [15 g] bredbladet persille, [50 g] valnøddekerner, [0.5 fed] hvidløg, [3 spsk] friskpresset citronsaft, [0.25 tsk] stødt kardemomme, [0.5 stk] lille rød chilipeber, [1 tsk] salt, [1.5 dl] smagsneutral olie, [ ] frisk pebermynteblad
+    INGEN MATCH: Kartofler
+    INGEN MATCH: Grønne Asparges
+  TILFOJET (16):
+    + oksecuvette ca. 1 kg | 1 stk
+    + stødt kardemomme | 1 tsk
+    + tørret chiliflage | 1 tsk
+    + røget paprika | 1 tsk
+    + brun farin | 1 tsk
+    + havsalt | 1 tsk
+    + mynte | 25 g
+    + bredbladet persille | 15 g
+    + valnøddekerner | 50 g
+    + hvidløg | 0.5 fed
+    + friskpresset citronsaft | 3 spsk
+    + stødt kardemomme | 0.25 tsk
+    + lille rød chilipeber | 0.5 stk
+    + salt | 1 tsk
+    + smagsneutral olie | 1.5 dl
+    + frisk pebermynteblad |  
+
+OPSKRIFT: Boller i karry med børnevenlig topping
+  MENY-URL: https://meny.dk/opskrift/boller-karry-boernevenlig-topping
+  MENY (21 ing): [400 g] hakket grisekød, [1 tsk] salt, [0.5 tsk] sort peber, [1 stk] løg, [1 stk] æg, [3 spsk] hvedemel, [1 dl] letmælk, [50 g] smør, [2 tsk] karry, [1 tsk] stødt gurkemeje, [3 spsk] hvedemel, [6 dl] koge vand fra kødbollerne, [1 dl] Arla Karolines Køkken® Piskefløde 38%, [1 tsk] salt, [ ] friskkværnet peber, [1 stk] æble i små tern, [1 dl] rosin, [1 dl] kokosmel, [1 stk] mango i tern, [1 stk] bæger frisk koriander, [250 g] brune ris
+    OPDATERET: Ris |   => 400 g
+    INGEN MATCH: Bouillon
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Mælk |   => 1 dl
+    OPDATERET: Løg |   => 1 stk
+  TILFOJET (16):
+    + sort peber | 0.5 tsk
+    + æg | 1 stk
+    + hvedemel | 3 spsk
+    + smør | 50 g
+    + karry | 2 tsk
+    + stødt gurkemeje | 1 tsk
+    + hvedemel | 3 spsk
+    + koge vand fra kødbollerne | 6 dl
+    + Arla Karolines Køkken® Piskefløde 38% | 1 dl
+    + friskkværnet peber |  
+    + æble i små tern | 1 stk
+    + rosin | 1 dl
+    + kokosmel | 1 dl
+    + mango i tern | 1 stk
+    + bæger frisk koriander | 1 stk
+    + brune ris | 250 g
+
+OPSKRIFT: Andebryststeg med grønkålssalat og syltede appelsiner
+  MENY-URL: https://meny.dk/opskrift/andebryststeg-groenkaalssalat-og-syltede-appelsiner
+  MENY (15 ing): [1 stk] and bryststeg, [2 tsk] salt, [2 stk] appelsiner, [2 dl] vand, [2 dl] sukker, [4 spsk] olivenolie, [2 tsk] honning, [2 spsk] æblecidereddike, [0.5 tsk] salt, [0.5 tsk] sort peber, [300 g] perlebyg, [200 g] grønkål, [100 g] mandler, [1 dl] tørret tranebær, [ ] pynt: skovsyre
+    OPDATERET: Salt |   => 2 tsk
+    OPDATERET: Sukker |   => 2 dl
+  TILFOJET (12):
+    + and bryststeg | 1 stk
+    + appelsiner | 2 stk
+    + vand | 2 dl
+    + olivenolie | 4 spsk
+    + honning | 2 tsk
+    + æblecidereddike | 2 spsk
+    + sort peber | 0.5 tsk
+    + perlebyg | 300 g
+    + grønkål | 200 g
+    + mandler | 100 g
+    + tørret tranebær | 1 dl
+    + pynt: skovsyre |  
+
+OPSKRIFT: Asiatisk kyllingespyd
+  MENY-URL: https://meny.dk/opskrift/asiatisk-kyllingespyd
+  MENY (12 ing): [1 tsk] ristede sesamfrø, [800 g] kyllingefileter, [1 stk] bæger frisk koriander, [1 spsk] korianderfrø, [1 spsk] hakket citrongræs, [1 stk] hakket frisk chili, [1 stk] lime, [1 spsk] honning, [1 tsk] sesamolie, [0.75 dl] olivenolie, [0.5 tsk] salt, [ ] friskkværnet peber
+    OPDATERET: Olivenolie |   => 0.75 dl
+    OPDATERET: Salt |   => 0.5 tsk
+    UAENDRET:  Sort Peber |  
+    OPDATERET: Frisk Koriander |   => 1 stk
+    OPDATERET: Frisk Chili |   => 1 stk
+  TILFOJET (7):
+    + ristede sesamfrø | 1 tsk
+    + kyllingefileter | 800 g
+    + korianderfrø | 1 spsk
+    + hakket citrongræs | 1 spsk
+    + lime | 1 stk
+    + honning | 1 spsk
+    + sesamolie | 1 tsk
+
+OPSKRIFT: Dip med bagt hvidløg og tomater til chips
+  MENY-URL: https://meny.dk/opskrift/dip-bagt-hvidlog-og-tomater-til-chips
+  MENY (5 ing): [2 spsk] olivenolie, [1 stk] helt hvidløg, [250 g] cherrytomater, [ ] salt & peber, [200 g] Arla Karolines Køkken® Græsk inspireret yoghurt 10%
+    UAENDRET:  Salt |  
+    OPDATERET: Hvidløg |   => 1 stk
+    OPDATERET: Tomater (Danske) |   => 250 g
+    INGEN MATCH: Hakkede Tomater
+    OPDATERET: Friske Tomater |   => 250 g
+  TILFOJET (2):
+    + olivenolie | 2 spsk
+    + Arla Karolines Køkken® Græsk inspireret yoghurt 10% | 200 g
+
+OPSKRIFT: Crumblekage med blåbær, tranebær og brunet smør
+  MENY-URL: https://meny.dk/opskrift/crumblekage-blaabaer-tranebaer-og-brunet-smoer
+  MENY (13 ing): [190 g] hvedemel, [150 g] smør, [1.5 tsk] stødt ingefær, [0.5 tsk] stødt kardemomme, [1 tsk] bagepulver, [175 g] sukker, [2 stk] æg, [1.5 dl] mælk, [100 g] sukker, [70 g] hvedemel, [75 g] tranebær, [125 g] blåbær, [2 spsk] perlesukker
+    OPDATERET: Mælk |   => 1.5 dl
+    OPDATERET: Hvedemel |   => 190 g
+    OPDATERET: Sukker |   => 175 g
+    OPDATERET: Bagepulver |   => 1 tsk
+    OPDATERET: Frisk Ingefær |   => 1.5 tsk
+  TILFOJET (6):
+    + smør | 150 g
+    + stødt kardemomme | 0.5 tsk
+    + æg | 2 stk
+    + tranebær | 75 g
+    + blåbær | 125 g
+    + perlesukker | 2 spsk
+
+OPSKRIFT: Indisk karrygryde med kalkun og græskar
+  MENY-URL: https://meny.dk/opskrift/indisk-karrygryde-kalkun-og-graeskar
+  MENY (12 ing): [1 fed] hvidløg, [300 g] hokkaido græskar, [1 spsk] smør, [500 g] kalkunbryster i tern, [1 spsk] finthakket frisk ingefær, [2 tsk] karry, [1 tsk] garam masala, [3 dl] grøntsagsbouillon, [150 g] yoghurt 10%, [ ] ris, [ ] naanbrød, [ ] mangochutney
+    OPDATERET: Ris |   => 1 spsk
+    OPDATERET: Bouillon |   => 3 dl
+    INGEN MATCH: Salt
+    INGEN MATCH: Æg
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Frisk Ingefær |   => 1 spsk
+  TILFOJET (9):
+    + hokkaido græskar | 300 g
+    + smør | 1 spsk
+    + kalkunbryster i tern | 500 g
+    + karry | 2 tsk
+    + garam masala | 1 tsk
+    + yoghurt 10% | 150 g
+    + ris |  
+    + naanbrød |  
+    + mangochutney |  
+
+OPSKRIFT: Glutenfri focaccia med græskar, feta og rosmarin
+  MENY-URL: https://meny.dk/opskrift/glutenfri-focaccia-graeskar-feta-og-rosmarin
+  MENY (10 ing): [25 g] gær, [5 dl] lunkent vand, [450 g] Finax Glutenfri Melmix, [2 spsk] FiberHUSK loppefrøskaller, [ ] groft salt + ekstra til drys, [180 g] græskar, [150 g] Puck® salatost i blok, [2 stk] rosmarinkviste, [3 spsk] olivenolie, [ ] sort peber
+    OPDATERET: Olivenolie |   => 3 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Frisk Rosmarin |   => 2 stk
+  TILFOJET (7):
+    + gær | 25 g
+    + lunkent vand | 5 dl
+    + Finax Glutenfri Melmix | 450 g
+    + FiberHUSK loppefrøskaller | 2 spsk
+    + græskar | 180 g
+    + Puck® salatost i blok | 150 g
+    + sort peber |  
+
+OPSKRIFT: Dorade med citron, hvidløg og persille
+  MENY-URL: https://meny.dk/opskrift/dorade-citron-hvidloeg-og-persille
+  MENY (7 ing): [6 fed] hvidløg, [2 stk] hele dorade fisk, [ ] saft fra 2 øko citroner, [1 bundt] kruspersille, [2 spsk] smør, [ ] olivenolie, [ ] peber og groft salt
+    UAENDRET:  Olivenolie |  
+    INGEN MATCH: Æg
+    UAENDRET:  Citron |  
+    OPDATERET: Hvidløg |   => 6 fed
+    UAENDRET:  Citroner |  
+    OPDATERET: Frisk Persille |   => 1 bundt
+  TILFOJET (3):
+    + hele dorade fisk | 2 stk
+    + smør | 2 spsk
+    + peber og groft salt |  
+
+OPSKRIFT: Ovnstegt kylling med kartofler og svampesauce
+  MENY-URL: https://meny.dk/opskrift/ovnstegt-kylling-kartofler-og-svampesauce
+  MENY (15 ing): [2 stk] oliven, [1 stk] kylling, [ ] salt & sort peber, [2 stk] citroner  i mindre stykker, [2 stk] hele hvidløg i halve, [1 dl] frisk rosmarin, [700 g] små kartofler, [30 g] smør, [2 stk] finthakkede skalotteløg, [2 stk] knust fed hvidløg, [200 g] østershatte i strimler, [200 g] markchampignoner brækket i mindre stykker, [0.5 dl] frisk timian, [2 dl] hvidvin, [3 dl] fløde
+    OPDATERET: Kartofler |   => 700 g
+    OPDATERET: Olivenolie |   => 2 stk
+    OPDATERET: Hvidvin |   => 2 dl
+    UAENDRET:  Salt |  
+    OPDATERET: Citron |   => 2 stk
+    OPDATERET: Hvidløg |   => 2 stk
+    OPDATERET: Hel kylling |   => 1 stk
+    OPDATERET: Små kartofler |   => 700 g
+    OPDATERET: Kyllingebryst |   => 1 stk
+    OPDATERET: Citroner |   => 2 stk
+    OPDATERET: Frisk Rosmarin |   => 1 dl
+    OPDATERET: Østershatte |   => 200 g
+    INGEN MATCH: Enoki Svampe
+    INGEN MATCH: Torskefileter
+  TILFOJET (6):
+    + smør | 30 g
+    + finthakkede skalotteløg | 2 stk
+    + knust fed hvidløg | 2 stk
+    + markchampignoner brækket i mindre stykker | 200 g
+    + frisk timian | 0.5 dl
+    + fløde | 3 dl
+
+OPSKRIFT: Grillet spidskål med urtesmør og parmesan
+  MENY-URL: https://meny.dk/opskrift/grillet-spidskal-urtesmor-og-parmesan
+  MENY (10 ing): [1 stk] spidskål, [1 dl] pinjekerne, [100 g] smør, [1 stk] frisk chili, [1 fed] hvidløg, [1 stk] citron, [2 dl] revet parmigiano reggiano, [1 stk] håndfuld hakket persille eller oregano, kørvel, [0.5 tsk] salt, [0.5 tsk] friskkværnet sort peber
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 0.5 tsk
+    INGEN MATCH: Parmesan
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Spidskål |   => 1 stk
+    OPDATERET: Citroner |   => 1 stk
+    OPDATERET: Frisk Chili |   => 1 stk
+  TILFOJET (4):
+    + pinjekerne | 1 dl
+    + smør | 100 g
+    + revet parmigiano reggiano | 2 dl
+    + håndfuld hakket persille eller oregano, kørvel | 1 stk
+
+OPSKRIFT: madtærte med cherrytomater ricotta og mozzarella
+  MENY-URL: https://meny.dk/opskrift/madtaerte-cherrytomater-ricotta-og-mozzarella
+  MENY (12 ing): [1 pakke] tærtedej, [200 g] cherrytomater, [150 g] sorte oliven uden sten, [1 bundt] frisk basilikum, [125 g] friske mozzarella oste, [75 g] soltørrede tomater, [2 stk] æg, [150 g] ricotta, [1 dl] mælk, [50 g] parmigiano reggiano, [30 g] smør, [ ] salt og sort peber
+    UAENDRET:  Salt |  
+    OPDATERET: Mælk |   => 1 dl
+    OPDATERET: Æg |   => 2 stk
+    INGEN MATCH: Parmesan
+    OPDATERET: Tomater (Danske) |   => 200 g
+    OPDATERET: Hakkede Tomater |   => 75 g
+    OPDATERET: Friske Tomater |   => 200 g
+  TILFOJET (7):
+    + tærtedej | 1 pakke
+    + sorte oliven uden sten | 150 g
+    + frisk basilikum | 1 bundt
+    + friske mozzarella oste | 125 g
+    + ricotta | 150 g
+    + parmigiano reggiano | 50 g
+    + smør | 30 g
+
+OPSKRIFT: Bagt kuller med rosmarinkartofler
+  MENY-URL: https://meny.dk/opskrift/bagt-kuller-rosmarinkartofler
+  MENY (11 ing): [1 kg] kartoffel, [2 stk] løg, [3 spsk] frisk rosmarin, [1 spsk] fennikelfrø, [2 fed] hvidløg, [2 spsk] olivenolie, [ ] salt og sort peber, [4 dl] grøntsagsbouillon, [50 g] blødt smør, [500 g] kullerfileter, [50 g] pankorasp
+    OPDATERET: Bouillon |   => 4 dl
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Løg |   => 2 stk
+    OPDATERET: Hvidløg |   => 2 stk
+  TILFOJET (8):
+    + kartoffel | 1 kg
+    + frisk rosmarin | 3 spsk
+    + fennikelfrø | 1 spsk
+    + hvidløg | 2 fed
+    + olivenolie | 2 spsk
+    + blødt smør | 50 g
+    + kullerfileter | 500 g
+    + pankorasp | 50 g
+
+OPSKRIFT: Bagt hokkaido fyldt med couscoussalat
+  MENY-URL: https://meny.dk/opskrift/bagt-hokkaido-fyldt-med-couscoussalat
+  MENY (11 ing): [2 stk] hokkaido græskar, [2 spsk] olivenolie, [1 stk] knivspids salt og peber, [1.5 dl] vand, [1 dl] couscousgryn, [250 g] hvidkål, [1 stk] håndfuld bredbladet persille, [2 spsk] citronsaft, [50 g] tranebær tørrede, [4 spsk] aioli, [4 spsk] økologisk creme fraiche 9%
+    OPDATERET: Salt |   => 1 stk
+    INGEN MATCH: Æg
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Persille |   => 1 stk
+  TILFOJET (9):
+    + hokkaido græskar | 2 stk
+    + olivenolie | 2 spsk
+    + vand | 1.5 dl
+    + couscousgryn | 1 dl
+    + hvidkål | 250 g
+    + citronsaft | 2 spsk
+    + tranebær tørrede | 50 g
+    + aioli | 4 spsk
+    + økologisk creme fraiche 9% | 4 spsk
+
+OPSKRIFT: Butterdejstærte med brie, pære, rosmarin og honning
+  MENY-URL: https://meny.dk/opskrift/butterdejstaerte-brie-paere-rosmarin-og-honning
+  MENY (9 ing): [0.5 pakke] butterdej, [200 g] Castello® økologisk brie, [1 stk] pære, [1 spsk] olivenolie, [ ] salt og sort peber, [25 g] valnøddekerner, [1 stk] rosmarinkvist, [2 spsk] flydende honning, [1 stk] æg
+    OPDATERET: Olivenolie |   => 1 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Frisk Rosmarin |   => 1 stk
+  TILFOJET (6):
+    + butterdej | 0.5 pakke
+    + Castello® økologisk brie | 200 g
+    + pære | 1 stk
+    + valnøddekerner | 25 g
+    + flydende honning | 2 spsk
+    + æg | 1 stk
+
+OPSKRIFT: Helstegt oksemørbrad med pommes anna, palmekålchips, blåbær og rødvinssauce
+  MENY-URL: https://meny.dk/opskrift/helstegt-oksemoerbrad-pommes-anna-palmekaalchips-blaabaer-og-roedvinssauce
+  MENY (21 ing): [0.5 tsk] salt, [600 g] oksemørbrad, [0.5 tsk] friskkværnet peber, [50 g] smør, [2 stk] rosmarinkviste, [700 g] kartofler, faste, [3 fed] hvidløg, [100 g] smør, [1 dl] frisk timian, [0.5 tsk] salt, [0.5 tsk] friskkværnet peber, [2 stk] skalotteløg, [3 dl] rødvin, [2 stk] laurbærblade, [1 stilk] timianblad, [0.5 stk] friskkværnet peber, [3 dl] koncentreret kalvefond, [1 spsk] smør, [1 spsk] olivenolie, [1 tsk] flagesalt, [ ] Pynt: 1 dl blåbær
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 0.5 tsk
+    OPDATERET: Frisk Rosmarin |   => 2 stk
+    INGEN MATCH: Æg
+    OPDATERET: Hvidløg |   => 3 fed
+    OPDATERET: Kartofler |   => 700 g
+  TILFOJET (12):
+    + oksemørbrad | 600 g
+    + smør | 50 g
+    + smør | 100 g
+    + frisk timian | 1 dl
+    + skalotteløg | 2 stk
+    + rødvin | 3 dl
+    + laurbærblade | 2 stk
+    + timianblad | 1 stilk
+    + koncentreret kalvefond | 3 dl
+    + smør | 1 spsk
+    + flagesalt | 1 tsk
+    + Pynt: 1 dl blåbær |  
+
+OPSKRIFT: Kalveculotte med pocherede grøntsager og kapersmayonnaise
+  MENY-URL: https://meny.dk/opskrift/kalveculotte-pocherede-groentsager-og-kapersmayonnaise
+  MENY (17 ing): [900 g] kalveculotter, [20 g] smør, [ ] salt & sort peber, [6 dl] vand, [1 stk] løg i både, [3 stk] laurbærblade, [25 g] smør, [1 tsk] salt, [3 spsk] hvidvinseddike, [150 g] grønne asparges, [4 stk] gulerødder skåret på langs, [1 stk] fennikel skåret i både på langs, [1 stk] grøn squash skåret på langs, [8 stk] forårsløg i halve, [2 dl] mayonnaise, [1 tsk] dijonsennep, [40 g] kapers grofthakket
+    UAENDRET:  Salt |  
+    OPDATERET: Squash |   => 1 stk
+    OPDATERET: Kalveculotte |   => 900 g
+    OPDATERET: Fennikel |   => 1 stk
+    OPDATERET: Mayonnaise |   => 2 dl
+    OPDATERET: Kapers |   => 40 g
+    OPDATERET: Forårsløg |   => 8 stk
+    OPDATERET: Gulerødder |   => 4 stk
+    INGEN MATCH: Frisk Rosmarin
+  TILFOJET (9):
+    + smør | 20 g
+    + vand | 6 dl
+    + løg i både | 1 stk
+    + laurbærblade | 3 stk
+    + smør | 25 g
+    + salt | 1 tsk
+    + hvidvinseddike | 3 spsk
+    + grønne asparges | 150 g
+    + dijonsennep | 1 tsk
+
+OPSKRIFT: Indisk kyllingegryde med røde linser, perlebyg og creme fraiche
+  MENY-URL: https://meny.dk/opskrift/indisk-kyllingegryde-roede-linser-perlebyg-og-creme-fraiche
+  MENY (22 ing): [2 stk] gulerødder, [500 g] kyllingeinderfileter, [2 stk] løg, [2 fed] hvidløg, [1 stk] frisk chili, [1 spsk] frisk ingefær, [0.5 spsk] smagsneutral olie, [1 tsk] paprika, [1.5 dl] tørrede røde linser, [400 g] hakkede tomater, [380 g] kokosmælk, [1 stk] hønsebouillon, [ ] Evt. lidt vand, [0.5 tsk] salt, [0.5 tsk] sort peber, [3 dl] perlebyg, [2 stk] æbler, [1 stk] lime, [1 dl] cashewnød, [1 dl] creme fraiche 18%, [0.5 spsk] olivenolie, [2 dl] frisk koriander
+    OPDATERET: Gulerødder |   => 2 stk
+    OPDATERET: Olivenolie |   => 0.5 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 0.5 tsk
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Kokosmælk |   => 380 g
+    OPDATERET: Hakkede Tomater |   => 400 g
+    OPDATERET: Røde Linser |   => 1.5 dl
+    OPDATERET: Creme Fraiche |   => 1 dl
+    OPDATERET: Hvidløg |   => 2 stk
+    OPDATERET: Tomater (Danske) |   => 400 g
+    OPDATERET: Frisk Ingefær |   => 1 spsk
+    OPDATERET: Friske Tomater |   => 400 g
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 2 dl
+  TILFOJET (9):
+    + kyllingeinderfileter | 500 g
+    + hvidløg | 2 fed
+    + smagsneutral olie | 0.5 spsk
+    + hønsebouillon | 1 stk
+    + Evt. lidt vand |  
+    + perlebyg | 3 dl
+    + æbler | 2 stk
+    + lime | 1 stk
+    + cashewnød | 1 dl
+
+OPSKRIFT: Brændende kærlighed med linser
+  MENY-URL: https://meny.dk/opskrift/brandende-karlighed-linser
+  MENY (14 ing): [1 kg] kartoffel, [3 dl] mælk, [50 g] smør, [ ] salt og hvid peber, [1 stk] knivspids revet muskatnød, [3 stk] store løg, [2 stk] gulerødder, [2 spsk] olivenolie, [20 g] smør, [1 stk] dåse grønne linser i vand, [ ] salt og peber, [6 stk] kviste frisk timian, [2 spsk] mørk balsamicoeddike, [ ] syltet rødbede
+    INGEN MATCH: Kartofler
+    OPDATERET: Gulerødder |   => 2 stk
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Mælk |   => 3 dl
+    OPDATERET: Koldt vand |   => 1 stk
+    OPDATERET: Løg |   => 3 stk
+  TILFOJET (8):
+    + kartoffel | 1 kg
+    + smør | 50 g
+    + knivspids revet muskatnød | 1 stk
+    + smør | 20 g
+    + salt og peber |  
+    + kviste frisk timian | 6 stk
+    + mørk balsamicoeddike | 2 spsk
+    + syltet rødbede |  
+
+OPSKRIFT: Grillet lam med zhoug og tabouleh med majs og avocado
+  MENY-URL: https://meny.dk/opskrift/grillet-lam-zhoug-og-tabouleh-majs-og-avocado
+  MENY (23 ing): [2.5 dl] vand, [1.5 dl] couscousgryn, [250 g] cherrytomater, [2 stk] friske majskolber, [2 stk] avocadoer, [1 stk] frisk chili, [1 stk] håndfuld frisk koriander, [1 stk] håndfuld frisk bredbladet persille, [3 spsk] olivenolie, [2 spsk] citronsaft, [0.5 tsk] salt, [0.5 tsk] sort peber, [2 stk] lammeculotter, [1 stk] håndfuld frisk koriander, [1 stk] håndfuld bredbladet persille, [1 fed] hvidløg, [0.5 tsk] stødt kardemomme, [0.5 tsk] stødt spidskommen, [1 stk] grøn chilipeber, [3 spsk] citronsaft, [0.5 dl] vand, [0.5 tsk] salt, [0.5 tsk] sort peber
+    OPDATERET: Olivenolie |   => 3 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Spidskommen |   => 0.5 tsk
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Persille |   => 1 stk
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 1 stk
+    INGEN MATCH: Lammekølle (ca. 1,5 kg)
+  TILFOJET (13):
+    + vand | 2.5 dl
+    + couscousgryn | 1.5 dl
+    + cherrytomater | 250 g
+    + friske majskolber | 2 stk
+    + citronsaft | 2 spsk
+    + sort peber | 0.5 tsk
+    + lammeculotter | 2 stk
+    + håndfuld bredbladet persille | 1 stk
+    + stødt kardemomme | 0.5 tsk
+    + grøn chilipeber | 1 stk
+    + citronsaft | 3 spsk
+    + vand | 0.5 dl
+    + sort peber | 0.5 tsk
+
+OPSKRIFT: Jalapeño poppers med bacon og cheddar
+  MENY-URL: https://meny.dk/opskrift/jalapeno-poppers-bacon-og-cheddar
+  MENY (7 ing): [100 g] bacon i skiver, [150 g] flødeost naturel, [75 g] revet Cheasy® cheddar, [0.5 tsk] paprika, [2 spsk] finthakket purløg, [12 stk] friske Santa Maria Green Jalapeño, [2 spsk] rasp
+    OPDATERET: Paprika |   => 0.5 tsk
+    OPDATERET: Bacon i tern |   => 100 g
+    OPDATERET: Pancetta / Bacon i tern |   => 100 g
+  TILFOJET (5):
+    + flødeost naturel | 150 g
+    + revet Cheasy® cheddar | 75 g
+    + finthakket purløg | 2 spsk
+    + friske Santa Maria Green Jalapeño | 12 stk
+    + rasp | 2 spsk
+
+OPSKRIFT: Braiseret kalvespidsbryst med urter
+  MENY-URL: https://meny.dk/opskrift/braiseret-kalvespidsbryst-urter
+  MENY (19 ing): [1 spsk] groft salt, [1 kg] kalvespidsbryst, [25 g] smør til bruning, [2 stk] gulerødder, [3 stk] stilke bladselleri, [2 stk] løg, [5 fed] hvidløg, [2 stk] laurbærblade, [0.5 dl] frisk oregano, [10 stk] peberkorn, [2 dl] rødvin, [4 dl] hønsebouillon, [2 spsk] majsstivelse, [3 stk] stilke bladselleri, [1 stk] rød peberfrugt, [1 stk] gul peberfrugt, [ ] groft salt, [ ] friskkværnet peber, [ ] frisk oregano
+    OPDATERET: Gulerødder |   => 2 stk
+    OPDATERET: Salt |   => 1 spsk
+    OPDATERET: Oregano |   => 0.5 dl
+    INGEN MATCH: Koldt vand
+    OPDATERET: Løg |   => 2 stk
+    OPDATERET: Hvidløg |   => 2 stk
+  TILFOJET (13):
+    + kalvespidsbryst | 1 kg
+    + smør til bruning | 25 g
+    + stilke bladselleri | 3 stk
+    + hvidløg | 5 fed
+    + laurbærblade | 2 stk
+    + peberkorn | 10 stk
+    + rødvin | 2 dl
+    + hønsebouillon | 4 dl
+    + majsstivelse | 2 spsk
+    + stilke bladselleri | 3 stk
+    + rød peberfrugt | 1 stk
+    + gul peberfrugt | 1 stk
+    + friskkværnet peber |  
+
+OPSKRIFT: Svampe-bønne stroganoff med filotopping
+  MENY-URL: https://meny.dk/opskrift/svampe-bonne-stroganoff-filotopping
+  MENY (14 ing): [1 fed] hvidløg, [2 stk] løg, [400 g] blandede svampe, [2 spsk] olivenolie, [2 spsk] frisk timian, [ ] salt og sort peber, [2 stk] dåser sorte bønner, [1 spsk] koncentreret tomatpuré, [2 tsk] paprika, [2 spsk] sojasauce, [2 dl] piskefløde, [2 spsk] majsstivelse, [4 stk] ark filodej, [25 g] smeltet smør
+    UAENDRET:  Salt |  
+    OPDATERET: Paprika |   => 2 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Sojasauce |   => 2 spsk
+    OPDATERET: Løg |   => 1 fed
+    INGEN MATCH: Østershatte
+    OPDATERET: Enoki Svampe |   => 400 g
+  TILFOJET (9):
+    + løg | 2 stk
+    + olivenolie | 2 spsk
+    + frisk timian | 2 spsk
+    + dåser sorte bønner | 2 stk
+    + koncentreret tomatpuré | 1 spsk
+    + piskefløde | 2 dl
+    + majsstivelse | 2 spsk
+    + ark filodej | 4 stk
+    + smeltet smør | 25 g
+
+OPSKRIFT: Tacos med grillet laks, spidskålsalat og avocado
+  MENY-URL: https://meny.dk/opskrift/tacos-grillet-laks-spidskalsalat-avocado
+  MENY (11 ing): [300 g] laksefileter, [1 spsk] olivenolie, [1 spsk] tacokrydderi el. texmex blanding, [150 g] spidskål, [ ] Saft af 0.5 lime, [1 stk] håndfuld frisk koriander, [2 stk] avocadoer, [150 g] creme fraiche 18%, [1 spsk] chiliflage, [ ] lille tortilla, [4 stk] limebåde
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Creme Fraiche |   => 150 g
+    OPDATERET: Frisk Koriander |   => 1 stk
+    INGEN MATCH: Torskefileter
+    INGEN MATCH: Fersk Laks
+  TILFOJET (8):
+    + laksefileter | 300 g
+    + olivenolie | 1 spsk
+    + tacokrydderi el. texmex blanding | 1 spsk
+    + spidskål | 150 g
+    + Saft af 0.5 lime |  
+    + chiliflage | 1 spsk
+    + lille tortilla |  
+    + limebåde | 4 stk
+
+OPSKRIFT: Boller med frysetørret hindbær og græskarkerner
+  MENY-URL: https://meny.dk/opskrift/boller-frysetoerret-hindbaer-og-graeskarkerner
+  MENY (9 ing): [50 g] gær, [5 dl] lunken sødmælk, [50 g] smeltet smør, [1 tsk] salt, [1 tsk] sukker, [3 spsk] frysetørrede hindbær, [1 dl] hakket græskarkerner, [750 g] hvedemel, [1 stk] sammenpisket æg til pensling
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Sukker |   => 1 tsk
+  TILFOJET (7):
+    + gær | 50 g
+    + lunken sødmælk | 5 dl
+    + smeltet smør | 50 g
+    + frysetørrede hindbær | 3 spsk
+    + hakket græskarkerner | 1 dl
+    + hvedemel | 750 g
+    + sammenpisket æg til pensling | 1 stk
+
+OPSKRIFT: Cæsarsalat med ristet blomkål og croutoner
+  MENY-URL: https://meny.dk/opskrift/caesarsalat-ristet-blomkaal-og-croutoner
+  MENY (19 ing): [500 g] blomkål, [2 spsk] olivenolie, [1 fed] hvidløg, [1 tsk] paprika, [ ] salt, [ ] sort peber, [150 g] daggammelt hvedebrød f.eks. ciabatta, [1 stk] romainesalat, [250 g] cherrytomater, [2 stk] ansjosfileter, [0.5 fed] hvidløg, [1 tsk] dijonsennep, [75 g] mayonnaise, [2 spsk] friskpresset citronsaft, [2 tsk] engelsk sauce, [20 g] fintrevet parmigiano reggiano, [ ] vand, [ ] salt, [ ] sort peber
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Paprika |   => 1 tsk
+    INGEN MATCH: Parmesan
+    OPDATERET: Mayonnaise |   => 75 g
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Tomater (Danske) |   => 250 g
+    INGEN MATCH: Citroner
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Hakkede Tomater
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Friske Tomater |   => 250 g
+  TILFOJET (11):
+    + blomkål | 500 g
+    + sort peber |  
+    + daggammelt hvedebrød f.eks. ciabatta | 150 g
+    + romainesalat | 1 stk
+    + ansjosfileter | 2 stk
+    + dijonsennep | 1 tsk
+    + friskpresset citronsaft | 2 spsk
+    + engelsk sauce | 2 tsk
+    + fintrevet parmigiano reggiano | 20 g
+    + vand |  
+    + sort peber |  
+
+OPSKRIFT: Hindbær kage
+  MENY-URL: https://meny.dk/opskrift/hindbaer-kage
+  MENY (16 ing): [3 stk] æg, [3 dl] sukker, [1 stk] vaniljestang, [3 dl] hvedemel, [1.5 tsk] bagepulver, [100 spsk] smør, [400 g] friske hindbær, [50 g] revet marcipan, [50 g] hakkede mandler, [30 g] sukker, [ ] pynt: hindbær &, [ ] mynte, [2 dl] kvark, 0,3% rørt op med, [ ] lidt citron, [ ] vaniljesukker &, [ ] flormelis
+    OPDATERET: Sukker |   => 3 dl
+    OPDATERET: Bagepulver |   => 1.5 tsk
+  TILFOJET (13):
+    + æg | 3 stk
+    + vaniljestang | 1 stk
+    + hvedemel | 3 dl
+    + smør | 100 spsk
+    + friske hindbær | 400 g
+    + revet marcipan | 50 g
+    + hakkede mandler | 50 g
+    + pynt: hindbær & |  
+    + mynte |  
+    + kvark, 0,3% rørt op med | 2 dl
+    + lidt citron |  
+    + vaniljesukker & |  
+    + flormelis |  
+
+OPSKRIFT: Mormors vintertarteletter
+  MENY-URL: https://meny.dk/opskrift/mormors-vintertarteletter
+  MENY (12 ing): [1 stk] kylling, [1 liter] vand, [1 stk] løg, [1 stk] porre, [2 stk] gulerødder, [ ] salt og hvid peber, [50 g] smør, [3 spsk] hvedemel, [1 dl] piskefløde, [4 dl] hønsekødssuppe, [1 dl] kruspersille, [ ] tilbehør: lune tartelet
+    OPDATERET: Gulerødder |   => 2 stk
+    OPDATERET: Porrer |   => 1 stk
+    UAENDRET:  Salt |  
+  TILFOJET (9):
+    + kylling | 1 stk
+    + vand | 1 liter
+    + løg | 1 stk
+    + smør | 50 g
+    + hvedemel | 3 spsk
+    + piskefløde | 1 dl
+    + hønsekødssuppe | 4 dl
+    + kruspersille | 1 dl
+    + tilbehør: lune tartelet |  
+
+OPSKRIFT: Tærte med rødbede, gedeost og rødløg
+  MENY-URL: https://meny.dk/opskrift/tarte-rodbede-gedeost-rodlog
+  MENY (16 ing): [150 g] hvedemel, [50 g] ølandshvedemel, [100 g] koldt smør skåret i tern. + 1tsk. til formen, [1 tsk] flagesalt, [1 stk] æggeblomme, [1 spsk] koldt vand, [400 g] rødbeder, [3 stk] små rødløg, [1 spsk] olivenolie, [ ] salt og peber, [75 g] friske gedeoste, [2 spsk] frisk timian, [3 stk] æg, [1 dl] piskefløde, [100 g] creme fraiche, [2 spsk] dijonsennep
+    INGEN MATCH: Ris
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Æg |   => 1 stk
+    OPDATERET: Creme Fraiche |   => 100 g
+  TILFOJET (12):
+    + hvedemel | 150 g
+    + ølandshvedemel | 50 g
+    + koldt smør skåret i tern. + 1tsk. til formen | 100 g
+    + koldt vand | 1 spsk
+    + rødbeder | 400 g
+    + små rødløg | 3 stk
+    + salt og peber |  
+    + friske gedeoste | 75 g
+    + frisk timian | 2 spsk
+    + æg | 3 stk
+    + piskefløde | 1 dl
+    + dijonsennep | 2 spsk
+
+OPSKRIFT: Hasselback kylling med rød pesto og sauteret grønt
+  MENY-URL: https://meny.dk/opskrift/hasselback-kylling-roed-pesto-og-sauteret-groent
+  MENY (8 ing): [4 stk] kyllingebryststykker med ben, [100 g] rød pesto, [150 g] haricots verts, [300 g] hvidkål, [1 spsk] olivenolie, [200 g] edamamebønner, [1 fed] hvidløg, [75 g] sorte oliven
+    OPDATERET: Kyllingebryst |   => 4 stk
+    INGEN MATCH: Æg
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Hel kylling
+  TILFOJET (6):
+    + rød pesto | 100 g
+    + haricots verts | 150 g
+    + hvidkål | 300 g
+    + olivenolie | 1 spsk
+    + edamamebønner | 200 g
+    + sorte oliven | 75 g
+
+OPSKRIFT: Broccolipesto med sprøde rugbrødschips
+  MENY-URL: https://meny.dk/opskrift/broccolipesto-sproede-rugbroedschips
+  MENY (10 ing): [50 g] hasselnødder, [250 g] broccoli, [1 dl] kruspersille, [1 tsk] hakket rød chilipeber, [1 fed] hvidløg, [0.5 dl] vand, [2 spsk] friskpresset citronsaft, [1 tsk] salt, [1 dl] olivenolie, [100 g] rugbrødschips med salt som tilbehør
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Pasta
+    OPDATERET: Broccoli |   => 250 g
+    OPDATERET: Hasselnødder |   => 50 g
+    OPDATERET: Rugbrødschips |   => 100 g
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Frisk Persille |   => 1 dl
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Frisk Chili |   => 1 tsk
+  TILFOJET (3):
+    + vand | 0.5 dl
+    + friskpresset citronsaft | 2 spsk
+    + olivenolie | 1 dl
+
+OPSKRIFT: Græsk-inspireret lammekølle
+  MENY-URL: https://meny.dk/opskrift/graesk-inspireret-lammekoelle
+  MENY (8 ing): [4 fed] hvidløg, [1.5 kg] lammekøller, [2 tsk] tørret oregano, [1 stk] knust laurbærblad, [0.5 stk] citronskal, [1 tsk] groft salt, [ ] friskkværnet peber, [2 spsk] olivenolie
+    INGEN MATCH: Kartofler
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Oregano |   => 2 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Hvidløg |   => 4 fed
+    INGEN MATCH: Tomater (Danske)
+    INGEN MATCH: Citroner
+    INGEN MATCH: Hakkede Tomater
+    INGEN MATCH: Friske Tomater
+    OPDATERET: Lammekølle (ca. 1,5 kg) |   => 1.5 kg
+  TILFOJET (3):
+    + knust laurbærblad | 1 stk
+    + citronskal | 0.5 stk
+    + friskkværnet peber |  
+
+OPSKRIFT: Ramen med smilende æg, boghvedenudler og sprød topping
+  MENY-URL: https://meny.dk/opskrift/ramen-smilende-ag-boghvedenudler-og-sprod-topping
+  MENY (13 ing): [4 stk] æg, [400 g] boghvede nudler, [1 liter] grøntsagsbouillon, [2 dl] fløde, [4 spsk] sojasauce, [100 g] lilla spidskål, [1 stk] frisk chili, [100 g] østershatte, [ ] lidt olie til stegning, [100 g] enokisvampe, [80 g] bønnespirer, [ ] ristede sesamfrø, [ ] friskkværnet peber
+    INGEN MATCH: Gulerødder
+    OPDATERET: Sojasauce |   => 4 spsk
+    OPDATERET: Bønnespirer |   => 80 g
+    INGEN MATCH: Frisk Koriander
+    INGEN MATCH: Koldt vand
+    OPDATERET: Spidskål |   => 100 g
+    OPDATERET: Frisk Chili |   => 1 stk
+    INGEN MATCH: Enoki Svampe
+  TILFOJET (9):
+    + æg | 4 stk
+    + boghvede nudler | 400 g
+    + grøntsagsbouillon | 1 liter
+    + fløde | 2 dl
+    + østershatte | 100 g
+    + lidt olie til stegning |  
+    + enokisvampe | 100 g
+    + ristede sesamfrø |  
+    + friskkværnet peber |  
+
+OPSKRIFT: Langtidsstegt lammekølle med rosmarin & rodfrugter
+  MENY-URL: https://meny.dk/opskrift/langtidsstegt-lammekoelle-rosmarin-rodfrugter
+  MENY (13 ing): [ ] Skal og saft af 2 citroner, [1 stk] lammekølle, [2 stk] rosmarinkviste, [4 fed] hvidløg, [2 dl] god olivenolie, [ ] groft salt, [ ] friskkværnet peber, [1 kg] kartoffel, [2 stk] løg, [4 stk] gulerødder, [1 stk] persillerod, [2 dl] hvidvin, [2 dl] Arla Karolines Køkken® Madlavningsfløde 15%
+    INGEN MATCH: Kartofler
+    OPDATERET: Olivenolie |   => 2 dl
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Løg |   => 4 fed
+    OPDATERET: Hvidløg |   => 4 fed
+    UAENDRET:  Citroner |  
+    OPDATERET: Frisk Rosmarin |   => 2 stk
+    OPDATERET: Lammekølle (ca. 1,5 kg) |   => 1 stk
+  TILFOJET (7):
+    + friskkværnet peber |  
+    + kartoffel | 1 kg
+    + løg | 2 stk
+    + gulerødder | 4 stk
+    + persillerod | 1 stk
+    + hvidvin | 2 dl
+    + Arla Karolines Køkken® Madlavningsfløde 15% | 2 dl
+
+OPSKRIFT: Coq au vin
+  MENY-URL: https://meny.dk/opskrift/coq-au-vin
+  FEJL: Anmodningen blev afslået: Forbindelsen blev afbrudt uventet..
+
+OPSKRIFT: Hindbærcheesecake
+  MENY-URL: https://meny.dk/opskrift/hindbarcheesecake
+  MENY (12 ing): [250 g] hindbær, [50 g] sukker, [150 g] digestive kiks, [75 g] smør, [3 blade] husblas, [1 stk] vaniljestang, [200 g] flødeost naturel, [150 g] græsk inspireret yoghurt, [40 g] flormelis, [2 spsk] citronsaft, [2.5 dl] piskefløde, [8 stk] marengs kys
+    INGEN MATCH: Æg
+    OPDATERET: Sukker |   => 50 g
+    INGEN MATCH: Koldt vand
+    INGEN MATCH: Citroner
+  TILFOJET (11):
+    + hindbær | 250 g
+    + digestive kiks | 150 g
+    + smør | 75 g
+    + husblas | 3 blade
+    + vaniljestang | 1 stk
+    + flødeost naturel | 200 g
+    + græsk inspireret yoghurt | 150 g
+    + flormelis | 40 g
+    + citronsaft | 2 spsk
+    + piskefløde | 2.5 dl
+    + marengs kys | 8 stk
+
+OPSKRIFT: Bagt kartoffel med linsechili, korianderdressing og ost
+  MENY-URL: https://meny.dk/opskrift/bagt-kartoffel-med-linsechili-korianderdressing-og-ost
+  MENY (16 ing): [1 stk] løg, [4 stk] bagekartofler, [1 fed] hvidløg, [1 stk] gulerod, [1 spsk] olivenolie, [1 tsk] stødt spidskommen, [1 tsk] paprika, [0.5 tsk] røget paprika, [2 spsk] koncentreret tomatpuré, [4 dl] vand, [150 g] tørrede røde linser, [1 stk] knivspids salt og peber, [1 stk] håndfuld frisk koriander + ekstra til servering, [2 dl] økologisk creme fraiche 9%, [150 g] revet mozzarellaost, [1 stk] frisk chili
+    INGEN MATCH: Gulerødder
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Spidskommen |   => 1 tsk
+    OPDATERET: Revet Ost |   => 150 g
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 stk
+    OPDATERET: Kartofler |   => 4 stk
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 1 stk
+  TILFOJET (8):
+    + hvidløg | 1 fed
+    + gulerod | 1 stk
+    + olivenolie | 1 spsk
+    + røget paprika | 0.5 tsk
+    + koncentreret tomatpuré | 2 spsk
+    + vand | 4 dl
+    + tørrede røde linser | 150 g
+    + økologisk creme fraiche 9% | 2 dl
+
+OPSKRIFT: Gulerodsboller
+  MENY-URL: https://meny.dk/opskrift/gulerodsboller
+  FEJL: Anmodningen blev afslået: Forbindelsen blev afbrudt uventet..
+
+OPSKRIFT: Culottesteg med cajun rub og spicy grillet majs
+  MENY-URL: https://meny.dk/opskrift/culottesteg-med-cajun-rub-og-spicy-grillet-majs
+  MENY (15 ing): [1 stk] oksecuvette, [1 tsk] paprika, [1 tsk] tørret oregano, [1 tsk] stødt spidskommen, [ ] salt og peber, [1 fed] hvidløg, [2 spsk] olivenolie, [4 stk] majskolber, [100 g] smør, [1 stk] håndfuld frisk koriander, [1 fed] hvidløg, [0.5 tsk] røget paprika, [1 tsk] chiliflage, [1 stk] limeskal, [ ] salt og peber
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Oregano |   => 1 tsk
+    OPDATERET: Spidskommen |   => 1 tsk
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Frisk Koriander |   => 1 stk
+  TILFOJET (6):
+    + oksecuvette | 1 stk
+    + majskolber | 4 stk
+    + smør | 100 g
+    + røget paprika | 0.5 tsk
+    + chiliflage | 1 tsk
+    + limeskal | 1 stk
+
+OPSKRIFT: Hvid varm chokolade med ristet kokos
+  MENY-URL: https://meny.dk/opskrift/hvid-varm-chokolade-ristet-kokos
+  MENY (5 ing): [2 spsk] kokosmel, [1.5 dl] Arla Karolines Køkken® Piskefløde 38%, [1 liter] letmælk, [150 g] hvid chokolade, [1 tsk] vaniljesukker
+    OPDATERET: Mælk |   => 1 liter
+    OPDATERET: Vaniljesukker |   => 1 tsk
+  TILFOJET (3):
+    + kokosmel | 2 spsk
+    + Arla Karolines Køkken® Piskefløde 38% | 1.5 dl
+    + hvid chokolade | 150 g
+
+OPSKRIFT: Butterdejssnegle med Jarlsberg® og rosmarin
+  MENY-URL: https://meny.dk/opskrift/butterdejssnegle-jarlsberg-og-rosmarin
+  MENY (4 ing): [1 stk] plade butterdej, [1 stk] kvist frisk rosmarin, [ ] salt og peber, [1 dl] Jarlsberg® Revet
+    INGEN MATCH: Kanelsnegle
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Frisk Rosmarin |   => 1 stk
+  TILFOJET (2):
+    + plade butterdej | 1 stk
+    + Jarlsberg® Revet | 1 dl
+
+OPSKRIFT: Grillede tortillas med krydrede kødboller, creme fraiche og rødløg
+  MENY-URL: https://meny.dk/opskrift/grillede-tortillas-krydrede-koedboller-creme-fraiche-og-roedloeg
+  MENY (16 ing): [400 g] hakket grise- og kalvekød, [1 tsk] salt, [1 tsk] stødt spidskommen, [1 tsk] stødt kanel, [0.5 tsk] cayennepeber, [1 stk] æg, [2 spsk] hvedemel, [0.5 dl] letmælk, [2 dl] rasp, [0.5 dl] olie til stegning, [4 stk] store tortillaer, [4 spsk] creme fraiche 18%, [1 stk] rødløg i tynde ringe, [0.5 stk] agurk i strimler, [2 stk] bægre frisk koriander, [ ] tørret chiliflage
+    INGEN MATCH: Hakket Kalv og Flæsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Mælk |   => 0.5 dl
+    OPDATERET: Spidskommen |   => 1 tsk
+    INGEN MATCH: Tortillas
+    OPDATERET: Creme Fraiche |   => 4 spsk
+    OPDATERET: Frisk Koriander |   => 2 stk
+    INGEN MATCH: Hakket Gris & Kalv
+  TILFOJET (11):
+    + hakket grise- og kalvekød | 400 g
+    + stødt kanel | 1 tsk
+    + cayennepeber | 0.5 tsk
+    + æg | 1 stk
+    + hvedemel | 2 spsk
+    + rasp | 2 dl
+    + olie til stegning | 0.5 dl
+    + store tortillaer | 4 stk
+    + rødløg i tynde ringe | 1 stk
+    + agurk i strimler | 0.5 stk
+    + tørret chiliflage |  
+
+OPSKRIFT: Braiseret hjerte med stegte æbler, kål og linser
+  MENY-URL: https://meny.dk/opskrift/braiseret-hjerte-stegte-aebler-kaal-og-linser
+  MENY (20 ing): [800 stk] 800 g grisehjerter, [25 g] smør, [2 stk] løg, [1 fed] hvidløg, [3 stk] timianblade, [1 dl] hvidvin, [5 dl] hønsebouillon, [200 g] knoldselleri, [4 stk] gulerødder, [1.5 dl] Arla Karolines Køkken® Piskefløde 38%, [ ] salt og friskkværnet peber, [250 g] tørrede grønne linser, [8 dl] grøntsagsbouillon, [1 tsk] salt, [25 g] smør, [200 g] rosenkål, [4 stk] æbler, [1 spsk] honning, [ ] salt og friskkværnet peber, [ ] frisk timian
+    OPDATERET: Bouillon |   => 5 dl
+    OPDATERET: Gulerødder |   => 4 stk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Koldt vand
+    OPDATERET: Løg |   => 2 stk
+    OPDATERET: Hvidløg |   => 2 stk
+  TILFOJET (15):
+    + 800 g grisehjerter | 800 stk
+    + smør | 25 g
+    + hvidløg | 1 fed
+    + timianblade | 3 stk
+    + hvidvin | 1 dl
+    + knoldselleri | 200 g
+    + Arla Karolines Køkken® Piskefløde 38% | 1.5 dl
+    + tørrede grønne linser | 250 g
+    + grøntsagsbouillon | 8 dl
+    + salt | 1 tsk
+    + smør | 25 g
+    + rosenkål | 200 g
+    + æbler | 4 stk
+    + honning | 1 spsk
+    + frisk timian |  
+
+OPSKRIFT: Dadelkage med kokos, klementin og chokoladeganache
+  MENY-URL: https://meny.dk/opskrift/dadelkage-kokos-klementin-chokoladeganache
+  MENY (16 ing): [200 g] chokolade, [2 dl] fløde, [30 g] glukosesirup, [250 g] dadler, [75 g] kokosmel, [75 g] mandelmel, [50 g] hvedemel, [2 spsk] kakaopulver, [0.5 dl] sødmælk, [0.5 dl] stærk kaffe, [0.5 dl] friskpresset clementinsaft, [5 stk] æg, [1 tsk] bagepulver, [1 tsk] vaniljesukker, [1 stk] knivspids salt, [5 g] kokosmel
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Hvedemel |   => 50 g
+    OPDATERET: Vaniljesukker |   => 1 tsk
+    OPDATERET: Bagepulver |   => 1 tsk
+  TILFOJET (12):
+    + chokolade | 200 g
+    + fløde | 2 dl
+    + glukosesirup | 30 g
+    + dadler | 250 g
+    + kokosmel | 75 g
+    + mandelmel | 75 g
+    + kakaopulver | 2 spsk
+    + sødmælk | 0.5 dl
+    + stærk kaffe | 0.5 dl
+    + friskpresset clementinsaft | 0.5 dl
+    + æg | 5 stk
+    + kokosmel | 5 g
+
+OPSKRIFT: Grillpakker med kuller og kryddersmør
+  MENY-URL: https://meny.dk/opskrift/grillpakker-kuller-og-kryddersmoer
+  MENY (14 ing): [800 g] kullerfileter, [75 g] blødt smør, [1 fed] hvidløg, [2 spsk] frisk koriander, [ ] salt og sort peber, [1 stk] rødløg i skiver, [400 g] kogte kartofler, [200 g] grønne asparges, [2 stk] citroner, [3 spsk] koldpresset rapsolie, [ ] salt og sort peber, [10 g] løgspirer, [ ] karse, [ ] frisk koriander
+    OPDATERET: Kartofler |   => 400 g
+    UAENDRET:  Salt |  
+    OPDATERET: Citron |   => 2 stk
+    OPDATERET: Grønne Asparges |   => 200 g
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Citroner |   => 2 stk
+    OPDATERET: Frisk Koriander |   => 2 spsk
+  TILFOJET (6):
+    + kullerfileter | 800 g
+    + blødt smør | 75 g
+    + rødløg i skiver | 1 stk
+    + koldpresset rapsolie | 3 spsk
+    + løgspirer | 10 g
+    + karse |  
+
+OPSKRIFT: Tærte med laks, Anicia linser og spinat
+  MENY-URL: https://meny.dk/opskrift/tarte-laks-anicia-linser-spinat
+  MENY (11 ing): [200 g] ærtemel, [1 dl] creme fraiche 38%, [100 g] smør, [ ] salt, [0.5 dl] tørrede anicia linser, [300 g] ferske laks, [5 stk] æg, [1 dl] creme fraiche 38%, [200 g] frisk spinat, [1 fed] hvidløg, [ ] salt og peber
+    INGEN MATCH: Tærtedej
+    UAENDRET:  Salt |  
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Frisk Spinat |   => 200 g
+    INGEN MATCH: Torskefileter
+    OPDATERET: Fersk Laks |   => 300 g
+  TILFOJET (7):
+    + ærtemel | 200 g
+    + creme fraiche 38% | 1 dl
+    + smør | 100 g
+    + tørrede anicia linser | 0.5 dl
+    + æg | 5 stk
+    + creme fraiche 38% | 1 dl
+    + salt og peber |  
+
+OPSKRIFT: Banan-chokoladepandekager
+  MENY-URL: https://meny.dk/opskrift/banan-chokoladepandekager
+  MENY (13 ing): [200 g] moset moden bananer, [2.5 dl] Matilde® Premium Kakaoletmælk, [1 stk] stort æg, [2 spsk] rørsukker, [1 tsk] vaniljesukker, [190 g] hvedemel, [2 tsk] bagepulver, [0.25 tsk] salt, [0.25 tsk] stødt kanel, [50 g] grofthakket mørk chokolade, [ ] smør til stegning, [ ] banan i skiver, [ ] ahornsirup
+    OPDATERET: Salt |   => 0.25 tsk
+    OPDATERET: Hvedemel |   => 190 g
+    OPDATERET: Sukker |   => 2 spsk
+    UAENDRET:  Ahornsirup |  
+    OPDATERET: Bagepulver |   => 2 tsk
+    OPDATERET: Bananer |   => 200 g
+  TILFOJET (7):
+    + Matilde® Premium Kakaoletmælk | 2.5 dl
+    + stort æg | 1 stk
+    + vaniljesukker | 1 tsk
+    + stødt kanel | 0.25 tsk
+    + grofthakket mørk chokolade | 50 g
+    + smør til stegning |  
+    + banan i skiver |  
+
+OPSKRIFT: Halloweentærte med hindbær og frangipane
+  MENY-URL: https://meny.dk/opskrift/halloweentarte-hindbar-og-frangipane
+  MENY (16 ing): [350 g] hvedemel, [50 g] flormelis, [1 stk] knivspids salt, [200 g] koldt smør, [1 stk] æggeblomme, [2 spsk] koldt vand, [1 stk] æg til pensling, [75 g] marcipan, [50 g] sukker, [50 g] blødt smør, [1 stk] æg, [1 spsk] hvedemel, [350 g] frosne hindbær, [150 g] sukker, [2 tsk] vaniljesukker, [3 spsk] majsstivelse
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Hvedemel |   => 350 g
+    OPDATERET: Æg |   => 1 stk
+    OPDATERET: Sukker |   => 50 g
+    OPDATERET: Vaniljesukker |   => 50 g
+    OPDATERET: Koldt vand |   => 200 g
+  TILFOJET (9):
+    + flormelis | 50 g
+    + koldt vand | 2 spsk
+    + æg til pensling | 1 stk
+    + marcipan | 75 g
+    + blødt smør | 50 g
+    + æg | 1 stk
+    + frosne hindbær | 350 g
+    + vaniljesukker | 2 tsk
+    + majsstivelse | 3 spsk
+
+OPSKRIFT: Grillet majs med cremet bacontopping
+  MENY-URL: https://meny.dk/opskrift/grillet-majs-cremet-bacontopping
+  MENY (8 ing): [100 g] bacon, [2 stk] forårsløg, [1 bundt] frisk dild, [ ] sort peber, [100 g] flødeost naturel, [2 spsk] Cheasy® skyr naturel, [4 stk] majskolber, [2 tsk] olivenolie
+    UAENDRET:  Sort Peber |  
+    OPDATERET: Forårsløg |   => 2 stk
+    OPDATERET: Bacon i tern |   => 100 g
+    OPDATERET: Pancetta / Bacon i tern |   => 100 g
+  TILFOJET (5):
+    + frisk dild | 1 bundt
+    + flødeost naturel | 100 g
+    + Cheasy® skyr naturel | 2 spsk
+    + majskolber | 4 stk
+    + olivenolie | 2 tsk
+
+OPSKRIFT: Crostini med parmaskinke og nektarin
+  MENY-URL: https://meny.dk/opskrift/crostini-med-parmaskinke-og-nektarin
+  MENY (8 ing): [1 fed] hvidløg, [1 stk] flute, [75 g] flødeost, [60 g] parmaskinke, [2 stk] nektariner, [2 spsk] olivenolie, [1 stk] knivspids sort peber, [1 stk] håndfuld frisk basilikum
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Sort Peber |   => 1 stk
+    INGEN MATCH: Skinketern
+    OPDATERET: Kogt Skinke |   => 60 g
+  TILFOJET (5):
+    + hvidløg | 1 fed
+    + flute | 1 stk
+    + flødeost | 75 g
+    + nektariner | 2 stk
+    + håndfuld frisk basilikum | 1 stk
+
+OPSKRIFT: Gluten- og laktosefrie tykke pandekager med is, flødeskum, blåbær og hasselnødder
+  MENY-URL: https://meny.dk/opskrift/gluten-og-laktosefrie-tykke-pandekager-floedeskum-blaabaer-og-hasselnoedder
+  MENY (12 ing): [2 stk] æg, [3.5 dl] Arla® Laktosefri minimælk, [225 g] Finax Glutenfri Melmix, [1 stk] 1 nip fint salt, [2 spsk] rørsukker, [1.5 tsk] bagepulver, [25 g] margarine, [250 g] blåbær, [15 g] margarine, [2 dl] Arla® Laktosefri piskefløde 36%, [100 g] hakkede hasselnødder, [7.5 liter] laktosefri vaniljeflødeis
+    OPDATERET: Laktosefri Fløde |   => 3.5 dl
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Mælk |   => 3.5 dl
+    OPDATERET: Bagepulver |   => 1.5 tsk
+    OPDATERET: Hasselnødder |   => 100 g
+  TILFOJET (8):
+    + æg | 2 stk
+    + Finax Glutenfri Melmix | 225 g
+    + rørsukker | 2 spsk
+    + margarine | 25 g
+    + blåbær | 250 g
+    + margarine | 15 g
+    + Arla® Laktosefri piskefløde 36% | 2 dl
+    + laktosefri vaniljeflødeis | 7.5 liter
+
+OPSKRIFT: Grønkålssalat med klementindressing
+  MENY-URL: https://meny.dk/opskrift/groenkaalssalat-klementindressing
+  MENY (8 ing): [300 g] grønkål, [2 stk] æbler, [50 g] rosiner, [75 g] valnøddekerner, [1 spsk] ahornsirup, [2 spsk] olivenolie, [ ] saft af 2 clementiner, [ ] salt & sort peber
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Ahornsirup |   => 1 spsk
+  TILFOJET (5):
+    + grønkål | 300 g
+    + æbler | 2 stk
+    + rosiner | 50 g
+    + valnøddekerner | 75 g
+    + saft af 2 clementiner |  
+
+OPSKRIFT: Grillet culotte med hvidløgs-pebermix
+  MENY-URL: https://meny.dk/opskrift/grillet-culotte-hvidloegs-pebermix
+  MENY (6 ing): [1 stk] okseculotte, [3 fed] hvidløg, [2 tsk] sorte peberkorn, [2 tsk] hvid peber, [2 spsk] frisk timian, [2 tsk] groft salt
+    OPDATERET: Salt |   => 2 tsk
+    INGEN MATCH: Pasta
+    OPDATERET: Hvidløg |   => 3 fed
+  TILFOJET (4):
+    + okseculotte | 1 stk
+    + sorte peberkorn | 2 tsk
+    + hvid peber | 2 tsk
+    + frisk timian | 2 spsk
+
+OPSKRIFT: Fuldkornspebernødder med chokoladebund
+  MENY-URL: https://meny.dk/opskrift/fuldkornspebernoedder-chokoladebund
+  MENY (12 ing): [1 tsk] stødt ingefær, [0.5 tsk] stødt kanel, [0.5 tsk] stødt hvid peber, [0.5 tsk] stødt nellike, [0.5 tsk] stødt kardemomme, [0.5 tsk] bagepulver, [150 g] hvid hvedemel, [100 g] hvedemel, [100 g] koldt smør, [125 g] rørsukker, [0.5 dl] Arla Karolines Køkken® Piskefløde 38%, [100 g] mørk chokolade
+    INGEN MATCH: Æg
+    OPDATERET: Bagepulver |   => 0.5 tsk
+    INGEN MATCH: Gode Brunchpølser
+  TILFOJET (11):
+    + stødt ingefær | 1 tsk
+    + stødt kanel | 0.5 tsk
+    + stødt hvid peber | 0.5 tsk
+    + stødt nellike | 0.5 tsk
+    + stødt kardemomme | 0.5 tsk
+    + hvid hvedemel | 150 g
+    + hvedemel | 100 g
+    + koldt smør | 100 g
+    + rørsukker | 125 g
+    + Arla Karolines Køkken® Piskefløde 38% | 0.5 dl
+    + mørk chokolade | 100 g
+
+OPSKRIFT: Grillet flæskestegssandwich
+  MENY-URL: https://meny.dk/opskrift/grillet-flaskestegssandwich
+  MENY (14 ing): [1 kg] flæskesteg, [ ] salt, [ ] sort peber, [200 g] spidskål, [150 g] revet gulerødder, [1 stk] håndfuld ærteskud, [2 spsk] olivenolie, [2 spsk] hvidvinseddike, [4 stk] brioche burgerboller, [8 spsk] sriracha mayonnaise, [100 g] syltet agurker, [ ] agurk i skiver, [ ] citronskal, [ ] evt. mynte
+    OPDATERET: Flæskesteg |   => 1 kg
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Gulerødder |   => 150 g
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (10):
+    + sort peber |  
+    + spidskål | 200 g
+    + håndfuld ærteskud | 1 stk
+    + hvidvinseddike | 2 spsk
+    + brioche burgerboller | 4 stk
+    + sriracha mayonnaise | 8 spsk
+    + syltet agurker | 100 g
+    + agurk i skiver |  
+    + citronskal |  
+    + evt. mynte |  
+
+OPSKRIFT: Salat af grillede tomater med gedeostebrød
+  MENY-URL: https://meny.dk/opskrift/salat-grillede-tomater-gedeostebroed
+  MENY (9 ing): [4 stk] tomater, [3 spsk] olivenolie, [1 stk] lille flute, [200 g] friske gedeoste rulle, [1 spsk] frisk rosmarin, [100 g] babyspinatblade, [30 g] pinjekerner, [1 spsk] hvid balsamicoeddike, [ ] salt og sort peber
+    OPDATERET: Olivenolie |   => 3 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+    INGEN MATCH: Æg
+    OPDATERET: Tomater (Danske) |   => 4 stk
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Frisk Spinat |   => 100 g
+    OPDATERET: Hakkede Tomater |   => 4 stk
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Friske Tomater |   => 4 stk
+  TILFOJET (4):
+    + lille flute | 1 stk
+    + friske gedeoste rulle | 200 g
+    + pinjekerner | 30 g
+    + hvid balsamicoeddike | 1 spsk
+
+OPSKRIFT: Krydrede kødboller med frisk pasta og tomatsauce
+  MENY-URL: https://meny.dk/opskrift/krydrede-koedboller-frisk-pasta-og-tomatsauce
+  MENY (14 ing): [400 g] hakket grise- og kalvekød, [1 tsk] salt, [1 tsk] stødt spidskommen, [0.5 tsk] cayennepeber, [1 stk] æg, [2 spsk] hvedemel, [0.5 dl] letmælk, [2 dl] rasp i at vende bollerne, [0.5 dl] olie til stegning, [500 g] frisk tagliatelle, [1 stk] glas tomatsauce, [ ] salt & friskkværnet peber, [50 g] revet parmigiano reggiano, [1 dl] frisk basilikum
+    INGEN MATCH: Hakket Kalv og Flæsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Mælk |   => 0.5 dl
+    INGEN MATCH: Pasta
+    OPDATERET: Spidskommen |   => 1 tsk
+    INGEN MATCH: Frisk Pasta
+    INGEN MATCH: Hakket Gris & Kalv
+  TILFOJET (11):
+    + hakket grise- og kalvekød | 400 g
+    + cayennepeber | 0.5 tsk
+    + æg | 1 stk
+    + hvedemel | 2 spsk
+    + rasp i at vende bollerne | 2 dl
+    + olie til stegning | 0.5 dl
+    + frisk tagliatelle | 500 g
+    + glas tomatsauce | 1 stk
+    + salt & friskkværnet peber |  
+    + revet parmigiano reggiano | 50 g
+    + frisk basilikum | 1 dl
+
+OPSKRIFT: Glutenfri pizza med kartofler
+  MENY-URL: https://meny.dk/opskrift/glutenfri-pizza-kartofler
+  MENY (13 ing): [300 g] majsmel, [150 g] boghvedemel, [20 g] fiber husk hvedemel, [1 tsk] salt, [1 tsk] natron, [2 stk] æg, [4 dl] vand, [125 g] mascarpone, [ ] 3- 4 store kartofler, [ ] salt og sort peber, [3 stk] rosmarinkviste, [50 g] revet mozzarellaost, [1 spsk] olivenolie
+    UAENDRET:  Kartofler |  
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Frisk Rosmarin |   => 3 stk
+    OPDATERET: Æg |   => 2 stk
+  TILFOJET (8):
+    + majsmel | 300 g
+    + boghvedemel | 150 g
+    + fiber husk hvedemel | 20 g
+    + natron | 1 tsk
+    + vand | 4 dl
+    + mascarpone | 125 g
+    + salt og sort peber |  
+    + revet mozzarellaost | 50 g
+
+OPSKRIFT: Fastelavnsboller med hindbær og crème
+  MENY-URL: https://meny.dk/opskrift/fastelavnsboller-hindbaer-og-creme
+  MENY (16 ing): [2 stk] æggeblommer, [75 g] sukker, [0.5 stk] vaniljestang, [1 spsk] hvedemel, [1 spsk] Maizena majsstivelse, [2.5 dl] sødmælk, [100 g] koldt smør, [225 g] hvedemel, [50 g] sukker, [1 dl] sødmælk, [20 g] gær, [125 g] hindbær, [1 stk] æg til pensling, [250 g] flormelis, [ ] vand, [ ] frugtfarve i fire forskellige kulører, fx slikfarve
+    OPDATERET: Mælk |   => 2.5 dl
+    OPDATERET: Æg |   => 2 stk
+    OPDATERET: Sukker |   => 75 g
+  TILFOJET (11):
+    + vaniljestang | 0.5 stk
+    + hvedemel | 1 spsk
+    + Maizena majsstivelse | 1 spsk
+    + koldt smør | 100 g
+    + hvedemel | 225 g
+    + gær | 20 g
+    + hindbær | 125 g
+    + æg til pensling | 1 stk
+    + flormelis | 250 g
+    + vand |  
+    + frugtfarve i fire forskellige kulører, fx slikfarve |  
+
+OPSKRIFT: Muslinger med dijonsauce
+  MENY-URL: https://meny.dk/opskrift/muslinger-dijonsauce
+  MENY (10 ing): [2 stk] porrer, [1 kg] kammusling, [1 fed] hvidløg, [1 spsk] smør, [2 dl] hvidvin, [1 dl] Arla Karolines Køkken® Piskefløde 38%, [2 spsk] dijonsennep, [2 spsk] hakket bredbladet persille, [1 stk] potte frisk dild, [ ] salt og sort peber
+    OPDATERET: Porrer |   => 2 stk
+    OPDATERET: Hvidvin |   => 2 dl
+    UAENDRET:  Salt |  
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Frisk Persille |   => 2 spsk
+    INGEN MATCH: Torskefileter
+  TILFOJET (5):
+    + kammusling | 1 kg
+    + smør | 1 spsk
+    + Arla Karolines Køkken® Piskefløde 38% | 1 dl
+    + dijonsennep | 2 spsk
+    + potte frisk dild | 1 stk
+
+OPSKRIFT: Små juletærter med frugt og chokolade
+  MENY-URL: https://meny.dk/opskrift/smaa-juletaerter-frugt-og-chokolade
+  MENY (14 ing): [125 g] bagemargarine, [225 g] hvedemel, [75 g] sukker, [1 stk] æg, [ ] bagespray, [50 g] bagemargarine, [100 g] brun farin, [2 stk] æg, [1 stk] groftrevet æble, [50 g] mandler, [50 g] hasselnødder, [100 g] tørrede dadler, [150 g] mørk chokolade, [ ] evt. skal fra en appelsin
+    INGEN MATCH: Tærtedej
+    OPDATERET: Hvedemel |   => 225 g
+    OPDATERET: Æg |   => 1 stk
+    OPDATERET: Sukker |   => 75 g
+  TILFOJET (10):
+    + bagemargarine | 125 g
+    + bagespray |  
+    + bagemargarine | 50 g
+    + brun farin | 100 g
+    + groftrevet æble | 1 stk
+    + mandler | 50 g
+    + hasselnødder | 50 g
+    + tørrede dadler | 100 g
+    + mørk chokolade | 150 g
+    + evt. skal fra en appelsin |  
+
+OPSKRIFT: Tex-mex burger med cheddar, majs-avocado salat og salsa
+  MENY-URL: https://meny.dk/opskrift/tex-mex-burger-cheddar-majs-avocado-salat-salsa
+  MENY (12 ing): [ ] salt og peber, [400 g] hakket oksekød, [1 spsk] olivenolie, [2 stk] avocadoer, [2 stk] forårsløg, [1 stk] chili, [1 stk] dåse majs, [0.5 stk] lime, [4 stk] skiver cheddarost, [4 stk] burgerboller, [100 g] salsa, [4 stk] blandede salatblade
+    OPDATERET: Olivenolie |   => 1 spsk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Cheddarost |   => 4 stk
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Forårsløg |   => 2 stk
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Hakket oksekød (8-14%) |   => 400 g
+    OPDATERET: Hakket Oksekød |   => 400 g
+  TILFOJET (5):
+    + dåse majs | 1 stk
+    + lime | 0.5 stk
+    + burgerboller | 4 stk
+    + salsa | 100 g
+    + blandede salatblade | 4 stk
+
+OPSKRIFT: Frikadelleburger med rødbede-slaw
+  MENY-URL: https://meny.dk/opskrift/frikadelleburger-roedbede-slaw
+  MENY (16 ing): [600 g] hakket grise- og kalvekød, [1.5 tsk] salt, [1 tsk] friskkværnet peber, [1 stk] revet løg, [1 stk] æg, [1 dl] sødmælk, [1 dl] hvedemel, [1 tsk] røget paprika til stegning, [4 stk] burgerboller, [30 g] rucolasalat, [200 g] revet rødbeder, [100 g] revet gulerødder, [1.5 spsk] revet peberrod, [2 dl] Cheasy® skyr naturel, [1 tsk] salt, [ ] friskkværnet peber
+    INGEN MATCH: Hakket Kalv og Flæsk
+    OPDATERET: Salt |   => 1.5 tsk
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Mælk |   => 1 dl
+    OPDATERET: Hvedemel |   => 1 dl
+    OPDATERET: Burgerboller |   => 4 stk
+    OPDATERET: Løg |   => 1 stk
+    INGEN MATCH: Hakket Gris & Kalv
+  TILFOJET (9):
+    + hakket grise- og kalvekød | 600 g
+    + friskkværnet peber | 1 tsk
+    + æg | 1 stk
+    + rucolasalat | 30 g
+    + revet rødbeder | 200 g
+    + revet gulerødder | 100 g
+    + revet peberrod | 1.5 spsk
+    + Cheasy® skyr naturel | 2 dl
+    + friskkværnet peber |  
+
+OPSKRIFT: Saftig wokret med skinketern
+  MENY-URL: https://meny.dk/opskrift/saftig-wokret-skinketern
+  MENY (11 ing): [1 fed] hvidløg, [1 spsk] frisk ingefær, [2 stk] peberfrugter, [1 stk] spidskål, [2 spsk] smagsneutral olie, [500 g] kogt skinke i tern, [100 g] bønnespirer, [1.5 dl] hoisinsauce, [1 dl] hakkede peanuts, [1 spsk] sesamfrø, [1 bundt] frisk koriander
+    OPDATERET: Peberfrugt |   => 2 stk
+    INGEN MATCH: Skinketern
+    OPDATERET: Bønnespirer |   => 100 g
+    OPDATERET: Frisk Koriander |   => 1 bundt
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Spidskål |   => 1 stk
+    OPDATERET: Frisk Ingefær |   => 1 spsk
+  TILFOJET (5):
+    + smagsneutral olie | 2 spsk
+    + kogt skinke i tern | 500 g
+    + hoisinsauce | 1.5 dl
+    + hakkede peanuts | 1 dl
+    + sesamfrø | 1 spsk
+
+OPSKRIFT: Thai salat med peanuts, risnudler og roastbeef
+  MENY-URL: https://meny.dk/opskrift/thai-salat-peanuts-risnudler-og-roastbeef
+  MENY (14 ing): [150 g] tørrede risnudler, [200 g] gulerødder, [0.5 stk] porre, [0.5 stk] romainesalat, [0.5 stk] agurk, [200 g] kold roastbeef eller andre rester af kød, [75 g] saltede ristede peanuts, [1 stk] bæger frisk koriander, [ ] saft af 2 lime, [2 tsk] rørsukker, [3 spsk] fiskesauce, [2 stk] 2 tsk finthakket friske chilier, [2 tsk] finthakket frisk ingefær, [2 spsk] sesamolie
+    OPDATERET: Roastbeef |   => 200 g
+    INGEN MATCH: Koldt vand
+    OPDATERET: Porrer |   => 0.5 stk
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Frisk Koriander |   => 1 stk
+  TILFOJET (11):
+    + tørrede risnudler | 150 g
+    + gulerødder | 200 g
+    + romainesalat | 0.5 stk
+    + agurk | 0.5 stk
+    + saltede ristede peanuts | 75 g
+    + saft af 2 lime |  
+    + rørsukker | 2 tsk
+    + fiskesauce | 3 spsk
+    + 2 tsk finthakket friske chilier | 2 stk
+    + finthakket frisk ingefær | 2 tsk
+    + sesamolie | 2 spsk
+
+OPSKRIFT: Rejer i hvidløg
+  MENY-URL: https://meny.dk/opskrift/rejer-hvidloeg
+  MENY (6 ing): [100 g] kæmperejer, [2 fed] hvidløg, [3 stk] små friske chilier, [1 bundt] bredbladet persille, [1 tsk] groft salt, [1 spsk] olivenolie
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Æg
+    INGEN MATCH: Blandet salat
+    OPDATERET: Hvidløg |   => 2 fed
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Frisk Persille |   => 1 bundt
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Frisk Chili |   => 3 stk
+    INGEN MATCH: Torskefileter
+  TILFOJET (3):
+    + kæmperejer | 100 g
+
+OPSKRIFT: Baconsnurrer med flødeost
+  MENY-URL: https://meny.dk/opskrift/baconsnurrer-floedeost
+  MENY (14 ing): [75 g] smør, [2.5 dl] sødmælk, [25 g] sukker, [1 tsk] groft salt, [25 g] gær, [400 g] hvedemel, [50 g] hvedemel, [1 tsk] bagepulver, [125 g] bacon, [150 g] Arla Buko® Økologisk naturel 70+, [3 spsk] klippet purløg, [1 spsk] hakket frisk oregano, [ ] sort peber, [1 stk] æg til pensling
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Oregano |   => 1 spsk
+    OPDATERET: Mælk |   => 2.5 dl
+    OPDATERET: Æg |   => 1 stk
+    OPDATERET: Sukker |   => 25 g
+    OPDATERET: Bagepulver |   => 1 tsk
+    OPDATERET: Bacon i tern |   => 125 g
+    OPDATERET: Pancetta / Bacon i tern |   => 125 g
+  TILFOJET (7):
+    + smør | 75 g
+    + gær | 25 g
+    + hvedemel | 400 g
+    + hvedemel | 50 g
+    + Arla Buko® Økologisk naturel 70+ | 150 g
+    + klippet purløg | 3 spsk
+    + sort peber |  
+
+OPSKRIFT: Cremet fiskesuppe med laks, kartofler og dild
+  MENY-URL: https://meny.dk/opskrift/cremet-fiskesuppe-laks-kartofler-og-dild
+  MENY (12 ing): [2 stk] gulerødder, [4 stk] løg, [1 stk] porre, [1 spsk] smør, [500 g] kartofler, [1.5 liter] koncentreret fiskefond, grøntsagsbouillon eller vand, [250 g] creme fraiche 38%, [ ] salt og sort peber, [250 g] laksefileter uden skind, [1.5 dl] frisk dild, [1.5 dl] persille, [1.5 dl] friske løvstikkeblade
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Bouillon |   => 1.5 liter
+    OPDATERET: Gulerødder |   => 2 stk
+    OPDATERET: Porrer |   => 1 stk
+    UAENDRET:  Salt |  
+    OPDATERET: Creme Fraiche |   => 250 g
+    OPDATERET: Løg |   => 4 stk
+    INGEN MATCH: Fersk Laks
+  TILFOJET (5):
+    + smør | 1 spsk
+    + laksefileter uden skind | 250 g
+    + frisk dild | 1.5 dl
+    + persille | 1.5 dl
+    + friske løvstikkeblade | 1.5 dl
+
+OPSKRIFT: Høstsild med ­løvstikke
+  MENY-URL: https://meny.dk/opskrift/hoestsild-loevstikke
+  MENY (5 ing): [1 stk] løvstikke, [8 stk] benfri sild, [2 spsk] grov sennep, [1 stk] citron, [ ] sort peber
+    INGEN MATCH: Kartofler
+    INGEN MATCH: Salt
+    OPDATERET: Citron |   => 1 stk
+    OPDATERET: Citroner |   => 1 stk
+    INGEN MATCH: Torskefileter
+  TILFOJET (4):
+    + løvstikke | 1 stk
+    + benfri sild | 8 stk
+    + grov sennep | 2 spsk
+    + sort peber |  
+
+OPSKRIFT: Græske kødboller med bagte tomater feta og fladbrød
+  MENY-URL: https://meny.dk/opskrift/graske-kodboller-bagte-tomater-feta-og-fladbrod
+  MENY (16 ing): [1 stk] æg, [400 g] økologisk hakket oksekød, [50 g] rasp, [0.5 dl] vand, [1 stk] lille løg, [1 fed] hvidløg, [2 spsk] hakket frisk mynte + ekstra til drys, [2 spsk] hakket persille + ekstra til drys, [0.5 tsk] stødt allehånde, [ ] salt og sort peber, [500 g] cherrytomater, [4 stk] kviste frisk timian, [2 spsk] olivenolie + ekstra til stegning, [250 g] yoghurt 10%, [150 g] feta, [1 pakke] fladbrød
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Hakket Oksekød |   => 400 g
+    OPDATERET: Hvidløg |   => 1 stk
+    OPDATERET: Tomater (Danske) |   => 500 g
+    INGEN MATCH: Hakkede Tomater
+    OPDATERET: Frisk Persille |   => 2 spsk
+    OPDATERET: Friske Tomater |   => 500 g
+    OPDATERET: Hakket oksekød (8-14%) |   => 400 g
+  TILFOJET (10):
+    + æg | 1 stk
+    + rasp | 50 g
+    + vand | 0.5 dl
+    + hvidløg | 1 fed
+    + hakket frisk mynte + ekstra til drys | 2 spsk
+    + stødt allehånde | 0.5 tsk
+    + kviste frisk timian | 4 stk
+    + yoghurt 10% | 250 g
+    + feta | 150 g
+    + fladbrød | 1 pakke
+
+OPSKRIFT: Chokoladebudding med spøgelser
+  MENY-URL: https://meny.dk/opskrift/chokoladebudding-spoegelser
+  MENY (9 ing): [1 liter] sødmælk, [50 g] majsstivelse, [2 stk] æg, [50 g] sukker, [1 tsk] vaniljesukker, [100 g] mørk chokolade , hakket, [100 g] Oreo cookiecrumbles, [6 stk] skumfiduser, [ ] sort madfarve eller smeltet mørk chokolade  til dekoration
+    OPDATERET: Mælk |   => 1 liter
+    OPDATERET: Sukker |   => 50 g
+    OPDATERET: Mørk Chokolade |   => 100 g
+    OPDATERET: Vaniljesukker |   => 50 g
+  TILFOJET (6):
+    + majsstivelse | 50 g
+    + æg | 2 stk
+    + vaniljesukker | 1 tsk
+    + Oreo cookiecrumbles | 100 g
+    + skumfiduser | 6 stk
+    + sort madfarve eller smeltet mørk chokolade  til dekoration |  
+
+OPSKRIFT: Hjemmelavet mysli med honning
+  MENY-URL: https://meny.dk/opskrift/hjemmelavet-mysli-honning
+  MENY (8 ing): [50 g] byggryn, [150 g] finvalsede havregryn, [100 g] flydende honning, [0.5 dl] vand, [50 g] kokosmel, [50 g] solsikkekerner, [50 g] tørrede tranebær, [50 g] hasselnødder
+    OPDATERET: Havregryn |   => 150 g
+    OPDATERET: Hasselnødder |   => 50 g
+  TILFOJET (6):
+    + byggryn | 50 g
+    + flydende honning | 100 g
+    + vand | 0.5 dl
+    + kokosmel | 50 g
+    + solsikkekerner | 50 g
+    + tørrede tranebær | 50 g
+
+OPSKRIFT: Kyllingeunderlår med ristet blomkål og gurkemejedressing
+  MENY-URL: https://meny.dk/opskrift/kyllingeunderlaar-ristet-blomkaal-og-gurkemejedressing
+  MENY (15 ing): [8 stk] kyllingeunderlår, [2 tsk] hvidløgssalt, [2 tsk] sort peber, [4 spsk] olivenolie, [3 spsk] æbleeddike, [2 spsk] mørk sirup, [1 tsk] stødt gurkemeje, [1 tsk] karry, [0.5 tsk] salt, [0.25 tsk] sort peber, [1 spsk] olie, [1 stk] blomkål i mindre buketter, [200 g] kogt perlespelt, [100 g] finthakket grønkål, [50 g] lyse rosiner
+    OPDATERET: Kyllingeunderlår |   => 8 stk
+  TILFOJET (14):
+    + hvidløgssalt | 2 tsk
+    + sort peber | 2 tsk
+    + olivenolie | 4 spsk
+    + æbleeddike | 3 spsk
+    + mørk sirup | 2 spsk
+    + stødt gurkemeje | 1 tsk
+    + karry | 1 tsk
+    + salt | 0.5 tsk
+    + sort peber | 0.25 tsk
+    + olie | 1 spsk
+    + blomkål i mindre buketter | 1 stk
+    + kogt perlespelt | 200 g
+    + finthakket grønkål | 100 g
+    + lyse rosiner | 50 g
+
+OPSKRIFT: Apple pie med cheddardej
+  MENY-URL: https://meny.dk/opskrift/apple-pie-cheddardej
+  MENY (12 ing): [275 g] hvedemel, [25 g] sukker, [125 g] koldt smør, [75 g] lagret cheddarost, [0.5 dl] koldt vand, [8 stk] syrlige æbler, [100 g] brun farin, [100 g] sukker, [2 tsk] stødt kanel, [3 spsk] Maizena majsstivelse, [1 stk] æg til pensling, [2 spsk] sukker
+    OPDATERET: Hvedemel |   => 275 g
+    OPDATERET: Sukker |   => 25 g
+    INGEN MATCH: Frisk Ingefær
+  TILFOJET (8):
+    + koldt smør | 125 g
+    + lagret cheddarost | 75 g
+    + koldt vand | 0.5 dl
+    + syrlige æbler | 8 stk
+    + brun farin | 100 g
+    + stødt kanel | 2 tsk
+    + Maizena majsstivelse | 3 spsk
+    + æg til pensling | 1 stk
+
+OPSKRIFT: Chili con carne
+  MENY-URL: https://meny.dk/opskrift/chili-con-carne
+  FEJL: Anmodningen blev afslået: Forbindelsen blev afbrudt uventet..
+
+OPSKRIFT: Hjerter i flødesovs med kartoffelmos og kruspersille
+  MENY-URL: https://meny.dk/opskrift/hjerter-floedesovs-kartoffelmos-og-kruspersille
+  MENY (20 ing): [3 stk] grisehjerter, [0.5 tsk] salt, [0.5 tsk] friskkværnet peber, [20 g] smør, [1.5 dl] vand, [3 stk] laurbærblade, [0.5 tsk] hvid peber, [5 stk] stilke kruspersille, [4 stk] skalotteløg, [0.5 dl] Arla Karolines Køkken® Madlavningsfløde 15%, [0.5 dl] madeira, [1 tsk] sojasauce, [1 spsk] majsstivelse, [ ] Evt. lidt kulør, [700 g] kartofler, [1.5 dl] mælk, [50 g] smør, [0.5 tsk] salt, [0.5 tsk] friskkværnet peber, [1 dl] kruspersille til pynt
+    OPDATERET: Kartofler |   => 700 g
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 0.5 tsk
+    OPDATERET: Mælk |   => 1.5 dl
+    OPDATERET: Sojasauce |   => 1 tsk
+  TILFOJET (13):
+    + grisehjerter | 3 stk
+    + smør | 20 g
+    + vand | 1.5 dl
+    + laurbærblade | 3 stk
+    + hvid peber | 0.5 tsk
+    + stilke kruspersille | 5 stk
+    + skalotteløg | 4 stk
+    + Arla Karolines Køkken® Madlavningsfløde 15% | 0.5 dl
+    + madeira | 0.5 dl
+    + majsstivelse | 1 spsk
+    + Evt. lidt kulør |  
+    + smør | 50 g
+    + kruspersille til pynt | 1 dl
+
+OPSKRIFT: Grissini med olivenolie
+  MENY-URL: https://meny.dk/opskrift/grissini-olivenolie
+  MENY (6 ing): [25 g] gær, [1.5 dl] lunkent vand, [1 tsk] groft salt, [0.5 tsk] sukker, [3 spsk] olivenolie, [250 g] tipo 00 hvedemel
+    OPDATERET: Olivenolie |   => 3 spsk
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Sukker |   => 0.5 tsk
+  TILFOJET (3):
+    + gær | 25 g
+    + lunkent vand | 1.5 dl
+    + tipo 00 hvedemel | 250 g
+
+OPSKRIFT: Grillet lammekølle med fyld af pistacie, parmaskinke, basilikum og abrikos
+  MENY-URL: https://meny.dk/opskrift/grillet-lammekoelle-fyld-pistacie-parmaskinke-basilikum-og-abrikos
+  MENY (7 ing): [75 g] usaltede pistacienødder, [1 stk] lammekølle, [60 g] parmaskinke, [ ] frisk basilikum, [50 g] tørrede abrikoser, [ ] salt & sort peber, [1 spsk] olivenolie
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 75 g
+    OPDATERET: Lammekølle (ca. 1,5 kg) |   => 1 stk
+  TILFOJET (4):
+    + parmaskinke | 60 g
+    + frisk basilikum |  
+    + tørrede abrikoser | 50 g
+    + salt & sort peber |  
+
+OPSKRIFT: Brioche
+  MENY-URL: https://meny.dk/opskrift/brioche
+  MENY (9 ing): [1 dl] sødmælk, [2 stk] store æg, [25 g] sukker, [8 g] salt, [10 g] gær, [350 g] hvedemel, [100 g] blødt smør i tern + ekstra til formen, [1 stk] æggeblomme til pensling, [0.5 dl] mælk til pensling
+    OPDATERET: Salt |   => 8 g
+    OPDATERET: Mælk |   => 1 dl
+    OPDATERET: Æg |   => 2 stk
+    OPDATERET: Sukker |   => 25 g
+  TILFOJET (5):
+    + gær | 10 g
+    + hvedemel | 350 g
+    + blødt smør i tern + ekstra til formen | 100 g
+    + æggeblomme til pensling | 1 stk
+    + mælk til pensling | 0.5 dl
+
+OPSKRIFT: Rødspætte med majssalsa
+  MENY-URL: https://meny.dk/opskrift/roedspaette-majssalsa
+  MENY (9 ing): [0.25 tsk] tørret chiliflage, [600 g] rødspættefileter, [1 spsk] friskpresset citronsaft, [3 stk] majskolber, [200 g] blommetomater, [1 bundt] frisk basilikum, [1 fed] hvidløg, [ ] olie, [ ] salt & sort peber
+    OPDATERET: Rødspætte |   => 600 g
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Citron |   => 1 spsk
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Chili |   => 0.25 tsk
+    INGEN MATCH: Torskefileter
+  TILFOJET (4):
+    + majskolber | 3 stk
+    + blommetomater | 200 g
+    + frisk basilikum | 1 bundt
+    + olie |  
+
+OPSKRIFT: Kyllingedeller på citrongræsspyd
+  MENY-URL: https://meny.dk/opskrift/kyllingedeller-paa-citrongraesspyd
+  MENY (12 ing): [600 g] hakket kyllingekød, [1 stk] løg, [4 stk] presset fed hvidløg, [4 spsk] peanutbutter, [1 stk] rød chilipeber uden kerner, [1 stk] rød chilipeber, [4 stk] forårsløg, [2 dl] rucolasalat, [2 tsk] allround krydderi, [2 tsk] stødt allehånde, [4 stk] æg, [1 spsk] olie
+    INGEN MATCH: Blandet salat
+    OPDATERET: Forårsløg |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 stk
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (11):
+    + hakket kyllingekød | 600 g
+    + presset fed hvidløg | 4 stk
+    + peanutbutter | 4 spsk
+    + rød chilipeber uden kerner | 1 stk
+    + rød chilipeber | 1 stk
+    + forårsløg | 4 stk
+    + rucolasalat | 2 dl
+    + allround krydderi | 2 tsk
+    + stødt allehånde | 2 tsk
+    + æg | 4 stk
+    + olie | 1 spsk
+
+OPSKRIFT: Grillet kulmule med søde kartofler, grønne asparges og basilikumspesto
+  MENY-URL: https://meny.dk/opskrift/grillet-kulmule-soede-kartofler-groenne-asparges-og-basilikumspesto
+  MENY (14 ing): [700 g] kulmuler filet, [1 tsk] salt, [400 g] søde kartofler, [300 g] grønne asparges, [3 spsk] olivenolie, [1 tsk] salt, [1 tsk] paprika, [40 g] pinjekerner, [40 g] parmigiano reggiano, [2 spsk] æbleeddike, [3 dl] frisk basilikum, [1 tsk] havsalt, [0.5 tsk] friskkværnet peber, [1 dl] olivenolie
+    OPDATERET: Kartofler |   => 400 g
+    OPDATERET: Olivenolie |   => 3 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Grønne Asparges |   => 300 g
+    INGEN MATCH: Torskefileter
+  TILFOJET (7):
+    + kulmuler filet | 700 g
+    + pinjekerner | 40 g
+    + parmigiano reggiano | 40 g
+    + æbleeddike | 2 spsk
+    + frisk basilikum | 3 dl
+    + havsalt | 1 tsk
+    + friskkværnet peber | 0.5 tsk
+
+OPSKRIFT: Kylling med tomat, citron og oliven
+  MENY-URL: https://meny.dk/opskrift/kylling-tomat-citron-og-oliven
+  MENY (11 ing): [4 stk] kyllingeunderlår, [2 stk] kyllingebryst, [8 stk] bacon i strimler, [400 g] hakkede tomater, [3 stk] rosmarinkviste, [100 stk] sorte oliven, [4 fed] hvidløg i halve, [1 stk] citron  i mindre stykker, [3 spsk] olivenolie, [1 tsk] havsalt, [ ] friskkværnet peber
+    OPDATERET: Kyllingebryst |   => 2 stk
+    OPDATERET: Kyllingeunderlår |   => 4 stk
+    OPDATERET: Olivenolie |   => 3 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Hakkede Tomater |   => 400 g
+    INGEN MATCH: Æg
+    OPDATERET: Citron |   => 1 stk
+    OPDATERET: Tomater (Danske) |   => 400 g
+    INGEN MATCH: Citroner
+    OPDATERET: Friske Tomater |   => 400 g
+    OPDATERET: Bacon i tern |   => 8 stk
+    OPDATERET: Pancetta / Bacon i tern |   => 8 stk
+    INGEN MATCH: Hel kylling
+  TILFOJET (4):
+    + rosmarinkviste | 3 stk
+    + sorte oliven | 100 stk
+    + hvidløg i halve | 4 fed
+    + friskkværnet peber |  
+
+OPSKRIFT: Frikadeller med æble og salvie
+  MENY-URL: https://meny.dk/opskrift/frikadeller-med-able-og-salvie
+  MENY (12 ing): [400 g] hakket grisekød, [1 stk] æg, [0.5 dl] vand, [0.5 dl] rasp, [2 spsk] hvedemel, [1 stk] æble, [1 stk] løg, [6 blade] frisk salvie, [1 spsk] frisk timian, [1 stk] knivspids salt og peber, [1 tsk] smør og olie til stegning, [100 g] tyttebærsyltetøj
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Hvedemel |   => 2 spsk
+    OPDATERET: Hakket Grisekød |   => 400 g
+  TILFOJET (9):
+    + æg | 1 stk
+    + vand | 0.5 dl
+    + rasp | 0.5 dl
+    + æble | 1 stk
+    + løg | 1 stk
+    + frisk salvie | 6 blade
+    + frisk timian | 1 spsk
+    + smør og olie til stegning | 1 tsk
+    + tyttebærsyltetøj | 100 g
+
+OPSKRIFT: Pasta Pomodoro
+  MENY-URL: https://meny.dk/opskrift/pasta-pomodoro
+  MENY (13 ing): [2 stk] små løg, [4 fed] hvidløg, [3 stk] tomater, [2 spsk] olivenolie, [2 spsk] frisk timian, [0.5 stk] lille rød chilipeber, [1 tsk] sukker, [1 spsk] hvid balsamicoeddike, [1 stk] dåse flået tomat, [2 dl] vand, [1 tsk] havsalt, [50 g] revet parmigiano reggiano, [1 dl] frisk basilikum
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Pasta
+    OPDATERET: Sukker |   => 1 tsk
+    OPDATERET: Løg |   => 2 stk
+    OPDATERET: Hvidløg |   => 4 fed
+    OPDATERET: Tomater (Danske) |   => 3 stk
+    OPDATERET: Hakkede Tomater |   => 3 stk
+    OPDATERET: Friske Tomater |   => 3 stk
+    OPDATERET: Frisk Chili |   => 0.5 stk
+  TILFOJET (6):
+    + frisk timian | 2 spsk
+    + hvid balsamicoeddike | 1 spsk
+    + dåse flået tomat | 1 stk
+    + vand | 2 dl
+    + revet parmigiano reggiano | 50 g
+    + frisk basilikum | 1 dl
+
+OPSKRIFT: Græskar-, æble- og klementinchutney
+  MENY-URL: https://meny.dk/opskrift/graeskar-aeble-og-klementinchutney
+  MENY (14 ing): [3 fed] hvidløg, [1 stk] løg, [50 g] frisk ingefær, [1 stk] rød chilipeber, [500 g] hokkaido græskar, [250 g] æbler, [1.5 stk] clementiner, [1 tsk] sennepskorn, [1 tsk] korianderfrø, [1 tsk] fennikelfrø, [1 tsk] salt, [2 spsk] olivenolie, [1 dl] vand, [3 dl] æbleeddike
+    INGEN MATCH: Klementiner
+    OPDATERET: Hvidløg |   => 3 fed
+    OPDATERET: Frisk Ingefær |   => 50 g
+    OPDATERET: Frisk Chili |   => 1 stk
+  TILFOJET (11):
+    + løg | 1 stk
+    + hokkaido græskar | 500 g
+    + æbler | 250 g
+    + clementiner | 1.5 stk
+    + sennepskorn | 1 tsk
+    + korianderfrø | 1 tsk
+    + fennikelfrø | 1 tsk
+    + salt | 1 tsk
+    + olivenolie | 2 spsk
+    + vand | 1 dl
+    + æbleeddike | 3 dl
+
+OPSKRIFT: Dhal
+  MENY-URL: https://meny.dk/opskrift/dhal
+  MENY (11 ing): [150 g] tørrede grønne linser, [250 g] tørrede røde linser, [1 stk] løg, hakket, [4 fed] hvidløg, pressede, [2 tsk] frisk koriander, [2 tsk] stødt spidskommen, [2 tsk] stødt gurkemeje & evt. chilipulver, [2 tsk] salt, [1 tsk] sukker, [70 g] koncentreret tomatpuré, [1 liter] vand
+    INGEN MATCH: Ris
+    OPDATERET: Salt |   => 2 tsk
+    OPDATERET: Sukker |   => 1 tsk
+    OPDATERET: Frisk Koriander |   => 2 tsk
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 4 fed
+    OPDATERET: Frisk Chili |   => 2 tsk
+  TILFOJET (5):
+    + tørrede grønne linser | 150 g
+    + tørrede røde linser | 250 g
+    + stødt spidskommen | 2 tsk
+    + koncentreret tomatpuré | 70 g
+    + vand | 1 liter
+
+OPSKRIFT: Grillet blomkål med kogte nye kartofler, urteyoghurt og brunet sojasmør
+  MENY-URL: https://meny.dk/opskrift/grillet-blomkal-kogte-nye-kartofler-urteyoghurt-og-brunet-sojasmor
+  MENY (16 ing): [2 stk] blomkål, [1 spsk] sesamolie, [0.5 tsk] friskkværnet sort peber, [0.5 tsk] salt, [1 spsk] ristede sorte sesamfrø, [600 g] små nye kartofler, [50 g] radiser, [100 g] forårsløg, [100 g] smør, [1 dl] sojasauce, [1 spsk] citronsaft, [1 stk] frisk chili, [0.5 dl] hakket frisk mynte, [1 dl] hakket frisk koriander, [2 dl] græsk inspireret yoghurt, [ ] salt og peber
+    OPDATERET: Kartofler |   => 600 g
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 0.5 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Sojasauce |   => 1 dl
+    OPDATERET: Forårsløg |   => 100 g
+    OPDATERET: Nye kartofler |   => 600 g
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 1 dl
+    INGEN MATCH: Fersk Laks
+  TILFOJET (9):
+    + blomkål | 2 stk
+    + sesamolie | 1 spsk
+    + ristede sorte sesamfrø | 1 spsk
+    + radiser | 50 g
+    + smør | 100 g
+    + citronsaft | 1 spsk
+    + hakket frisk mynte | 0.5 dl
+    + græsk inspireret yoghurt | 2 dl
+    + salt og peber |  
+
+OPSKRIFT: Helstegt and med æble, tranebær og rosmarin
+  MENY-URL: https://meny.dk/opskrift/helstegt-and-aeble-tranebaer-og-rosmarin-0
+  MENY (7 ing): [2.8 kg] ænder, [4 stk] æbler, [125 g] bacontern, [50 g] tørrede tranebær, [1 spsk] frisk rosmarin, [ ] salt & sort peber, [1 stk] løg
+    UAENDRET:  Salt |  
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+    INGEN MATCH: Bacon i tern
+    INGEN MATCH: Pancetta / Bacon i tern
+  TILFOJET (4):
+    + ænder | 2.8 kg
+    + æbler | 4 stk
+    + bacontern | 125 g
+    + tørrede tranebær | 50 g
+
+OPSKRIFT: Ølmarineret medister med råstegte rødder
+  MENY-URL: https://meny.dk/opskrift/oelmarineret-medister-raastegte-roedder
+  MENY (17 ing): [800 g] medisterpølser, [2 spsk] smagsneutral olie, [50 g] smør, [1 tsk] salt, [0.5 tsk] sort peber, [1 dl] mørk øl, [2 stk] laurbærblade, [4 stk] hele nelliker, [10 stk] peberkorn, [500 g] rødbeder, [2 spsk] smagsneutral olie, [500 g] små kartofler, [2 spsk] honning, [0.5 dl] frisk timian, [50 g] smør, [2 tsk] salt, [1 tsk] sort peber
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Medister |   => 800 g
+    OPDATERET: Salt |   => 1 tsk
+  TILFOJET (13):
+    + smagsneutral olie | 2 spsk
+    + smør | 50 g
+    + sort peber | 0.5 tsk
+    + mørk øl | 1 dl
+    + laurbærblade | 2 stk
+    + hele nelliker | 4 stk
+    + peberkorn | 10 stk
+    + rødbeder | 500 g
+    + smagsneutral olie | 2 spsk
+    + honning | 2 spsk
+    + frisk timian | 0.5 dl
+    + smør | 50 g
+    + sort peber | 1 tsk
+
+OPSKRIFT: Traditionelle æbleskiver med kanel og æbletern
+  MENY-URL: https://meny.dk/opskrift/traditionelle-aebleskiver-kanel-og-aebletern
+  MENY (11 ing): [2 stk] æg, [2 spsk] sukker, [5 dl] kærnemælk, [250 g] hvedemel, [0.5 tsk] stødt kardemomme, [1 tsk] natron, [1 stk] æble i små tern, [1 tsk] friskpresset citronsaft, [1 tsk] stødt kanel, [ ] smør til stegning, [1 spsk] flormelis til drys
+    OPDATERET: Sukker |   => 2 spsk
+    INGEN MATCH: Citroner
+  TILFOJET (10):
+    + æg | 2 stk
+    + kærnemælk | 5 dl
+    + hvedemel | 250 g
+    + stødt kardemomme | 0.5 tsk
+    + natron | 1 tsk
+    + æble i små tern | 1 stk
+    + friskpresset citronsaft | 1 tsk
+    + stødt kanel | 1 tsk
+    + smør til stegning |  
+    + flormelis til drys | 1 spsk
+
+OPSKRIFT: Fiskefrikadeller med fennikelsalat
+  MENY-URL: https://meny.dk/opskrift/fiskefrikadeller-fennikelsalat
+  MENY (10 ing): [4 stk] appelsiner eller blodappelsiner delt i filetter, [8 stk] fiskefrikadeller, [2 stk] fennikler skåret i tynde strimler, [100 g] oliven, [1 stk] æble skåret i både, [4 spsk] olivenolie, [4 spsk] friskpresset appelsinsaft, [ ] havsalt, [15 g] hakket kruspersille, [8 stk] skiver ristet rugbrød
+    OPDATERET: Olivenolie |   => 100 g
+    INGEN MATCH: Fennikel
+    OPDATERET: Frisk Persille |   => 15 g
+  TILFOJET (8):
+    + appelsiner eller blodappelsiner delt i filetter | 4 stk
+    + fiskefrikadeller | 8 stk
+    + fennikler skåret i tynde strimler | 2 stk
+    + æble skåret i både | 1 stk
+    + olivenolie | 4 spsk
+    + friskpresset appelsinsaft | 4 spsk
+    + havsalt |  
+    + skiver ristet rugbrød | 8 stk
+
+OPSKRIFT: Glutenfrit mørkt rugbrød
+  MENY-URL: https://meny.dk/opskrift/glutenfrit-moerkt-rugbroed
+  MENY (10 ing): [30 g] gær, [7 dl] lunken vand, [3 spsk] chiafrø, [1 spsk] salt, [2 spsk] mørk sirup, [1 dl] hørfrø, [1 dl] solsikkekerne, [1 dl] græskarkerner, [3 dl] grovvalsede havregryn, [550 g] Finax Glutenfri Melmix
+    OPDATERET: Havregryn |   => 3 dl
+    INGEN MATCH: Mørkt Rugbrød
+    OPDATERET: Salt |   => 1 spsk
+  TILFOJET (8):
+    + gær | 30 g
+    + lunken vand | 7 dl
+    + chiafrø | 3 spsk
+    + mørk sirup | 2 spsk
+    + hørfrø | 1 dl
+    + solsikkekerne | 1 dl
+    + græskarkerner | 1 dl
+    + Finax Glutenfri Melmix | 550 g
+
+OPSKRIFT: 1 grunddej - 3 slags spændende småkager
+  MENY-URL: https://meny.dk/opskrift/1-grunddej-3-slags-spaendende-smaakager-0
+  MENY (9 ing): [380 g] bagemargarine, [200 g] flormelis, [300 g] hvedemel, [50 g] hvid chokolade, [1 tsk] knust rålakrids, [50 g] finthakkede mandler, [2 spsk] tørrede tranebær, [3 spsk] finthakkede tørrede æbler, [0.5 tsk] stødt kanel
+    INGEN MATCH: Æg
+    OPDATERET: Mørk Chokolade |   => 50 g
+  TILFOJET (8):
+    + bagemargarine | 380 g
+    + flormelis | 200 g
+    + hvedemel | 300 g
+    + knust rålakrids | 1 tsk
+    + finthakkede mandler | 50 g
+    + tørrede tranebær | 2 spsk
+    + finthakkede tørrede æbler | 3 spsk
+    + stødt kanel | 0.5 tsk
+
+OPSKRIFT: BBQ-marinade
+  MENY-URL: https://meny.dk/opskrift/bbq-marinade
+  MENY (9 ing): [2 fed] hvidløg, [3 stk] grillede peberfrugter, [4 spsk] brun farin, [2 spsk] rødvinseddike, [2 spsk] sojasauce, [1 tsk] stødt ingefær, [1 tsk] røget paprika, [0.5 tsk] cayennepeber, [ ] salt & sort peber
+    OPDATERET: Peberfrugt |   => 3 stk
+    UAENDRET:  Salt |  
+    OPDATERET: Hvidløg |   => 2 fed
+  TILFOJET (6):
+    + brun farin | 4 spsk
+    + rødvinseddike | 2 spsk
+    + sojasauce | 2 spsk
+    + stødt ingefær | 1 tsk
+    + røget paprika | 1 tsk
+    + cayennepeber | 0.5 tsk
+
+OPSKRIFT: Hvidkålssalat med æble, spinatdressing og bacon
+  MENY-URL: https://meny.dk/opskrift/hvidkalssalat-med-able-spinatdressing-og-bacon
+  MENY (14 ing): [125 g] bacon i skiver, [400 g] hvidkål, [2 stk] æbler, [4 stk] forårsløg, [50 g] frisk spinat, [ ] Stor 1 håndfuld frisk basilikum, [ ] Stor 1 håndfuld bredbladet persille, [ ] Lille 1 bundt frisk dild + ekstra til pynt, [1 stk] saft fra citronsaft, [1 fed] hvidløg, [50 g] saltristede cashewnødder, [0.5 dl] olivenolie, [50 g] yoghurt 10%, [1 stk] knivspids salt & sort peber
+    OPDATERET: Hvidkål |   => 400 g
+    OPDATERET: Olivenolie |   => 0.5 dl
+    OPDATERET: Salt |   => 50 g
+    INGEN MATCH: Æg
+    OPDATERET: Forårsløg |   => 4 stk
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Spinat |   => 50 g
+    UAENDRET:  Frisk Persille |  
+    OPDATERET: Bacon i tern |   => 125 g
+    OPDATERET: Pancetta / Bacon i tern |   => 125 g
+  TILFOJET (6):
+    + æbler | 2 stk
+    + Stor 1 håndfuld frisk basilikum |  
+    + Lille 1 bundt frisk dild + ekstra til pynt |  
+    + saft fra citronsaft | 1 stk
+    + yoghurt 10% | 50 g
+    + knivspids salt & sort peber | 1 stk
+
+OPSKRIFT: Hvidløgsmarinade
+  MENY-URL: https://meny.dk/opskrift/hvidloegsmarinade
+  MENY (9 ing): [4 spsk] brun farin, [1 dl] olivenolie, [2 fed] hvidløg, [2 tsk] flydende honning, [2 spsk] tomatketchup, [2 tsk] dijonsennep, [1 spsk] æbleeddike, [1 spsk] worcestershiresauce, [1 tsk] havsalt
+    INGEN MATCH: Svinekoteletter
+    INGEN MATCH: Svinemørbrad
+    INGEN MATCH: Kyllingebryst
+    INGEN MATCH: Hel kylling
+  TILFOJET (9):
+    + brun farin | 4 spsk
+    + olivenolie | 1 dl
+    + hvidløg | 2 fed
+    + flydende honning | 2 tsk
+    + tomatketchup | 2 spsk
+    + dijonsennep | 2 tsk
+    + æbleeddike | 1 spsk
+    + worcestershiresauce | 1 spsk
+    + havsalt | 1 tsk
+
+OPSKRIFT: Kanelsnegle
+  MENY-URL: https://meny.dk/opskrift/kanelsnegle
+  MENY (11 ing): [100 g] bagemargarine, [5 dl] letmælk, [25 g] gær, [1.5 dl] sukker, [0.5 tsk] fint salt, [2 tsk] stødt kardemomme, [800 g] hvedemel, [150 g] bagemargarine, [2 dl] sukker, [2 spsk] stødt kanel, [1 stk] sammen pisket æg
+    INGEN MATCH: Kanelsnegle
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Mælk |   => 5 dl
+    OPDATERET: Sukker |   => 1.5 dl
+  TILFOJET (7):
+    + bagemargarine | 100 g
+    + gær | 25 g
+    + stødt kardemomme | 2 tsk
+    + hvedemel | 800 g
+    + bagemargarine | 150 g
+    + stødt kanel | 2 spsk
+    + sammen pisket æg | 1 stk
+
+OPSKRIFT: Aspargeskartofler med granatæblekerner og sprød parmaskinke
+  MENY-URL: https://meny.dk/opskrift/aspargeskartofler-granataeblekerner-og-sproed-parmaskinke
+  MENY (10 ing): [850 g] aspargeskartofler, [1 stk] grøn squash i skiver, grillet, [1 stk] rødløg i tynde både, [1 stk] granatæble i kerner, [100 g] friske gedeoste i mindre stykker, [2 dl] groft hakket frisk dild, [6 stk] skiver stegte parmaskinke, [1 dl] olivenolie, [3 spsk] hvid balsamicoeddike, [ ] salt & friskkværnet peber
+    OPDATERET: Kartofler |   => 850 g
+    OPDATERET: Olivenolie |   => 1 dl
+    UAENDRET:  Salt |  
+    OPDATERET: Squash |   => 1 stk
+    INGEN MATCH: Koldt vand
+  TILFOJET (6):
+    + rødløg i tynde både | 1 stk
+    + granatæble i kerner | 1 stk
+    + friske gedeoste i mindre stykker | 100 g
+    + groft hakket frisk dild | 2 dl
+    + skiver stegte parmaskinke | 6 stk
+    + hvid balsamicoeddike | 3 spsk
+
+OPSKRIFT: Cremet pasta med kylling, fennikel og tomat
+  MENY-URL: https://meny.dk/opskrift/cremet-pasta-kylling-fennikel-og-tomat
+  MENY (7 ing): [500 g] tørret pasta, [1 stk] kylling, [1 stk] fennikel, [500 g] cherrytomater, [1 spsk] olivenolie, [200 g] Puck® salatost i blok, [ ] salt & sort peber
+    UAENDRET:  Salt |  
+    OPDATERET: Pasta |   => 500 g
+    OPDATERET: Fennikel |   => 1 stk
+    INGEN MATCH: Løg
+    OPDATERET: Tomater (Danske) |   => 500 g
+    OPDATERET: Kyllingebryst |   => 1 stk
+    INGEN MATCH: Gulerødder
+    INGEN MATCH: Hakkede Tomater
+    OPDATERET: Friske Tomater |   => 500 g
+    OPDATERET: Hel kylling |   => 1 stk
+  TILFOJET (2):
+    + olivenolie | 1 spsk
+    + Puck® salatost i blok | 200 g
+
+OPSKRIFT: Grillede bananer med cheesecakecreme
+  MENY-URL: https://meny.dk/opskrift/grillede-bananer-cheesecakecreme
+  MENY (9 ing): [2 spsk] brun farin, [4 stk] modne bananer, [100 g] mørk chokolade, [1.5 dl] piskefløde, [50 g] hasselnødder hakkede eller i flager, [100 g] flødeost naturel, [1 tsk] vaniljesukker, [25 g] flormelis, [2 dl] piskefløde
+    OPDATERET: Bananer |   => 4 stk
+    OPDATERET: Vaniljesukker |   => 1 tsk
+    OPDATERET: Hasselnødder |   => 50 g
+  TILFOJET (6):
+    + brun farin | 2 spsk
+    + mørk chokolade | 100 g
+    + piskefløde | 1.5 dl
+    + flødeost naturel | 100 g
+    + flormelis | 25 g
+    + piskefløde | 2 dl
+
+OPSKRIFT: Avocado-mangosalat med cashewnødder og hytteost
+  MENY-URL: https://meny.dk/opskrift/avocado-mangosalat-cashewnoedder-og-hytteost
+  MENY (10 ing): [1 stk] mango, [ ] ca. 250 g romainesalat, [2 stk] avocadoer, [100 g] Arla Karolines Køkken® Hytteost 4%, [2 spsk] hvidvinseddike, [1 spsk] flydende honning, [1 tsk] salt, [100 g] cashewnødder, [2 spsk] sesamfrø, [ ] pynt: frisk oregano
+    OPDATERET: Salt |   => 1 tsk
+    UAENDRET:  Oregano |  
+    OPDATERET: Avocado |   => 2 stk
+  TILFOJET (7):
+    + mango | 1 stk
+    + ca. 250 g romainesalat |  
+    + Arla Karolines Køkken® Hytteost 4% | 100 g
+    + hvidvinseddike | 2 spsk
+    + flydende honning | 1 spsk
+    + cashewnødder | 100 g
+    + sesamfrø | 2 spsk
+
+OPSKRIFT: Fasan i cremet bourbonsauce med salvie, bacon og æble
+  MENY-URL: https://meny.dk/opskrift/fasan-i-cremet-bourbonsauce-salvie-bacon-og-able
+  MENY (12 ing): [1 stk] hel fasan, [ ] salt og peber, [250 g] skalotteløg, [150 g] bacontern, [25 g] smør, [8 stk] enebær, [1 spsk] koncentreret tomatpuré, [6 cl] bourbon eller whisky, [3 dl] piskefløde, [2 stk] æbler, [8 blade] frisk salvie, [ ] kartoffelmos eller rodfrugtmos
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    INGEN MATCH: Bacon i tern
+    INGEN MATCH: Pancetta / Bacon i tern
+  TILFOJET (11):
+    + hel fasan | 1 stk
+    + skalotteløg | 250 g
+    + bacontern | 150 g
+    + smør | 25 g
+    + enebær | 8 stk
+    + koncentreret tomatpuré | 1 spsk
+    + bourbon eller whisky | 6 cl
+    + piskefløde | 3 dl
+    + æbler | 2 stk
+    + frisk salvie | 8 blade
+    + kartoffelmos eller rodfrugtmos |  
+
+OPSKRIFT: Grillede krabbeklør med aioli og lime
+  MENY-URL: https://meny.dk/opskrift/grillede-krabbekloer-aioli-og-lime
+  MENY (12 ing): [1 kg] krabbeklo, [2 stk] lime, [25 g] friskrevet frisk ingefær, [2 spsk] flydende honning, [2 stk] æggeblommer, [1 tsk] hvidvinseddike, [1 tsk] dijonsennep, [1 tsk] salt, [0.25 tsk] cayennepeber, [2 dl] koldpresset rapsolie, [1 stk] knust fed hvidløg, [1 stk] lime i både til pynt
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Koldt vand
+    OPDATERET: Hvidløg |   => 1 stk
+  TILFOJET (10):
+    + krabbeklo | 1 kg
+    + lime | 2 stk
+    + friskrevet frisk ingefær | 25 g
+    + flydende honning | 2 spsk
+    + æggeblommer | 2 stk
+    + hvidvinseddike | 1 tsk
+    + dijonsennep | 1 tsk
+    + cayennepeber | 0.25 tsk
+    + koldpresset rapsolie | 2 dl
+    + lime i både til pynt | 1 stk
+
+OPSKRIFT: Hummus med krydrede kødboller og spidskålsalat
+  MENY-URL: https://meny.dk/opskrift/hummus-krydrede-kodboller-og-spidskalsalat
+  MENY (21 ing): [1 stk] lille løg, [1 stk] håndfuld persille, [1 fed] hvidløg, [400 g] hakket oksekød, [1 stk] æg, [25 g] rasp, [0.5 tsk] stødt spidskommen, [1 tsk] stødt korianderfrø, [ ] salt og sort peber, [2 spsk] olivenolie, [1 stk] dåse kikært, [ ] Saft af 0.5 citron, [4 spsk] tahin, [2 spsk] olivenolie, [ ] salt, [0.5 stk] spidskål, [1 bundt] frisk dild, [1 stk] lille rødløg, [ ] Saft af 0.5 citron, [150 g] feta, [75 g] granatæblekerner
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Spidskommen |   => 0.5 tsk
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 stk
+    INGEN MATCH: Citroner
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Frisk Persille |   => 1 stk
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (15):
+    + hvidløg | 1 fed
+    + hakket oksekød | 400 g
+    + æg | 1 stk
+    + rasp | 25 g
+    + stødt korianderfrø | 1 tsk
+    + dåse kikært | 1 stk
+    + Saft af 0.5 citron |  
+    + tahin | 4 spsk
+    + salt |  
+    + spidskål | 0.5 stk
+    + frisk dild | 1 bundt
+    + lille rødløg | 1 stk
+    + Saft af 0.5 citron |  
+    + feta | 150 g
+    + granatæblekerner | 75 g
+
+OPSKRIFT: Hjemmelavede hotdogs med grønne asparges og rejesalat
+  MENY-URL: https://meny.dk/opskrift/hjemmelavede-hotdogs-groenne-asparges-og-rejesalat
+  MENY (23 ing): [25 g] gær, [3 dl] lunket mælk, [0.5 dl] olivenolie, [1 stk] æg, [1 tsk] salt, [2 tsk] sukker, [200 g] fuldkornshvedemel, [300 g] hvedemel + ekstra til udrulning, [1 stk] æg, [1 spsk] chiafrø, [33 stk] grønne asparges, [1 dl] Cheasy® skyr naturel, [1 dl] mayonnaise, [0.5 dl] finthakket purløg, [2 stk] forårsløg, [1 spsk] friskpresset citronsaft, [1 spsk] citronskal, [ ] salt og sort peber, [50 g] grønne asparges, [200 g] rejer, [60 g] radiser, [25 g] ærteskud, [1 dl] purløg
+    OPDATERET: Olivenolie |   => 0.5 dl
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Hvedemel |   => 200 g
+    OPDATERET: Sukker |   => 2 tsk
+    OPDATERET: Grønne Asparges |   => 33 stk
+    OPDATERET: Mayonnaise |   => 1 dl
+    OPDATERET: Forårsløg |   => 2 stk
+    INGEN MATCH: Koldt vand
+    INGEN MATCH: Citroner
+    INGEN MATCH: Gode Brunchpølser
+  TILFOJET (15):
+    + gær | 25 g
+    + lunket mælk | 3 dl
+    + æg | 1 stk
+    + hvedemel + ekstra til udrulning | 300 g
+    + æg | 1 stk
+    + chiafrø | 1 spsk
+    + Cheasy® skyr naturel | 1 dl
+    + finthakket purløg | 0.5 dl
+    + friskpresset citronsaft | 1 spsk
+    + citronskal | 1 spsk
+    + salt og sort peber |  
+    + rejer | 200 g
+    + radiser | 60 g
+    + ærteskud | 25 g
+    + purløg | 1 dl
+
+OPSKRIFT: Hønsesalat med æble og valnødder
+  MENY-URL: https://meny.dk/opskrift/hoensesalat-aeble-og-valnoedder
+  MENY (9 ing): [200 g] kogt eller stegt kyllingekød uden skind, [1 stk] æble, [25 g] valnødder, [100 g] mayonnaise, [1 dl] Arla A38® Ymer, [2 spsk] sød fransk sennep, [ ] salt og hvid peber, [1 dl] frisk kørvel, [125 g] bacon i skiver
+    INGEN MATCH: Franskbrød
+    UAENDRET:  Salt |  
+    OPDATERET: Mayonnaise |   => 100 g
+    INGEN MATCH: Kyllingebryst
+    OPDATERET: Bacon i tern |   => 125 g
+    OPDATERET: Pancetta / Bacon i tern |   => 125 g
+    INGEN MATCH: Hel kylling
+  TILFOJET (6):
+    + kogt eller stegt kyllingekød uden skind | 200 g
+    + æble | 1 stk
+    + valnødder | 25 g
+    + Arla A38® Ymer | 1 dl
+    + sød fransk sennep | 2 spsk
+    + frisk kørvel | 1 dl
+
+OPSKRIFT: Grillet agurk med grillede jordbær, saltmandler og mynte
+  MENY-URL: https://meny.dk/opskrift/grillet-agurk-grillede-jordbaer-saltmandler-og-mynte
+  MENY (9 ing): [2 stk] agurker i halvmåner, [2 spsk] olivenolie, [450 g] jordbær i halve, [50 g] ristede mandler, [0.5 tsk] havsalt, [1 dl] hakket mynte, [0.5 stk] granatæble, [75 g] rucolasalat, [ ] granatæblekerne
+    OPDATERET: Agurk |   => 2 stk
+    OPDATERET: Æble |   => 0.5 stk
+    OPDATERET: Salt |   => 0.5 tsk
+  TILFOJET (6):
+    + olivenolie | 2 spsk
+    + jordbær i halve | 450 g
+    + ristede mandler | 50 g
+    + hakket mynte | 1 dl
+    + rucolasalat | 75 g
+    + granatæblekerne |  
+
+OPSKRIFT: Fyldte aubergineruller
+  MENY-URL: https://meny.dk/opskrift/fyldte-aubergineruller
+  MENY (7 ing): [2 stk] auberginer, [3 spsk] olivenolie, [2 stk] rødløg, [1 spsk] hakket frisk rosmarin, [250 g] ricotta, [250 g] koncentreret tomatpuré, [ ] salt & sort peber
+    OPDATERET: Olivenolie |   => 3 spsk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Løg |   => 2 stk
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+  TILFOJET (3):
+    + auberginer | 2 stk
+    + ricotta | 250 g
+    + koncentreret tomatpuré | 250 g
+
+OPSKRIFT: Avocadosalat med blåbær, fetaost, saltristede mandler og mynte-limedressing
+  MENY-URL: https://meny.dk/opskrift/avocadosalat-blaabaer-fetaost-saltristede-mandler-og-mynte-limedressing
+  MENY (15 ing): [2 dl] sort quinoa, [1 stk] grøntsagsbouillon, [4 dl] vand, [0.5 tsk] salt, [3 stk] avocadoer, [200 g] spinatblade, [100 g] Puck® salatost i blok, [125 g] blåbær, [1 stk] lime, [1 dl] olivenolie, [1 spsk] flydende honning, [0.5 tsk] sort peber, [0.5 tsk] salt, [1 dl] friskhakket mynte, [ ] pynt: frisk mynte
+    OPDATERET: Quinoa |   => 2 dl
+    OPDATERET: Olivenolie |   => 1 dl
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 2 dl
+    OPDATERET: Avocado |   => 3 stk
+    OPDATERET: Koldt vand |   => 4 dl
+    OPDATERET: Frisk Spinat |   => 200 g
+  TILFOJET (8):
+    + grøntsagsbouillon | 1 stk
+    + Puck® salatost i blok | 100 g
+    + blåbær | 125 g
+    + lime | 1 stk
+    + flydende honning | 1 spsk
+    + sort peber | 0.5 tsk
+    + friskhakket mynte | 1 dl
+    + pynt: frisk mynte |  
+
+OPSKRIFT: Gratinerede auberginer
+  MENY-URL: https://meny.dk/opskrift/gratinerede-auberginer
+  MENY (7 ing): [2 stk] rødløg, [2 stk] auberginer, [2 spsk] olivenolie, [1 spsk] hakket frisk rosmarin, [500 g] koncentreret tomatpuré, [200 g] ricotta, [ ] salt & sort peber
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Aubergine |   => 2 stk
+  TILFOJET (4):
+    + rødløg | 2 stk
+    + hakket frisk rosmarin | 1 spsk
+    + koncentreret tomatpuré | 500 g
+    + ricotta | 200 g
+
+OPSKRIFT: Dumle chocolate chip cookies
+  MENY-URL: https://meny.dk/opskrift/dumle-chocolate-chip-cookies
+  MENY (7 ing): [120 g] blødt smør, [200 g] rørsukker, [1 stk] æg, [1 tsk] vaniljesukker, [200 g] hvedemel, [0.5 tsk] bagepulver, [120 g] Dumle karamel
+    OPDATERET: Hvedemel |   => 200 g
+    OPDATERET: Sukker |   => 200 g
+    OPDATERET: Vaniljesukker |   => 1 tsk
+    OPDATERET: Bagepulver |   => 0.5 tsk
+  TILFOJET (3):
+    + blødt smør | 120 g
+    + æg | 1 stk
+    + Dumle karamel | 120 g
+
+OPSKRIFT: Cremet tomatsuppe med ristede auberginer
+  MENY-URL: https://meny.dk/opskrift/cremet-tomatsuppe-ristede-auberginer
+  MENY (8 ing): [2 stk] rødløg, [1 stk] aubergine, [2 spsk] olivenolie, [1 spsk] hakket frisk rosmarin, [500 g] koncentreret tomatpuré, [8 dl] vand, [ ] evt. 1 terning hønsebouillon, [ ] salt & sort peber
+    UAENDRET:  Salt |  
+    OPDATERET: Aubergine |   => 1 stk
+    OPDATERET: Løg |   => 2 stk
+  TILFOJET (5):
+    + olivenolie | 2 spsk
+    + hakket frisk rosmarin | 1 spsk
+    + koncentreret tomatpuré | 500 g
+    + vand | 8 dl
+    + evt. 1 terning hønsebouillon |  
+
+OPSKRIFT: Grøn aspargessuppe med grillede aspargeshoveder
+  MENY-URL: https://meny.dk/opskrift/groen-aspargessuppe-grillede-aspargeshoveder
+  MENY (11 ing): [600 g] grønne asparges + gem aspargeshovederne til pynt, [1 stk] løg, [25 g] smør, [1 dl] frossen ært, [7 dl] hønsebouillon, [1 dl] Arla Karolines Køkken® Madlavningsfløde 15%, [ ] groft salt, [ ] friskkværnet peber, [ ] havsalt, [ ] friskkværnet rosa peberkorn, [ ] frisk frisk kørvel
+    UAENDRET:  Salt |  
+    OPDATERET: Løg |   => 1 stk
+  TILFOJET (9):
+    + grønne asparges + gem aspargeshovederne til pynt | 600 g
+    + smør | 25 g
+    + frossen ært | 1 dl
+    + hønsebouillon | 7 dl
+    + Arla Karolines Køkken® Madlavningsfløde 15% | 1 dl
+    + friskkværnet peber |  
+    + havsalt |  
+    + friskkværnet rosa peberkorn |  
+    + frisk frisk kørvel |  
+
+OPSKRIFT: Grillet grisemørbrad med pinjekerner og parmaskinke
+  MENY-URL: https://meny.dk/opskrift/grillet-grisemoerbrad-pinjekerner-og-parmaskinke
+  MENY (9 ing): [500 g] Arla Buko® Pikant, [1 stk] afpudset svinemørbrad, [50 g] soltørrede tomater i strimler, [1 spsk] hakket frisk rosmarin, [1 tsk] salt, [1 tsk] tørret chiliflage, [40 g] ristede pinjekerner, [100 g] parmaskinke i skiver, [1 stk] rosmarinkvist
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Tomater (Danske) |   => 50 g
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+    OPDATERET: Hakkede Tomater |   => 50 g
+    OPDATERET: Friske Tomater |   => 50 g
+    OPDATERET: Svinemørbrad |   => 1 stk
+  TILFOJET (5):
+    + Arla Buko® Pikant | 500 g
+    + tørret chiliflage | 1 tsk
+    + ristede pinjekerner | 40 g
+    + parmaskinke i skiver | 100 g
+    + rosmarinkvist | 1 stk
+
+OPSKRIFT: Mormors rødkål med æble, appelsin og solbærsaft
+  MENY-URL: https://meny.dk/opskrift/mormors-roedkaal-aeble-appelsin-og-solbaersaft
+  MENY (12 ing): [0.5 stk] 1/2 rødkål, [1 stk] løg, [2 stk] æbler, [1 stk] appelsin, [1 spsk] smør, [ ] salt og sort peber, [1 dl] solbærsaft, [4 spsk] hvidvinseddike, [1 stk] laurbærblad, [4 stk] timianblade, [2 stk] kanelstænger, [ ] evt. 2 spsk andefedt
+    UAENDRET:  Salt |  
+    INGEN MATCH: Sukker
+    OPDATERET: Løg |   => 1 stk
+  TILFOJET (10):
+    + 1/2 rødkål | 0.5 stk
+    + æbler | 2 stk
+    + appelsin | 1 stk
+    + smør | 1 spsk
+    + solbærsaft | 1 dl
+    + hvidvinseddike | 4 spsk
+    + laurbærblad | 1 stk
+    + timianblade | 4 stk
+    + kanelstænger | 2 stk
+    + evt. 2 spsk andefedt |  
+
+OPSKRIFT: Minestrone med kål, pancetta, kikærter og pasta
+  MENY-URL: https://meny.dk/opskrift/minestrone-med-kal-pancetta-kikarter-og-pasta
+  MENY (15 ing): [1 stk] løg, [3 stk] stilke bladselleri, [2 stk] gulerødder, [250 g] kartofler, [1 fed] hvidløg, [1 spsk] olivenolie, [150 g] pancetta i tern, [1 spsk] frisk rosmarin, [ ] fint salt og peber, [1.5 l] koncentreret oksefond, [150 g] kort pasta, fx. suppehorn eller skruer, [1 stk] dåse kikært i lage, [0.5 stk] blomkål, [15 l] grønkål, [1 stk] håndfuld bredbladet persille
+    OPDATERET: Kartofler |   => 250 g
+    OPDATERET: Gulerødder |   => 2 stk
+    UAENDRET:  Salt |  
+    OPDATERET: Pasta |   => 150 g
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 stk
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+    OPDATERET: Pancetta / Bacon i tern |   => 150 g
+  TILFOJET (8):
+    + stilke bladselleri | 3 stk
+    + hvidløg | 1 fed
+    + olivenolie | 1 spsk
+    + koncentreret oksefond | 1.5 l
+    + dåse kikært i lage | 1 stk
+    + blomkål | 0.5 stk
+    + grønkål | 15 l
+    + håndfuld bredbladet persille | 1 stk
+
+OPSKRIFT: Nakkefilet à la normande
+  MENY-URL: https://meny.dk/opskrift/nakkefilet-la-normande
+  MENY (13 ing): [1 stk] grisenakkefilet ca. 1 kg, [ ] salt og sort peber, [1 spsk] smør, [1 stk] løg, [250 g] champignoner, [1 fed] hvidløg, [4 stk] frisk salvie, [3 dl] tør æblecider, [200 ml] hønsefond, [200 g] creme fraiche 38%, [4 spsk] dijonsennep, [2 stk] æbler, [ ] kogte kartoffel, ris eller perlebyg
+    OPDATERET: Champignon |   => 250 g
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 stk
+  TILFOJET (10):
+    + grisenakkefilet ca. 1 kg | 1 stk
+    + smør | 1 spsk
+    + hvidløg | 1 fed
+    + frisk salvie | 4 stk
+    + tør æblecider | 3 dl
+    + hønsefond | 200 ml
+    + creme fraiche 38% | 200 g
+    + dijonsennep | 4 spsk
+    + æbler | 2 stk
+    + kogte kartoffel, ris eller perlebyg |  
+
+OPSKRIFT: Gin & Tonic med brombær og timian
+  MENY-URL: https://meny.dk/opskrift/gin-tonic-brombaer-og-timian
+  MENY (6 ing): [ ] isterning, [4 cl] The London N°1 gin, [2 stk] stilke timianblade, [15 cl] tonic vand, [0.5 skive] citron, [3 stk] brombær
+    INGEN MATCH: Æg
+    OPDATERET: Citron |   => 0.5 skive
+    OPDATERET: Citroner |   => 0.5 skive
+  TILFOJET (5):
+    + isterning |  
+    + The London N°1 gin | 4 cl
+    + stilke timianblade | 2 stk
+    + tonic vand | 15 cl
+    + brombær | 3 stk
+
+OPSKRIFT: Ølandspancakes med bacon, kernedrys og sirup
+  MENY-URL: https://meny.dk/opskrift/oelandspancakes-bacon-kernedrys-og-sirup
+  MENY (12 ing): [125 g] bacon i skiver, [2 spsk] solsikkekerner, [1 spsk] hørfrø, [1 spsk] sesamfrø, [1 spsk] græskarkerner, [2 spsk] lys sirup + ekstra til servering, [225 g] ølandshvedemel, [2 spsk] sukker, [1.5 tsk] bagepulver, [2.5 dl] Arla® ØKO letmælk, [2 stk] æg, [25 g] smeltet smør + ekstra til stegning
+    OPDATERET: Æg |   => 2 stk
+    OPDATERET: Sukker |   => 2 spsk
+    OPDATERET: Bagepulver |   => 1.5 tsk
+    OPDATERET: Bacon i tern |   => 125 g
+    OPDATERET: Pancetta / Bacon i tern |   => 125 g
+  TILFOJET (8):
+    + solsikkekerner | 2 spsk
+    + hørfrø | 1 spsk
+    + sesamfrø | 1 spsk
+    + græskarkerner | 1 spsk
+    + lys sirup + ekstra til servering | 2 spsk
+    + ølandshvedemel | 225 g
+    + Arla® ØKO letmælk | 2.5 dl
+    + smeltet smør + ekstra til stegning | 25 g
+
+OPSKRIFT: Nøddecreme/nutella-tærte med hindbær
+  MENY-URL: https://meny.dk/opskrift/noeddecreme-taerte-hindbaer
+  MENY (11 ing): [100 g] hasselnødder, [140 g] hvedemel, [0.5 tsk] salt, [25 g] sukker, [85 g] koldt smør, [1 stk] æg, [5 dl] Arla Karolines Køkken® Piskefløde 38%, [2 spsk] majsstivelse, [18 spsk] hasselnøddecreme eller nutella, [125 g] hindbær, [1 tsk] flagesalt
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Æg |   => 1 stk
+    OPDATERET: Sukker |   => 25 g
+  TILFOJET (8):
+    + hasselnødder | 100 g
+    + hvedemel | 140 g
+    + koldt smør | 85 g
+    + Arla Karolines Køkken® Piskefløde 38% | 5 dl
+    + majsstivelse | 2 spsk
+    + hasselnøddecreme eller nutella | 18 spsk
+    + hindbær | 125 g
+    + flagesalt | 1 tsk
+
+OPSKRIFT: Nem tærte med squash, oliven og mozzarella
+  MENY-URL: https://meny.dk/opskrift/nem-taerte-squash-oliven-og-mozzarella
+  MENY (8 ing): [1 stk] grøn squash, [1 pakke] butterdej, [50 g] oliventapenade, [140 g] revet mozzarellaost, [2 spsk] olivenolie, [ ] salt og sort peber, [1.5 dl] friske krusemynteblade, [ ] Evt. 1 frisk chili
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Squash |   => 1 stk
+    INGEN MATCH: Æg
+    UAENDRET:  Frisk Chili |  
+  TILFOJET (4):
+    + butterdej | 1 pakke
+    + oliventapenade | 50 g
+    + revet mozzarellaost | 140 g
+    + friske krusemynteblade | 1.5 dl
+
+OPSKRIFT: Butterchicken med kikærter, basmatiris, broccoli og limemarineret rødkål
+  MENY-URL: https://meny.dk/opskrift/butterchicken-kikarter-basmatiris-broccoli-og-limemarineret-rodkal
+  MENY (22 ing): [300 g] kyllingebrystfileter, [1 tsk] gurkemeje, [2 tsk] garam masala, [1 tsk] stødt koriander, [ ] salt og peber, [1 stk] stort løg, [2 fed] hvidløg, [20 g] frisk ingefær, [2 spsk] solsikkeolie, [1 stk] dåse hakket tomat, [1 stk] dåse kikært, [1 pakke] broccolini, [150 g] rødkål, [1 stk] håndfuld frisk koriander, [1 stk] lime, [50 g] mandler, [0.75 dl] piskefløde, [3 dl] basmatiris, [5 dl] vand, [ ] frisk koriander, [ ] chili, [ ] lime
+    OPDATERET: Ris |   => 1 stk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Hakkede Tomater
+    INGEN MATCH: Æg
+    OPDATERET: Broccoli |   => 1 pakke
+    OPDATERET: Frisk Koriander |   => 1 tsk
+    OPDATERET: Koldt vand |   => 5 dl
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Hvidløg |   => 2 fed
+    INGEN MATCH: Tomater (Danske)
+    OPDATERET: Frisk Ingefær |   => 20 g
+    INGEN MATCH: Friske Tomater
+    UAENDRET:  Frisk Chili |  
+  TILFOJET (13):
+    + kyllingebrystfileter | 300 g
+    + gurkemeje | 1 tsk
+    + garam masala | 2 tsk
+    + solsikkeolie | 2 spsk
+    + dåse hakket tomat | 1 stk
+    + dåse kikært | 1 stk
+    + rødkål | 150 g
+    + lime | 1 stk
+    + mandler | 50 g
+    + piskefløde | 0.75 dl
+    + basmatiris | 3 dl
+    + frisk koriander |  
+    + lime |  
+
+OPSKRIFT: Nakkekoteletter med nem BBQ-sauce og bagte kartofler med purløgsdressing
+  MENY-URL: https://meny.dk/opskrift/nakkekoteletter-nem-bbq-sauce-og-bagte-kartofler-purloegsdressing
+  MENY (15 ing): [3 spsk] HP sauce, [0.5 dl] tomatketchup, [2 spsk] sojasauce, [2 spsk] majsolie, [1 fed] hvidløg, knust, [ ] salt, [ ] sort peber, [500 g] nakkekoteletter, [4 stk] bagekartofler, [150 g] creme fraiche 5%, [1 bundt] purløg, [1 spsk] sød sennep, [150 g] salat mix, [2 spsk] olivenolie, [1 spsk] hvidvinseddike
+    OPDATERET: Kartofler |   => 4 stk
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Ketchup |   => 0.5 dl
+    UAENDRET:  Salt |  
+    UAENDRET:  Sort Peber |  
+    INGEN MATCH: Æg
+    OPDATERET: Creme Fraiche |   => 150 g
+    OPDATERET: Sojasauce |   => 2 spsk
+    OPDATERET: Hvidløg |   => 1 fed
+  TILFOJET (7):
+    + HP sauce | 3 spsk
+    + majsolie | 2 spsk
+    + nakkekoteletter | 500 g
+    + purløg | 1 bundt
+    + sød sennep | 1 spsk
+    + salat mix | 150 g
+    + hvidvinseddike | 1 spsk
+
+OPSKRIFT: Chokolademousse med yoghurt
+  MENY-URL: https://meny.dk/opskrift/chokolademousse-yoghurt
+  MENY (11 ing): [1 tsk] kakaopulver, [100 g] mørk chokolade med chili eller orange, [1 tsk] nescafé, [1 tsk] vaniljesukker, [3 spsk] vand, [100 g] yoghurt 10%, [2 stk] pasteuriserede æggehvider, [1 spsk] sukker, [2 stk] appelsiner, [2 dl] sukker, [2 dl] vand
+    OPDATERET: Sukker |   => 1 tsk
+    OPDATERET: Vaniljesukker |   => 1 tsk
+    OPDATERET: Koldt vand |   => 3 spsk
+  TILFOJET (8):
+    + kakaopulver | 1 tsk
+    + mørk chokolade med chili eller orange | 100 g
+    + nescafé | 1 tsk
+    + yoghurt 10% | 100 g
+    + pasteuriserede æggehvider | 2 stk
+    + sukker | 1 spsk
+    + appelsiner | 2 stk
+    + sukker | 2 dl
+
+OPSKRIFT: Lun peach melba-salat med skinke og gedeost
+  MENY-URL: https://meny.dk/opskrift/lun-peach-melba-salat-skinke-og-gedeost
+  MENY (10 ing): [4 spsk] olivenolie, [150 g] friske gedeoste, [0.5 stk] flute, [2 spsk] frisk timian, [2 stk] ferskner eller nektariner, [125 g] hindbær, [ ] salt og sort peber, [150 g] blandet salat, [70 g] lufttørret skinke, f.eks. parma eller serrano, [2 spsk] hvid balsamicoeddike
+    OPDATERET: Olivenolie |   => 4 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Iceberg Salat |   => 150 g
+    OPDATERET: Blandet salat |   => 150 g
+    INGEN MATCH: Skåret Salatblanding
+    INGEN MATCH: Skinketern
+    OPDATERET: Kogt Skinke |   => 70 g
+  TILFOJET (6):
+    + friske gedeoste | 150 g
+    + flute | 0.5 stk
+    + frisk timian | 2 spsk
+    + ferskner eller nektariner | 2 stk
+    + hindbær | 125 g
+    + hvid balsamicoeddike | 2 spsk
+
+OPSKRIFT: Marry me Chicken (Kylling i cremet sauce med soltørret tomat)
+  MENY-URL: https://meny.dk/opskrift/marry-me-chicken-kylling-i-cremet-sauce-soltorret-tomat-
+  MENY (15 ing): [4 stk] kyllingebryst, [ ] salt, [ ] sort peber, [50 g] hvedemel, [2 fed] hvidløg, [1 spsk] smør, [1 spsk] olie, [50 g] soltørrede tomater, [1 tsk] tørret oregano, [1 tsk] chiliflage, [2 dl] hønsebouillon, [2 dl] piskefløde, [25 g] fintrevet parmigiano reggiano, [1 stk] håndfuld frisk basilikum, [ ] pasta eller ris
+    OPDATERET: Bouillon |   => 2 dl
+    OPDATERET: Olivenolie |   => 1 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Oregano |   => 1 tsk
+    INGEN MATCH: Æg
+    INGEN MATCH: Parmesan
+    OPDATERET: Hvidløg |   => 2 fed
+    OPDATERET: Tomater (Danske) |   => 50 g
+    OPDATERET: Kyllingebryst |   => 4 stk
+    OPDATERET: Hakkede Tomater |   => 50 g
+    INGEN MATCH: Frisk Persille
+    OPDATERET: Friske Tomater |   => 50 g
+    INGEN MATCH: Hel kylling
+  TILFOJET (8):
+    + sort peber |  
+    + hvedemel | 50 g
+    + smør | 1 spsk
+    + chiliflage | 1 tsk
+    + piskefløde | 2 dl
+    + fintrevet parmigiano reggiano | 25 g
+    + håndfuld frisk basilikum | 1 stk
+    + pasta eller ris |  
+
+OPSKRIFT: Marcipanrør med bær & chokolade
+  MENY-URL: https://meny.dk/opskrift/marcipanroer-baer-chokolade
+  MENY (8 ing): [40 g] æggehvider, [250 g] marcipan, [100 g] sukker, [100 g] mørk chokolade, [100 g] hvid chokolade, [24 stk] brombær, [1 dl] Arla Karolines Køkken® Piskefløde 38%, [1 liter] vaniljeflødeis
+    OPDATERET: Æg |   => 40 g
+    OPDATERET: Sukker |   => 100 g
+  TILFOJET (6):
+    + marcipan | 250 g
+    + mørk chokolade | 100 g
+    + hvid chokolade | 100 g
+    + brombær | 24 stk
+    + Arla Karolines Køkken® Piskefløde 38% | 1 dl
+    + vaniljeflødeis | 1 liter
+
+OPSKRIFT: Grillet sandwich med røræg, grillede courgetter og mayonnaise
+  MENY-URL: https://meny.dk/opskrift/grillet-sandwich-rorag-grillede-courgetter-og-mayonnaise
+  MENY (11 ing): [2 stk] squash, [3 spsk] olivenolie, [0.5 stk] citron, [8 stk] skiver surdejsbrød, [6 stk] æg, [1 spsk] smør, [4 spsk] mayonnaise, [1 stk] håndfuld mynte, [4 spsk] fintklippet purløg, [0.5 tsk] salt, [0.5 tsk] sort peber
+    OPDATERET: Olivenolie |   => 3 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Æg |   => 6 stk
+    OPDATERET: Mayonnaise |   => 4 spsk
+    OPDATERET: Citroner |   => 0.5 stk
+  TILFOJET (6):
+    + squash | 2 stk
+    + skiver surdejsbrød | 8 stk
+    + smør | 1 spsk
+    + håndfuld mynte | 1 stk
+    + fintklippet purløg | 4 spsk
+    + sort peber | 0.5 tsk
+
+OPSKRIFT: Fishburger med avocadosalat
+  MENY-URL: https://meny.dk/opskrift/fishburger-avocadosalat
+  MENY (8 ing): [2 stk] panerede fiskefileter, [2 stk] avocadoer, [4 stk] burgerboller, [0.5 stk] rødløg, [1 stk] lime, [2 tsk] friske korianderblade, [ ] fint salt, [300 g] majs fra dåse
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Burgerboller |   => 4 stk
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Frisk Koriander |   => 2 tsk
+    INGEN MATCH: Torskefileter
+  TILFOJET (4):
+    + panerede fiskefileter | 2 stk
+    + rødløg | 0.5 stk
+    + lime | 1 stk
+    + majs fra dåse | 300 g
+
+OPSKRIFT: Porchetta med salvie, citron og persille
+  MENY-URL: https://meny.dk/opskrift/porchetta-salvie-citron-og-persille
+  MENY (6 ing): [1 stk] frilands griseslag med svær, [1 stk] salt og sort peber, [1 stk] løg, [1 stk] håndfuld bredbladet persille, [1 stk] håndfuld frisk salvie, [ ] Revet skal af 0.5 citron
+    OPDATERET: Salt |   => 1 stk
+    INGEN MATCH: Æg
+    UAENDRET:  Citron |  
+    OPDATERET: Løg |   => 1 stk
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Persille |   => 1 stk
+  TILFOJET (2):
+    + frilands griseslag med svær | 1 stk
+    + håndfuld frisk salvie | 1 stk
+
+OPSKRIFT: Oreo mumie-cakepops
+  MENY-URL: https://meny.dk/opskrift/oreo-mumie-cakepops
+  MENY (3 ing): [8 stk] Oreo, [8 stk] træspyd, [150 g] hvid chokolade
+    INGEN MATCH: Æg
+    INGEN MATCH: Sukker
+  TILFOJET (3):
+    + Oreo | 8 stk
+    + træspyd | 8 stk
+    + hvid chokolade | 150 g
+
+OPSKRIFT: Pavlova med rabarber og bær
+  MENY-URL: https://meny.dk/opskrift/pavlova-rabarber-og-bar
+  MENY (11 ing): [6 stk] æggehvider, [300 g] sukker, [1 spsk] majsstivelse, [1 tsk] vaniljesukker, [1 tsk] hvidvinseddike, [300 g] rabarber, [150 g] sukker, [1 tsk] vaniljesukker, [3 dl] piskefløde, [200 g] jordbær, [150 g] hindbær
+    OPDATERET: Æg |   => 6 stk
+    OPDATERET: Sukker |   => 300 g
+    OPDATERET: Vaniljesukker |   => 300 g
+  TILFOJET (8):
+    + majsstivelse | 1 spsk
+    + vaniljesukker | 1 tsk
+    + hvidvinseddike | 1 tsk
+    + rabarber | 300 g
+    + vaniljesukker | 1 tsk
+    + piskefløde | 3 dl
+    + jordbær | 200 g
+    + hindbær | 150 g
+
+OPSKRIFT: Agurkesandwich med citron-estragonsmør
+  MENY-URL: https://meny.dk/opskrift/agurkesandwich-citron-estragonsmoer
+  MENY (6 ing): [50 g] smør, [ ] revet skal fra 0.5 citron, [2 spsk] finthakket estragonblade, [ ] salt og sort peber, [1 stk] agurk, [8 stk] skiver sandwichbrød
+    UAENDRET:  Salt |  
+    UAENDRET:  Citron |  
+    INGEN MATCH: Citroner
+  TILFOJET (4):
+    + smør | 50 g
+    + finthakket estragonblade | 2 spsk
+    + agurk | 1 stk
+    + skiver sandwichbrød | 8 stk
+
+OPSKRIFT: Råmarinerede dildsild med akvavit og fennikel
+  MENY-URL: https://meny.dk/opskrift/raamarinerede-dildsild-akvavit-og-fennikel
+  MENY (10 ing): [8 stk] dobbelt sildefileter, [0.5 stk] fennikel, [0.5 dl] lagereddike, [ ] saft af 0.5 citron, [1 tsk] groft salt, [2 tsk] rørsukker, [1 tsk] fennikelfrø, [1 stk] potte frisk dild, [1 tsk] hvid peberkorn, [0.5 dl] frisk dild
+    INGEN MATCH: Æg
+    OPDATERET: Fennikel |   => 0.5 stk
+  TILFOJET (9):
+    + dobbelt sildefileter | 8 stk
+    + lagereddike | 0.5 dl
+    + saft af 0.5 citron |  
+    + groft salt | 1 tsk
+    + rørsukker | 2 tsk
+    + fennikelfrø | 1 tsk
+    + potte frisk dild | 1 stk
+    + hvid peberkorn | 1 tsk
+    + frisk dild | 0.5 dl
+
+OPSKRIFT: Chokoladesnitter med vaniljeis og smørcreme
+  MENY-URL: https://meny.dk/opskrift/chokoladesnitter-vaniljeis-og-smoercreme
+  MENY (13 ing): [150 g] smeltet smør + ekstra til formen, [150 g] sukker, [3 stk] æg, [150 stk] hvedemel, [1 tsk] vaniljepulver, [25 g] kakaopulver, [1 tsk] bagepulver, [100 g] smør, [250 g] flormelis, [1 tsk] vaniljesukker, [1 spsk] mælk, [1 stk] vaniljeflødeis, [ ] krymmel
+    OPDATERET: Mælk |   => 1 spsk
+    OPDATERET: Hvedemel |   => 150 stk
+    OPDATERET: Sukker |   => 150 g
+    OPDATERET: Vaniljesukker |   => 150 g
+    OPDATERET: Bagepulver |   => 1 tsk
+  TILFOJET (9):
+    + smeltet smør + ekstra til formen | 150 g
+    + æg | 3 stk
+    + vaniljepulver | 1 tsk
+    + kakaopulver | 25 g
+    + smør | 100 g
+    + flormelis | 250 g
+    + vaniljesukker | 1 tsk
+    + vaniljeflødeis | 1 stk
+    + krymmel |  
+
+OPSKRIFT: Ribeye med saltbagte kartofler, grønne asparges og kryddersmør
+  MENY-URL: https://meny.dk/opskrift/ribeye-saltbagte-kartofler-groenne-asparges-og-kryddersmoer
+  MENY (15 ing): [ ] ribeye-steak af dansk krogmodnet oksekød, [ ] smør til stegning, [ ] groft salt, [ ] friskkværnet peber, [150 g] blødt smør, [1 dl] hakket kruspersille eller timian, [1 fed] hvidløg, [0.5 tsk] cayennepeber, [1 kg] små kartofler, [3 spsk] olivenolie, [2 spsk] havsalt, [ ] friskkværnet peber, [ ] frisk timian, [500 g] grønne asparges, [1 tsk] hvidløgssalt
+    OPDATERET: Kartofler |   => 1 kg
+    OPDATERET: Olivenolie |   => 3 spsk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Grønne Asparges |   => 500 g
+    OPDATERET: Hvidløg |   => 1 fed
+  TILFOJET (10):
+    + ribeye-steak af dansk krogmodnet oksekød |  
+    + smør til stegning |  
+    + friskkværnet peber |  
+    + blødt smør | 150 g
+    + hakket kruspersille eller timian | 1 dl
+    + cayennepeber | 0.5 tsk
+    + havsalt | 2 spsk
+    + friskkværnet peber |  
+    + frisk timian |  
+    + hvidløgssalt | 1 tsk
+
+OPSKRIFT: Rodfrugtrøsti med koriander-avocado-creme og frisk tomatsalsa
+  MENY-URL: https://meny.dk/opskrift/rodfrugtroesti-koriander-avocado-creme-og-frisk-tomatsalsa
+  MENY (15 ing): [500 g] kartofler, [200 g] gulerødder, [1 stk] lille løg, [1 stk] æg, [50 g] hvedemel, [ ] salt og sort peber, [4 spsk] smagsneutral olie, [300 g] tomater, [0.5 stk] grøn peberfrugt, [1 stk] frisk chili, [1 bundt] purløg, [1 stk] lime, [2 stk] avocadoer, [2 spsk] creme fraiche 18%, [1 stk] 1 håndfuld frisk koriander
+    OPDATERET: Peberfrugt |   => 0.5 stk
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Gulerødder |   => 200 g
+    UAENDRET:  Salt |  
+    OPDATERET: Hvedemel |   => 50 g
+    OPDATERET: Æg |   => 1 stk
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Creme Fraiche |   => 2 spsk
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Tomater (Danske) |   => 300 g
+    OPDATERET: Hakkede Tomater |   => 300 g
+    OPDATERET: Friske Tomater |   => 300 g
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 1 stk
+  TILFOJET (3):
+    + smagsneutral olie | 4 spsk
+    + purløg | 1 bundt
+    + lime | 1 stk
+
+OPSKRIFT: Roastbeef med bearnaise, syltede perleløg og kartoffelchips
+  MENY-URL: https://meny.dk/opskrift/roastbeef-bearnaise-syltede-perleloeg-og-kartoffelchips
+  MENY (8 ing): [4 stk] skiver rugbrød, [1 spsk] smør, [150 g] roastbeef, [75 g] kold, færdiglavet Bearnaise sauce fra køl, [100 g] cherrytomater, [30 g] syltede perleløg, [1 dl] kartoffel chips, [1 dl] frisk timian
+    OPDATERET: Roastbeef |   => 150 g
+  TILFOJET (7):
+    + skiver rugbrød | 4 stk
+    + smør | 1 spsk
+    + kold, færdiglavet Bearnaise sauce fra køl | 75 g
+    + cherrytomater | 100 g
+    + syltede perleløg | 30 g
+    + kartoffel chips | 1 dl
+    + frisk timian | 1 dl
+
+OPSKRIFT: Samosa med kyllingefyld og raita
+  MENY-URL: https://meny.dk/opskrift/samosa-kyllingefyld-og-raita
+  MENY (17 ing): [6 stk] plader frossen butterdej, [2 tsk] garam masala, [1.5 tsk] stødt spidskommen, [1 tsk] stødt gurkemeje, [0.5 tsk] stødt chili, [2 spsk] olivenolie, [1 stk] løg, [400 g] hakket kyllingekød, [100 g] optøede ærter, [1 tsk] salt, [ ] æg til pensling, [0.5 stk] agurk, [2.5 dl] yoghurt 10%, [1 spsk] friskpresset limesaft, [2 spsk] hakket mynte, [0.5 tsk] salt, [ ] friskkværnet peber
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Spidskommen |   => 1.5 tsk
+    UAENDRET:  Æg |  
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Frisk Chili |   => 0.5 tsk
+  TILFOJET (10):
+    + plader frossen butterdej | 6 stk
+    + garam masala | 2 tsk
+    + stødt gurkemeje | 1 tsk
+    + hakket kyllingekød | 400 g
+    + optøede ærter | 100 g
+    + agurk | 0.5 stk
+    + yoghurt 10% | 2.5 dl
+    + friskpresset limesaft | 1 spsk
+    + hakket mynte | 2 spsk
+    + friskkværnet peber |  
+
+OPSKRIFT: Oksecuvette med juletwist og julesalat
+  MENY-URL: https://meny.dk/opskrift/oksecuvette-juletwist-og-julesalat
+  MENY (19 ing): [1.3 kg] oksecuvetter, [1 tsk] stødt kanel, [1 tsk] stødt ingefær, [1 tsk] stødt kardemomme, [1 tsk] stødt nellike, [1 tsk] groft salt, [0.5 tsk] sort peber, [6 spsk] rapsolie til stegning, [0.5 stk] rødt spidskål, [2 stk] kviste grønkål, [0.5 stk] granatæble, [2 stk] clementiner, [20 g] mandler, [3 spsk] olivenolie, [3 spsk] friskpresset appelsinsaft, [1 spsk] honning, [1.5 tsk] dijonsennep, [ ] salt, [ ] sort peber
+    OPDATERET: Æble |   => 0.5 stk
+    INGEN MATCH: Æg
+    INGEN MATCH: Klementiner
+    OPDATERET: Spidskål |   => 0.5 stk
+  TILFOJET (17):
+    + oksecuvetter | 1.3 kg
+    + stødt kanel | 1 tsk
+    + stødt ingefær | 1 tsk
+    + stødt kardemomme | 1 tsk
+    + stødt nellike | 1 tsk
+    + groft salt | 1 tsk
+    + sort peber | 0.5 tsk
+    + rapsolie til stegning | 6 spsk
+    + kviste grønkål | 2 stk
+    + clementiner | 2 stk
+    + mandler | 20 g
+    + olivenolie | 3 spsk
+    + friskpresset appelsinsaft | 3 spsk
+    + honning | 1 spsk
+    + dijonsennep | 1.5 tsk
+    + salt |  
+    + sort peber |  
+
+OPSKRIFT: Havregrynscookies med kokos og tranebær
+  MENY-URL: https://meny.dk/opskrift/havregrynscookies-med-kokos-og-tranebar
+  MENY (13 ing): [100 g] brun farin, [200 g] smør, [150 g] sukker, [1 tsk] vaniljepasta, [2 stk] æg, [250 g] hvedemel, [2 tsk] bagepulver, [75 g] kokosmel, [75 g] finvalsede havregryn, [75 g] tranebær, [150 g] flormelis, [3 spsk] vand, [4 spsk] kokosmel
+    OPDATERET: Havregryn |   => 75 g
+    OPDATERET: Hvedemel |   => 250 g
+    OPDATERET: Æg |   => 2 stk
+    OPDATERET: Sukker |   => 150 g
+    OPDATERET: Bagepulver |   => 2 tsk
+  TILFOJET (8):
+    + brun farin | 100 g
+    + smør | 200 g
+    + vaniljepasta | 1 tsk
+    + kokosmel | 75 g
+    + tranebær | 75 g
+    + flormelis | 150 g
+    + vand | 3 spsk
+    + kokosmel | 4 spsk
+
+OPSKRIFT: Pasta aglio e olio med ost, citron og pistacienødder
+  MENY-URL: https://meny.dk/opskrift/pasta-aglio-e-olio-ost-citron-og-pistacienodder
+  MENY (11 ing): [4 fed] hvidløg, [1 stk] rød chilipeber, [1 tsk] friskkværnet sort peber, [3 spsk] olivenolie, [400 g] tørret spaghetti af god kvalitet, [1 stk] håndfuld persille, [0.5 tsk] salt, [170 g] parmigiano reggiano, [1 stk] citron, [2 spsk] ristede pinjekerner, [2 spsk] grofthakkede pistacienødder
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 1 tsk
+    INGEN MATCH: Pasta
+    OPDATERET: Citron |   => 1 stk
+    INGEN MATCH: Revet Ost
+    OPDATERET: Hvidløg |   => 4 fed
+    OPDATERET: Citroner |   => 1 stk
+    OPDATERET: Frisk Persille |   => 1 stk
+    OPDATERET: Frisk Chili |   => 1 stk
+  TILFOJET (5):
+    + olivenolie | 3 spsk
+    + tørret spaghetti af god kvalitet | 400 g
+    + parmigiano reggiano | 170 g
+    + ristede pinjekerner | 2 spsk
+    + grofthakkede pistacienødder | 2 spsk
+
+OPSKRIFT: Buddha bowl med spicy kartofler og avocadodressing
+  MENY-URL: https://meny.dk/opskrift/buddha-bowl-med-spicy-kartofler-og-avocadodressing
+  MENY (14 ing): [700 g] kartofler, [1 spsk] olivenolie, [0.5 tsk] cayennepeber, [1 tsk] stødt koriander, [1 tsk] stødt gurkemeje, [0.5 tsk] hvidløgspulver, [1 stk] knivspids salt og peber, [2 stk] avocadoer, [1 stk] lime, [100 g] yoghurt naturel, [200 g] rødkål, [4 stk] forårsløg, [200 g] babysalatblade, [2 spsk] græskarkerner
+    OPDATERET: Kartofler |   => 700 g
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Avocado |   => 2 stk
+    OPDATERET: Forårsløg |   => 4 stk
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Frisk Spinat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Frisk Koriander |   => 1 tsk
+  TILFOJET (8):
+    + cayennepeber | 0.5 tsk
+    + stødt gurkemeje | 1 tsk
+    + hvidløgspulver | 0.5 tsk
+    + lime | 1 stk
+    + yoghurt naturel | 100 g
+    + rødkål | 200 g
+    + babysalatblade | 200 g
+    + græskarkerner | 2 spsk
+
+OPSKRIFT: Grillede skaftkoteletter med nye kartofler og salsa af tomat og jordbær
+  MENY-URL: https://meny.dk/opskrift/grillede-skaftkoteletter-med-nye-kartofler-og-salsa-af-tomat-og-jordbar
+  MENY (19 ing): [500 g] små nye kartofler, [2 stk] håndfulde bredbladet persille, [2 dl] creme fraiche 18%, [1 spsk] citronsaft, [1 fed] hvidløg finthakket, [2 spsk] olivenolie, [2 stk] porrer, [200 g] cherrytomater, [250 g] jordbær, [1 stk] friskpresset limesaft, [1 dl] persille, [1 stk] håndfuld frisk koriander, [ ] fint salt, [ ] friskkværnet peber, [4 stk] skaftkotelet, [2 spsk] olivenolie, [2 spsk] smør, [ ] fint salt, [ ] friskkværnet peber
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Porrer |   => 2 stk
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Creme Fraiche |   => 2 dl
+    OPDATERET: Frisk Koriander |   => 1 stk
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Nye kartofler |   => 500 g
+    OPDATERET: Tomater (Danske) |   => 200 g
+    INGEN MATCH: Citroner
+    INGEN MATCH: Hakkede Tomater
+    OPDATERET: Frisk Persille |   => 2 stk
+    OPDATERET: Friske Tomater |   => 200 g
+  TILFOJET (8):
+    + citronsaft | 1 spsk
+    + jordbær | 250 g
+    + friskpresset limesaft | 1 stk
+    + persille | 1 dl
+    + friskkværnet peber |  
+    + skaftkotelet | 4 stk
+    + smør | 2 spsk
+    + friskkværnet peber |  
+
+OPSKRIFT: Grøn salat med blåbær og appelsin
+  MENY-URL: https://meny.dk/opskrift/gron-salat-blabar-og-appelsin
+  MENY (11 ing): [2 stk] bokse Nordic Crisp salat, [1 stk] bakke blåbær, [2 stk] appelsiner, [80 g] edamamebønner, [25 g] valnødder, [3 spsk] olivenolie, [2 spsk] friskpresset appelsinsaft, [1 spsk] akaciehonning, [1 spsk] hvidvinseddike, [2 tsk] dijonsennep, [ ] salt og friskkværnet peber
+    UAENDRET:  Salt |  
+    INGEN MATCH: Koldt vand
+    OPDATERET: Iceberg Salat |   => 2 stk
+    OPDATERET: Blandet salat |   => 2 stk
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (9):
+    + bakke blåbær | 1 stk
+    + appelsiner | 2 stk
+    + edamamebønner | 80 g
+    + valnødder | 25 g
+    + olivenolie | 3 spsk
+    + friskpresset appelsinsaft | 2 spsk
+    + akaciehonning | 1 spsk
+    + hvidvinseddike | 1 spsk
+    + dijonsennep | 2 tsk
+
+OPSKRIFT: Grillede lammekoteletter med garam masala, spicy karrykartofler og rød peberfrugtpuré
+  MENY-URL: https://meny.dk/opskrift/grillede-lammekoteletter-garam-masala-spicy-karrykartofler-og-rod-peberfrugtpure
+  MENY (14 ing): [750 g] kartofler, [6 spsk] olivenolie, [1 tsk] stødt gurkemeje, [0.5 tsk] cayennepeber, [1 tsk] karry pulver, [1 stk] salt, [1 stk] sort peber, [3 stk] røde peberfrugter, [3 spsk] creme fraiche 18%, [50 g] usaltede cashewnødder, [1 stk] citron, [4 stk] lammekoteletter, [2 tsk] garam masala, [1 stk] håndfuld frisk mynte eller persille
+    OPDATERET: Olivenolie |   => 6 spsk
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Creme Fraiche |   => 3 spsk
+    OPDATERET: Citroner |   => 1 stk
+    OPDATERET: Frisk Persille |   => 1 stk
+  TILFOJET (9):
+    + kartofler | 750 g
+    + stødt gurkemeje | 1 tsk
+    + cayennepeber | 0.5 tsk
+    + karry pulver | 1 tsk
+    + sort peber | 1 stk
+    + røde peberfrugter | 3 stk
+    + usaltede cashewnødder | 50 g
+    + lammekoteletter | 4 stk
+    + garam masala | 2 tsk
+
+OPSKRIFT: Grøntsagsspyd med tahin-marinade
+  MENY-URL: https://meny.dk/opskrift/groentsagsspyd-tahin-marinade
+  MENY (16 ing): [400 g] nye kartofler vasket og klar, [1 stk] zucchini, [2 stk] rødløg, [1 stk] gul peberfrugt, [1 stk] rød peberfrugt, [200 g] champignoner, [200 g] cherrytomater, [2 spsk] olivenolie, [1 fed] hvidløg, [1 stk] citron, [6 spsk] tahin, [2 spsk] olivenolie, [3 spsk] vand, [0.5 tsk] salt, [0.5 tsk] friskkværnet peber, [1 dl] mynte
+    OPDATERET: Kartofler |   => 400 g
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Sort Peber |   => 0.5 tsk
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Citroner |   => 1 stk
+  TILFOJET (9):
+    + zucchini | 1 stk
+    + rødløg | 2 stk
+    + gul peberfrugt | 1 stk
+    + rød peberfrugt | 1 stk
+    + champignoner | 200 g
+    + cherrytomater | 200 g
+    + tahin | 6 spsk
+    + vand | 3 spsk
+    + mynte | 1 dl
+
+OPSKRIFT: Grønne wraps med sprøde falafler og cremet fetadressing
+  MENY-URL: https://meny.dk/opskrift/groenne-wraps-sproede-falafler-og-cremet-fetadressing
+  MENY (31 ing): [ ] purløg eller toppene af forårsløg, [4 stk] spidskål blade, [150 g] feta, [2 dl] økologisk creme fraiche 9%, [1 fed] hvidløg, [2 tsk] friskpresset citronsaft, [ ] salt, [ ] sort peber, [1 stk] rød peberfrugt, [0.5 stk] agurk, [2 stk] forårsløg, [ ] rød chilipeber, [2 dl] kogt quinoa, [120 g] ekstrafine ærter, [1 spsk] olivenolie, [ ] salt, [ ] sort peber, [400 g] tørrede kikærter, [2 stk] løg, [2 fed] hvidløg, [2 dl] frisk koriander, [2 spsk] stødt spidskommen, [2 tsk] salt, [2 dl] revne kartofler, [2 stk] æg, [2 spsk] friskpresset citronsaft, [6 spsk] rasp, [1 l] olie til stegning, [2 stk] friske myntekviste, [2 spsk] sesamfrø, [ ] chilipulver
+    OPDATERET: Kartofler |   => 2 dl
+    UAENDRET:  Salt |  
+    OPDATERET: Spidskommen |   => 2 spsk
+    OPDATERET: Æg |   => 2 stk
+    UAENDRET:  Forårsløg |  
+    UAENDRET:  Chilipulver |  
+    UAENDRET:  Løg |  
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    UAENDRET:  Frisk Chili |  
+    OPDATERET: Frisk Koriander |   => 2 dl
+  TILFOJET (19):
+    + spidskål blade | 4 stk
+    + feta | 150 g
+    + økologisk creme fraiche 9% | 2 dl
+    + friskpresset citronsaft | 2 tsk
+    + sort peber |  
+    + rød peberfrugt | 1 stk
+    + agurk | 0.5 stk
+    + forårsløg | 2 stk
+    + kogt quinoa | 2 dl
+    + ekstrafine ærter | 120 g
+    + olivenolie | 1 spsk
+    + sort peber |  
+    + tørrede kikærter | 400 g
+    + løg | 2 stk
+    + friskpresset citronsaft | 2 spsk
+    + rasp | 6 spsk
+    + olie til stegning | 1 l
+    + friske myntekviste | 2 stk
+    + sesamfrø | 2 spsk
+
+OPSKRIFT: Fladbrød med hummus, stegt aubergine og tahindressing
+  MENY-URL: https://meny.dk/opskrift/fladbrod-hummus-stegt-aubergine-og-tahindressing
+  MENY (12 ing): [2 stk] auberginer, [1 stk] knivspids salt, [1 stk] knivspids sort peber, [0.5 dl] olivenolie, [0.5 stk] agurk, [1 stk] rødløg, [1 stk] håndfuld bredbladet persille, [100 g] tahin, [ ] 0.5- 1 dl vand, [1 stk] citron, [200 g] hummus, [4 stk] fladbrød
+    OPDATERET: Agurk |   => 0.5 stk
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Aubergine |   => 2 stk
+    OPDATERET: Citron |   => 1 stk
+    OPDATERET: Løg |   => 1 stk
+    OPDATERET: Citroner |   => 1 stk
+    OPDATERET: Frisk Persille |   => 1 stk
+  TILFOJET (6):
+    + knivspids sort peber | 1 stk
+    + olivenolie | 0.5 dl
+    + tahin | 100 g
+    + 0.5- 1 dl vand |  
+    + hummus | 200 g
+    + fladbrød | 4 stk
+
+OPSKRIFT: Asiatisk marinerede stegeben med frisk salat og peanutdressing
+  MENY-URL: https://meny.dk/opskrift/asiatisk-marinerede-stegeben-frisk-salat-og-peanutdressing
+  MENY (18 ing): [2 kg] stegeben fra gris, [2 fed] hvidløg, [2 stk] stilke citrongræs, [0.5 tsk] frisk ingefær, [1 stk] rød chilipeber, [1 dl] flydende honning, [1 dl] sojasauce, [ ] ca. 650 g lilla spidskål, [3 stk] forårsløg, [3 stk] gulerødder, [200 g] ægnudler, [150 g] edamamebønner, [1 dl] ristede cashewnød, [1 dl] frisk koriander, [1 dl] peanutbutter, [1 dl] sød chilisauce, [1 stk] lime, [2 spsk] vand
+    OPDATERET: Æg |   => 200 g
+    OPDATERET: Forårsløg |   => 3 stk
+    OPDATERET: Hvidløg |   => 2 fed
+    UAENDRET:  Spidskål |  
+    INGEN MATCH: Iceberg Salat
+    OPDATERET: Frisk Ingefær |   => 0.5 tsk
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Frisk Chili |   => 1 stk
+    OPDATERET: Frisk Koriander |   => 1 dl
+  TILFOJET (11):
+    + stegeben fra gris | 2 kg
+    + stilke citrongræs | 2 stk
+    + flydende honning | 1 dl
+    + sojasauce | 1 dl
+    + gulerødder | 3 stk
+    + edamamebønner | 150 g
+    + ristede cashewnød | 1 dl
+    + peanutbutter | 1 dl
+    + sød chilisauce | 1 dl
+    + lime | 1 stk
+    + vand | 2 spsk
+
+OPSKRIFT: Grillet aubergine- og squashsalat med salatost i tern
+  MENY-URL: https://meny.dk/opskrift/grillet-aubergine-og-squashsalat-salatost-tern
+  MENY (12 ing): [1 stk] aubergine i skiver på langs, [1 stk] grøn squash i skiver på langs, [1 spsk] salt, [50 g] finthakket salatløg, [4 spsk] olivenolie, [5 g] finthakket frisk basilikum, [100 g] il fornaio brød i grove tern, [2 spsk] olie til ristning af brød, [200 g] Arla Karolines Køkken® Klassisk Salatost i tern, [100 g] haricots verts, [ ] pynt med frisk basilikum, [ ] & ærteskud
+    OPDATERET: Salt |   => 1 spsk
+    OPDATERET: Aubergine |   => 1 stk
+    OPDATERET: Squash |   => 1 stk
+    INGEN MATCH: Koldt vand
+    OPDATERET: Løg |   => 50 g
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (8):
+    + olivenolie | 4 spsk
+    + finthakket frisk basilikum | 5 g
+    + il fornaio brød i grove tern | 100 g
+    + olie til ristning af brød | 2 spsk
+    + Arla Karolines Køkken® Klassisk Salatost i tern | 200 g
+    + haricots verts | 100 g
+    + pynt med frisk basilikum |  
+    + & ærteskud |  
+
+OPSKRIFT: Greenie bowl med banan, spinat og broccoli
+  MENY-URL: https://meny.dk/opskrift/greenie-bowl-banan-spinat-og-broccoli
+  MENY (10 ing): [150 g] frossen hakket spinat, [5 dl] havredrik eller en anden plantedrik, [200 g] frossen broccoli, [2 stk] frosne bananer i skiver, [50 g] havregryn, [125 g] blåbær, [2 stk] kiwifrugter, [25 g] mandler, [2 spsk] kokosmel eller kokosflager, [2 spsk] kakaonibs eller meget mørkt hakket chokolade
+    OPDATERET: Havregryn |   => 50 g
+    OPDATERET: Broccoli |   => 200 g
+    OPDATERET: Bananer |   => 2 stk
+    OPDATERET: Frisk Spinat |   => 150 g
+  TILFOJET (6):
+    + havredrik eller en anden plantedrik | 5 dl
+    + blåbær | 125 g
+    + kiwifrugter | 2 stk
+    + mandler | 25 g
+    + kokosmel eller kokosflager | 2 spsk
+    + kakaonibs eller meget mørkt hakket chokolade | 2 spsk
+
+OPSKRIFT: Grillede majskolber med salsa fresca, feta og honning-tabascomarinade
+  MENY-URL: https://meny.dk/opskrift/grillede-majskolber-med-salsa-fresca-feta-og-honning-tabascomarinade
+  MENY (14 ing): [3 spsk] tabascosauce, [4 spsk] akaciehonning, [2 spsk] olivenolie, [1 tsk] tørret chiliflage, [1 stk] knivspids salt, [1 stk] knivspids sort peber, [2 stk] tomater, [0.5 stk] grøn peberfrugt, [1 stk] jalapeño, [0.5 stk] rødløg, [0.5 dl] friskpresset limesaft, [1 stk] håndfuld frisk koriander, [4 stk] majskolber, [100 g] feta
+    OPDATERET: Peberfrugt |   => 0.5 stk
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 1 stk
+    OPDATERET: Sort Peber |   => 1 stk
+    INGEN MATCH: Æg
+    OPDATERET: Tomater (Danske) |   => 2 stk
+    OPDATERET: Hakkede Tomater |   => 2 stk
+    OPDATERET: Friske Tomater |   => 2 stk
+    OPDATERET: Frisk Koriander |   => 1 stk
+  TILFOJET (8):
+    + tabascosauce | 3 spsk
+    + akaciehonning | 4 spsk
+    + tørret chiliflage | 1 tsk
+    + jalapeño | 1 stk
+    + rødløg | 0.5 stk
+    + friskpresset limesaft | 0.5 dl
+    + majskolber | 4 stk
+    + feta | 100 g
+
+OPSKRIFT: Grillet hel rødspætte med kartoffelsalat
+  MENY-URL: https://meny.dk/opskrift/grillet-hel-roedspaette-kartoffelsalat
+  MENY (11 ing): [4 stk] flåede rødspætter, [2 stk] citroner, [1 bundt] frisk timian, [ ] groft salt, [800 g] nemme små kartofler, [1 bundt] frisk koriander, [1 stk] citron, [3 spsk] olivenolie, [1 bundt] grøn asparges, [100 g] friske gedeoste i saltlage, [ ] salt og sort peber
+    OPDATERET: Kartofler |   => 800 g
+    OPDATERET: Citroner |   => 2 stk
+    OPDATERET: Rødspætte |   => 4 stk
+    OPDATERET: Olivenolie |   => 3 spsk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Citron |   => 2 stk
+    INGEN MATCH: Koldt vand
+    OPDATERET: Frisk Koriander |   => 1 bundt
+  TILFOJET (5):
+    + frisk timian | 1 bundt
+    + citron | 1 stk
+    + grøn asparges | 1 bundt
+    + friske gedeoste i saltlage | 100 g
+    + salt og sort peber |  
+
+OPSKRIFT: Helstegt kylling på kartoffel-porrebund
+  MENY-URL: https://meny.dk/opskrift/helstegt-kylling-paa-kartoffel-porrebund
+  MENY (7 ing): [250 g] persillerødder, [750 g] kartofler, [2 stk] porrer, [10 blade] frisk salvie, [ ] salt og sort peber, [1 spsk] olivenolie, [1 stk] kylling
+    OPDATERET: Olivenolie |   => 1 spsk
+    UAENDRET:  Salt |  
+    INGEN MATCH: Æg
+    OPDATERET: Kyllingebryst |   => 1 stk
+    OPDATERET: Kartofler |   => 750 g
+    OPDATERET: Hel kylling |   => 1 stk
+  TILFOJET (3):
+    + persillerødder | 250 g
+    + porrer | 2 stk
+    + frisk salvie | 10 blade
+
+OPSKRIFT: Grillet medister med serranoskinke, italiensk kartoffelsalat og asparges
+  MENY-URL: https://meny.dk/opskrift/grillet-medister-serranoskinke-italiensk-kartoffelsalat-og-asparges
+  MENY (19 ing): [800 g] medisterpølser, [1 spsk] olivenolie, [0.5 tsk] friskkværnet peber, [100 g] serrano skinker, [250 g] grønne asparges, [2 stk] skiver surdejsbrød, [1 spsk] olivenolie, [1 fed] hvidløg, [1 stk] rosmarinkvist, [20 g] fintrevet pecorino, [0.25 tsk] friskkværnet peber, [1 tsk] flagesalt, [600 g] aspargeskartofler, [1 tsk] salt, [1 dl] ff, [200 g] røde og gule cherrytomater, [1 stk] skalotteløg, [65 g] blandet salat med rucola, [80 g] kalamataoliven
+    OPDATERET: Kartofler |   => 600 g
+    INGEN MATCH: Citroner
+    OPDATERET: Medister |   => 800 g
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Salt |   => 1 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Grønne Asparges |   => 250 g
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Frisk Rosmarin |   => 1 stk
+  TILFOJET (11):
+    + friskkværnet peber | 0.5 tsk
+    + serrano skinker | 100 g
+    + skiver surdejsbrød | 2 stk
+    + fintrevet pecorino | 20 g
+    + friskkværnet peber | 0.25 tsk
+    + salt | 1 tsk
+    + ff | 1 dl
+    + røde og gule cherrytomater | 200 g
+    + skalotteløg | 1 stk
+    + blandet salat med rucola | 65 g
+    + kalamataoliven | 80 g
+
+OPSKRIFT: Bagekartofler med rødbedetzatziki, sprøde rødbedechips og purløg
+  MENY-URL: https://meny.dk/opskrift/bagekartofler-roedbedetzatziki-sproede-roedbedechips-og-purloeg
+  MENY (10 ing): [50 g] smør, [1.2 kg] bagekartofler, [400 g] rødbeder, [2 fed] hvidløg, [4 dl] Arla Karolines Køkken® Græsk inspireret yoghurt 10%, [0.5 tsk] friskkværnet peber, [0.5 tsk] salt, [1 liter] rapsolie, [ ] flagesalt, [1 dl] purløg
+    OPDATERET: Salt |   => 0.5 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Bagekartofler |   => 1.2 kg
+    INGEN MATCH: Koldt vand
+    OPDATERET: Hvidløg |   => 2 fed
+    OPDATERET: Kartofler |   => 1.2 kg
+  TILFOJET (7):
+    + smør | 50 g
+    + rødbeder | 400 g
+    + Arla Karolines Køkken® Græsk inspireret yoghurt 10% | 4 dl
+    + friskkværnet peber | 0.5 tsk
+    + rapsolie | 1 liter
+    + flagesalt |  
+    + purløg | 1 dl
+
+OPSKRIFT: Grillet T-bone med majs-ribs, grønt og bearnaisesauce
+  MENY-URL: https://meny.dk/opskrift/grillet-t-bone-majs-ribs-gront-og-bearnaisesauce
+  MENY (12 ing): [4 stk] kalve T-bonesteaks, [4 stk] majskolber, [1 tsk] røget paprika, [16 stk] friske grønne asparges trimmet, [200 g] friske grønne bønner nippet, [400 g] cherrytomater på stilk, klippet i små klaser, [4 spsk] god olivenolie, [200 g] god Bearnaise sauce, [1 dl] hakket estragonblade, [1 dl] hakket bredbladet persille, [ ] salt, [ ] sort peber
+    OPDATERET: Olivenolie |   => 4 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Frisk Persille |   => 1 dl
+  TILFOJET (8):
+    + kalve T-bonesteaks | 4 stk
+    + majskolber | 4 stk
+    + friske grønne asparges trimmet | 16 stk
+    + friske grønne bønner nippet | 200 g
+    + cherrytomater på stilk, klippet i små klaser | 400 g
+    + god Bearnaise sauce | 200 g
+    + hakket estragonblade | 1 dl
+    + sort peber |  
+
+OPSKRIFT: Salat af brombær, enoki svampe, æbler, hjertesalat og flydende ramsløg
+  MENY-URL: https://meny.dk/opskrift/salat-brombaer-enoki-svampe-aebler-hjertesalat-og-flydende-ramsloeg
+  MENY (5 ing): [250 g] brombær, [4 stk] guldborg æbler, [4 stk] hjertesalat, [200 g] enokisvampe, [1 stk] flydende ramsløg
+    INGEN MATCH: Enoki Svampe
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    INGEN MATCH: Østershatte
+  TILFOJET (5):
+    + brombær | 250 g
+    + guldborg æbler | 4 stk
+    + hjertesalat | 4 stk
+    + enokisvampe | 200 g
+    + flydende ramsløg | 1 stk
+
+OPSKRIFT: Citruspickles med hvidløg og chili
+  MENY-URL: https://meny.dk/opskrift/citruspickles-hvidloeg-og-chili
+  MENY (11 ing): [2 stk] citroner, [3 stk] lime, [2 fed] hvidløg, [2 tsk] tørrede chiliflager, [1 spsk] groft salt, [3 spsk] sesamolie, [2 tsk] sennepsfrø, [1.5 tsk] stødt gurkemeje, [1 tsk] hel spidskommen, [2 tsk] karry, [1 tsk] korianderfrø
+    OPDATERET: Karrypulver |   => 2 tsk
+    OPDATERET: Citroner |   => 2 stk
+    OPDATERET: Salt |   => 1 spsk
+    OPDATERET: Spidskommen |   => 1 tsk
+    OPDATERET: Hvidløg |   => 2 fed
+    OPDATERET: Frisk Chili |   => 2 tsk
+  TILFOJET (5):
+    + lime | 3 stk
+    + sesamolie | 3 spsk
+    + sennepsfrø | 2 tsk
+    + stødt gurkemeje | 1.5 tsk
+    + korianderfrø | 1 tsk
+
+OPSKRIFT: Asparges hotdog med skagenröre i brioche
+  MENY-URL: https://meny.dk/opskrift/asparges-hotdog-skagenrore-i-brioche
+  MENY (11 ing): [2 stk] bundter grønne asparges, [4 stk] brioche hotdogbrød, [200 g] rejer, [100 g] creme fraiche 18%, [75 g] mayonnaise, [2 spsk] fintklippet purløg + ekstra til pynt, [2 spsk] finthakket frisk kørvel + ekstra til pynt, [1 tsk] revet citronskal, [50 g] ørredrogn, [0.5 tsk] salt, [0.5 tsk] sort peber
+    OPDATERET: Salt |   => 0.5 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Creme Fraiche |   => 100 g
+    OPDATERET: Mayonnaise |   => 75 g
+    INGEN MATCH: Citroner
+  TILFOJET (8):
+    + bundter grønne asparges | 2 stk
+    + brioche hotdogbrød | 4 stk
+    + rejer | 200 g
+    + fintklippet purløg + ekstra til pynt | 2 spsk
+    + finthakket frisk kørvel + ekstra til pynt | 2 spsk
+    + revet citronskal | 1 tsk
+    + ørredrogn | 50 g
+    + sort peber | 0.5 tsk
+
+OPSKRIFT: Grillet ribeye med knuste kartofler, parmesanost og ærtepuré
+  MENY-URL: https://meny.dk/opskrift/grillet-ribeye-knuste-kartofler-parmesanost-og-aertepure
+  MENY (19 ing): [ ] salt & friskkværnet peber, [4 stk] ribeye-steaks af dansk kalv, [ ] rosmarinkvist, [1 kg] mellemstore kartoffel, [100 g] smør, [2 fed] hvidløg, [1 tsk] hvidløgssalt, [3 spsk] hakket kruspersille, [ ] salt & sort peber, [50 g] revet parmigiano reggiano, [450 g] fine frosne ærter, [1 fed] hvidløg, [1 dl] bredbladet persille, [ ] salt & friskkværnet peber, [ ] vand, [3 spsk] friskpresset citronsaft, [3 spsk] rygeost, [ ] tilbehør: revet parmigiano reggiano, [ ] krydderurt : persille, kørvel eller purløg
+    INGEN MATCH: Kartofler
+    UAENDRET:  Salt |  
+    UAENDRET:  Frisk Rosmarin |  
+    INGEN MATCH: Parmesan
+    OPDATERET: Hvidløg |   => 2 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Persille |   => 3 spsk
+  TILFOJET (13):
+    + ribeye-steaks af dansk kalv | 4 stk
+    + mellemstore kartoffel | 1 kg
+    + smør | 100 g
+    + hvidløgssalt | 1 tsk
+    + salt & sort peber |  
+    + revet parmigiano reggiano | 50 g
+    + fine frosne ærter | 450 g
+    + bredbladet persille | 1 dl
+    + vand |  
+    + friskpresset citronsaft | 3 spsk
+    + rygeost | 3 spsk
+    + tilbehør: revet parmigiano reggiano |  
+    + krydderurt : persille, kørvel eller purløg |  
+
+OPSKRIFT: Grisemørbrad med forårsløg og asparges
+  MENY-URL: https://meny.dk/opskrift/grisemoerbrad-foraarsloeg-og-asparges
+  MENY (18 ing): [2 stk] afpudset svinemørbrader, [3 fed] hvidløg, [1 dl] hakket rosmarinkvist, [2 spsk] citronskal, [2 spsk] olivenolie, [1 tsk] salt, [ ] smør, [1 stk] grøn squash i skiver, [2 spsk] olivenolie, [300 g] kogt kartofler i skiver, [100 g] rødløg i både, [200 g] grønne asparges, [2 dl] forårsløg i mindre stykker, [1 spsk] tørret oregano, [1 tsk] salt, [1 tsk] sort peber, [200 g] cherrytomater, [50 g] parmigiano reggiano i flager
+    OPDATERET: Kartofler |   => 300 g
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Oregano |   => 1 spsk
+    OPDATERET: Svinemørbrad |   => 2 stk
+    OPDATERET: Forårsløg |   => 2 dl
+    OPDATERET: Hvidløg |   => 3 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Rosmarin |   => 1 dl
+  TILFOJET (8):
+    + citronskal | 2 spsk
+    + smør |  
+    + grøn squash i skiver | 1 stk
+    + rødløg i både | 100 g
+    + grønne asparges | 200 g
+    + sort peber | 1 tsk
+    + cherrytomater | 200 g
+    + parmigiano reggiano i flager | 50 g
+
+OPSKRIFT: Menuierestegt rødspætte med pastinak i grov sennepscreme
+  MENY-URL: https://meny.dk/opskrift/menuierestegt-roedspaette-pastinak-grov-sennepscreme
+  MENY (13 ing): [1 dl] hvedemel, [8 stk] rødspættefileter, [ ] salt & friskkværnet peber, [ ] revet skal af 1 citron, [4 dl] fløde, [2 dl] vand, [2 spsk] grov sennep, [2 spsk] æblecidereddike, [ ] salt & sort peber, [1 kg] pastinak i mindre stykker, [2 stk] røde æbler i både, [3 stk] fint hakket forårsløg, [ ] pynt: hakket kruspersille
+    OPDATERET: Rødspætte |   => 8 stk
+    UAENDRET:  Salt |  
+    UAENDRET:  Citron |  
+    OPDATERET: Forårsløg |   => 3 stk
+    INGEN MATCH: Citroner
+    UAENDRET:  Frisk Persille |  
+    INGEN MATCH: Torskefileter
+  TILFOJET (8):
+    + hvedemel | 1 dl
+    + fløde | 4 dl
+    + vand | 2 dl
+    + grov sennep | 2 spsk
+    + æblecidereddike | 2 spsk
+    + salt & sort peber |  
+    + pastinak i mindre stykker | 1 kg
+    + røde æbler i både | 2 stk
+
+OPSKRIFT: Grillede hvide asparges med persillepesto
+  MENY-URL: https://meny.dk/opskrift/grillede-hvide-asparges-persillepesto
+  MENY (14 ing): [2 spsk] olivenolie, [1 kg] hvid asparges, [0.5 tsk] salt, [0.5 tsk] friskkværnet peber, [1 dl] mandel, [5 dl] bredbladet persille, [1 fed] hvidløg, [1 dl] god olivenolie, [0.5 stk] citron, saft og skal, [1 dl] revet pecorino ost, [0.5 dl] salt, [0.5 tsk] friskkværnet peber, [0.5 dl] ristede mandelflage, [1 dl] bredbladet persille
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 0.5 tsk
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Frisk Persille |   => 5 dl
+  TILFOJET (8):
+    + hvid asparges | 1 kg
+    + friskkværnet peber | 0.5 tsk
+    + mandel | 1 dl
+    + god olivenolie | 1 dl
+    + citron, saft og skal | 0.5 stk
+    + revet pecorino ost | 1 dl
+    + friskkværnet peber | 0.5 tsk
+    + ristede mandelflage | 0.5 dl
+
+OPSKRIFT: Fransk kylling med grillede små kartofler
+  MENY-URL: https://meny.dk/opskrift/fransk-kylling-grillede-smaa-kartofler
+  MENY (14 ing): [1 stk] kylling 1,4 kg, [1 stk] grillspyd, [2 stk] citroner  i tykke skiver, [1 stk] 1 helt fed hvidløg i fed, [3 stk] rosmarinkviste, [ ] salt og sort peber, [0.5 dl] olivenolie, [1 stk] aubergine i tern, [1 tsk] havsalt, [100 g] grønne oliven, gerne med citron, [2 stk] rosmarinkviste, [600 g] kogte små kartofler, [ ] revet skal af 1 citron, [ ] grøn salat
+    OPDATERET: Kartofler |   => 600 g
+    OPDATERET: Små kartofler |   => 600 g
+    INGEN MATCH: Kyllingebryst
+    UAENDRET:  Iceberg Salat |  
+    UAENDRET:  Blandet salat |  
+    INGEN MATCH: Skåret Salatblanding
+    OPDATERET: Hel kylling |   => 1 stk
+  TILFOJET (11):
+    + grillspyd | 1 stk
+    + citroner  i tykke skiver | 2 stk
+    + 1 helt fed hvidløg i fed | 1 stk
+    + rosmarinkviste | 3 stk
+    + salt og sort peber |  
+    + olivenolie | 0.5 dl
+    + aubergine i tern | 1 stk
+    + havsalt | 1 tsk
+    + grønne oliven, gerne med citron | 100 g
+    + rosmarinkviste | 2 stk
+    + revet skal af 1 citron |  
+
+OPSKRIFT: Barbecuesandwich
+  MENY-URL: https://meny.dk/opskrift/barbecuesandwich
+  MENY (10 ing): [1 dl] creme fraiche 5%, [2 spsk] mayonnaise, [1 tsk] paprika, [2 spsk] barbecuesauce, [1 spsk] tomatketchup, [ ] salt og friskkværnet peber, [2 stk] små grove flutes, [250 g] kød fra revelsben fra dagen før, [1 stk] bagt sød kartoffel, [150 g] blandet salat
+    OPDATERET: Ketchup |   => 1 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Creme Fraiche |   => 1 dl
+    OPDATERET: Mayonnaise |   => 2 spsk
+    OPDATERET: Sød Kartoffel |   => 1 stk
+    INGEN MATCH: Kartofler
+    OPDATERET: Iceberg Salat |   => 150 g
+    OPDATERET: Blandet salat |   => 150 g
+    INGEN MATCH: Skåret Salatblanding
+  TILFOJET (3):
+    + barbecuesauce | 2 spsk
+    + små grove flutes | 2 stk
+    + kød fra revelsben fra dagen før | 250 g
+
+OPSKRIFT: Grillede grøntsager naan-sandwich med linse-hummus
+  MENY-URL: https://meny.dk/opskrift/grillede-groentsager-naan-sandwich-linse-hummus
+  MENY (15 ing): [1 stk] aubergine, [1 stk] peberfrugt, [2 stk] rødløg, [4 stk] tomater, [2 spsk] olivenolie, [150 g] tørrede røde linser, [ ] havsalt, [1 fed] hvidløg, [2 spsk] olivenolie, [ ] saften 0.5 citron, [6 spsk] tahin, [0.5 tsk] stødt spidskommen, [4 stk] naanbrød, [1 spsk] grofthakket frisk rosmarin, [2 dl] Arla Karolines Køkken® Græsk inspireret yoghurt 10%
+    OPDATERET: Olivenolie |   => 2 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Spidskommen |   => 0.5 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+  TILFOJET (9):
+    + aubergine | 1 stk
+    + peberfrugt | 1 stk
+    + rødløg | 2 stk
+    + tomater | 4 stk
+    + tørrede røde linser | 150 g
+    + saften 0.5 citron |  
+    + tahin | 6 spsk
+    + naanbrød | 4 stk
+    + Arla Karolines Køkken® Græsk inspireret yoghurt 10% | 2 dl
+
+OPSKRIFT: Grillet laks med spidskåls-tzatziki med forårsløg og ærter
+  MENY-URL: https://meny.dk/opskrift/grillet-laks-spidskaals-tzatziki-foraarsloeg-og-aerter
+  MENY (15 ing): [4 stk] laksefileter, [ ] neutral olie til grill, [2 spsk] groft salt, [2 spsk] friske timianblade, [1 spsk] citronskal, [200 g] Arla Karolines Køkken® Græsk inspireret yoghurt 10%, [1 tsk] friskkværnet 5-peberblanding, [1 fed] hvidløg, knust, [1 tsk] salt, [200 g] spidskål, i tynde strimler, [4 stk] forårsløg, i tynde ringe, [150 g] ærter i bælg, [ ] citron  skåret i både, [ ] salturt, [ ] ært
+    OPDATERET: Salt |   => 2 spsk
+    OPDATERET: Forårsløg |   => 4 stk
+    INGEN MATCH: Koldt vand
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Spidskål |   => 200 g
+    INGEN MATCH: Citroner
+    INGEN MATCH: Fersk Laks
+  TILFOJET (11):
+    + laksefileter | 4 stk
+    + neutral olie til grill |  
+    + friske timianblade | 2 spsk
+    + citronskal | 1 spsk
+    + Arla Karolines Køkken® Græsk inspireret yoghurt 10% | 200 g
+    + friskkværnet 5-peberblanding | 1 tsk
+    + salt | 1 tsk
+    + ærter i bælg | 150 g
+    + citron  skåret i både |  
+    + salturt |  
+    + ært |  
+
+OPSKRIFT: Bondesalat med kogte kartofler, pocheret æg, croutoner, grønkål og grøn mayo
+  MENY-URL: https://meny.dk/opskrift/bondesalat-kogte-kartofler-pocheret-aeg-croutoner-groenkaal-og-groen-mayo
+  MENY (13 ing): [250 g] daggammelt brød, [2 spsk] olivenolie, [1 fed] hvidløg, [1 spsk] frisk rosmarin, [80 g] frisk kørvel, [7 spsk] tørret estragon, [1 stk] æggeblomme, [1 tsk] dijonsennep, [1 spsk] hvidvinseddike, [350 g] grønkål, [300 g] kolde kogte kartofler, [ ] saft fra 0.5 citron, [4 stk] store æg
+    OPDATERET: Kartofler |   => 300 g
+    OPDATERET: Olivenolie |   => 2 spsk
+    INGEN MATCH: Salt
+    INGEN MATCH: Mayonnaise
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Rosmarin |   => 1 spsk
+  TILFOJET (9):
+    + daggammelt brød | 250 g
+    + frisk kørvel | 80 g
+    + tørret estragon | 7 spsk
+    + æggeblomme | 1 stk
+    + dijonsennep | 1 tsk
+    + hvidvinseddike | 1 spsk
+    + grønkål | 350 g
+    + saft fra 0.5 citron |  
+    + store æg | 4 stk
+
+OPSKRIFT: Pull apart bread med parmesan, hvidløg og persille
+  MENY-URL: https://meny.dk/opskrift/pull-apart-bread-parmesan-hvidloeg-og-persille
+  MENY (14 ing): [3 dl] mælk, [150 g] smør, [50 g] gær, [3 stk] æg, [3 tsk] groft salt, [ ] Ca. 1.4 l hvedemel, [100 g] revet parmigiano reggiano, [100 g] revet cheddarost, [2 dl] kruspersille, [4 fed] hvidløg, [ ] æg til pensling, [ ] flagesalt, [ ] revet parmigiano reggiano, [ ] hakket kruspersille
+    OPDATERET: Salt |   => 3 tsk
+    OPDATERET: Mælk |   => 3 dl
+    UAENDRET:  Hvedemel |  
+    INGEN MATCH: Parmesan
+    OPDATERET: Revet Ost |   => 100 g
+    OPDATERET: Hvidløg |   => 4 fed
+    OPDATERET: Frisk Persille |   => 2 dl
+  TILFOJET (8):
+    + smør | 150 g
+    + gær | 50 g
+    + æg | 3 stk
+    + revet parmigiano reggiano | 100 g
+    + æg til pensling |  
+    + flagesalt |  
+    + revet parmigiano reggiano |  
+    + hakket kruspersille |  
+
+OPSKRIFT: Granatæble Fizz
+  MENY-URL: https://meny.dk/opskrift/granatable-fizz
+  MENY (7 ing): [2 spsk] granatæblekerner, [4 cl] gin, [2 cl] citronsaft, [2 cl] sugar sirup, [150 ml] danskvand, [1 stk] håndfuld isterning, [1 stk] citron skive
+    OPDATERET: Æble |   => 2 spsk
+    OPDATERET: Citron |   => 2 cl
+    INGEN MATCH: Citroner
+  TILFOJET (5):
+    + gin | 4 cl
+    + sugar sirup | 2 cl
+    + danskvand | 150 ml
+    + håndfuld isterning | 1 stk
+    + citron skive | 1 stk
+
+OPSKRIFT: Grillet salat med Cardini’s Caesar dressing
+  MENY-URL: https://meny.dk/opskrift/grillet-salat-cardinis-caesar-dressing
+  MENY (8 ing): [460 g] kyllingeinderfileter, [12 stk] skiver flutes, [1 bundt] grøn asparges, [0.5 stk] grøn squash i skiver, [1 stk] spidskål delt i 4, [1 bundt] radise i tynde skiver, [1 stk] Caesardressing S, [ ] parmigiano reggiano
+    INGEN MATCH: Salt
+    OPDATERET: Squash |   => 0.5 stk
+    OPDATERET: Grønne Asparges |   => 1 bundt
+    OPDATERET: Spidskål |   => 1 stk
+    INGEN MATCH: Kyllingebryst
+    INGEN MATCH: Iceberg Salat
+    INGEN MATCH: Blandet salat
+    INGEN MATCH: Skåret Salatblanding
+    INGEN MATCH: Hel kylling
+  TILFOJET (5):
+    + kyllingeinderfileter | 460 g
+    + skiver flutes | 12 stk
+    + radise i tynde skiver | 1 bundt
+    + Caesardressing S | 1 stk
+    + parmigiano reggiano |  
+
+OPSKRIFT: Cheesecake med citron og brombær
+  MENY-URL: https://meny.dk/opskrift/cheesecake-citron-og-brombaer
+  MENY (13 ing): [200 g] digestive kiks, [75 g] smør, smeltet, [3 blade] husblas, [0.5 dl] kogende vand, [300 g] flødeost naturel, [ ] korn af 1 vaniljestang, [75 g] flormelis, [1 stk] citronskal  - af en hel citron, [0.5 stk] citronsaft - af en halv citron, [3 dl] piskefløde, [250 g] brombær, [75 g] sukker, [ ] Evt. mynte og hvide chokolade spåner
+    OPDATERET: Sukker |   => 75 g
+    OPDATERET: Citron |   => 1 stk
+    OPDATERET: Koldt vand |   => 0.5 dl
+    INGEN MATCH: Citroner
+  TILFOJET (10):
+    + digestive kiks | 200 g
+    + smør, smeltet | 75 g
+    + husblas | 3 blade
+    + flødeost naturel | 300 g
+    + korn af 1 vaniljestang |  
+    + flormelis | 75 g
+    + citronsaft - af en halv citron | 0.5 stk
+    + piskefløde | 3 dl
+    + brombær | 250 g
+    + Evt. mynte og hvide chokolade spåner |  
+
+OPSKRIFT: Asiatisk wok med mørbrad af gris, ægnudler, kål, forårsløg og cashewnødder
+  MENY-URL: https://meny.dk/opskrift/asiatisk-wok-med-morbrad-af-gris-agnudler-kal-forarslog-og-cashewnodder
+  MENY (17 ing): [0.5 stk] rød spidskål, [2 stk] peberfrugter, [3 stk] gulerødder, [200 g] broccolini, [1 bundt] forårsløg, [250 g] ægnudler, [2 tsk] sesamolie, [3 spsk] sojasauce, [2 spsk] smagsneutral olie, [2 tsk] revet frisk ingefær, [2 fed] hvidløg, [ ] ca. 350 g svinemørbrader af dansk frilandsgris, [1 dl] ristede cashewnød, [1 stk] fintsnittet rød chilipeber, [1 stk] lime i både, [1 spsk] sesamfrø, [1 stk] håndfuld frisk koriander
+    OPDATERET: Peberfrugt |   => 2 stk
+    OPDATERET: Gulerødder |   => 3 stk
+    OPDATERET: Sojasauce |   => 3 spsk
+    OPDATERET: Frisk Koriander |   => 1 stk
+    OPDATERET: Forårsløg |   => 1 bundt
+    OPDATERET: Hvidløg |   => 2 fed
+    OPDATERET: Spidskål |   => 0.5 stk
+    OPDATERET: Frisk Ingefær |   => 2 tsk
+    OPDATERET: Frisk Chili |   => 1 stk
+    UAENDRET:  Svinemørbrad |  
+  TILFOJET (7):
+    + broccolini | 200 g
+    + ægnudler | 250 g
+    + sesamolie | 2 tsk
+    + smagsneutral olie | 2 spsk
+    + ristede cashewnød | 1 dl
+    + lime i både | 1 stk
+    + sesamfrø | 1 spsk
+
+OPSKRIFT: Brunchtallerken med æg, brie og søde kartofler
+  MENY-URL: https://meny.dk/opskrift/brunchtallerken
+  MENY (16 ing): [500 g] søde kartofler, [2 spsk] olivenolie, [1 tsk] salt, [4 stk] skiver rugbrød, [1 stk] Castello® økologisk brie, [0.5 tsk] salt, [0.5 tsk] stødt sort peber, [8 stk] æg, [7 dl] vand, [1 tsk] eddike, [8 spsk] yoghurt 10%, [0.5 stk] agurk, [1 stk] frisk rød chilipeber, [ ] mynteblad, [ ] friskpresset citronsaft, [15 g] tandoorikrydderi
+    OPDATERET: Agurk |   => 0.5 stk
+    OPDATERET: Kartofler |   => 500 g
+    OPDATERET: Olivenolie |   => 2 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Æg |   => 8 stk
+    OPDATERET: Frisk Chili |   => 1 stk
+    INGEN MATCH: Citroner
+  TILFOJET (9):
+    + skiver rugbrød | 4 stk
+    + Castello® økologisk brie | 1 stk
+    + stødt sort peber | 0.5 tsk
+    + vand | 7 dl
+    + eddike | 1 tsk
+    + yoghurt 10% | 8 spsk
+    + mynteblad |  
+    + friskpresset citronsaft |  
+    + tandoorikrydderi | 15 g
+
+OPSKRIFT: Nye kartofler med avocado aioli
+  MENY-URL: https://meny.dk/opskrift/nye-kartofler-avocado-aioli
+  MENY (9 ing): [700 g] små nye kartofler, [ ] salt, [2 stk] avocadoer, [1 spsk] citronsaft, [2 tsk] dijonsennep, [1 fed] hvidløg, [0.5 dl] olivenolie, [ ] sort peber, [1 bundt] persille, dild eller andre krydderurter og spirer
+    OPDATERET: Kartofler |   => 700 g
+    UAENDRET:  Salt |  
+    OPDATERET: Avocado |   => 2 stk
+    INGEN MATCH: Mayonnaise
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Nye kartofler |   => 700 g
+    INGEN MATCH: Citroner
+  TILFOJET (5):
+    + citronsaft | 1 spsk
+    + dijonsennep | 2 tsk
+    + olivenolie | 0.5 dl
+    + sort peber |  
+    + persille, dild eller andre krydderurter og spirer | 1 bundt
+
+OPSKRIFT: Bulgursalat med tahindressing - vegansk fra Mia Sommer
+  MENY-URL: https://meny.dk/opskrift/bulgursalat-tahindressing-vegansk-mia-sommer
+  MENY (12 ing): [2 stk] gulerødder, [150 g] bulgur, [2 stk] auberginer, [2 stk] forårsløg, [1 bundt] kruspersille, [1 stk] granatæble, [125 g] blåbær, [100 g] tahin, [1 fed] hvidløg, [0.5 tsk] salt, [0.75 dl] friskpresset citronsaft, [0.5 dl] vand
+    OPDATERET: Gulerødder |   => 2 stk
+    OPDATERET: Salt |   => 0.5 tsk
+    INGEN MATCH: Æg
+    OPDATERET: Forårsløg |   => 2 stk
+    OPDATERET: Frisk Persille |   => 1 bundt
+  TILFOJET (8):
+    + bulgur | 150 g
+    + auberginer | 2 stk
+    + granatæble | 1 stk
+    + blåbær | 125 g
+    + tahin | 100 g
+    + hvidløg | 1 fed
+    + friskpresset citronsaft | 0.75 dl
+    + vand | 0.5 dl
+
+OPSKRIFT: Ristede asparges med hvidløgsdrys og citron
+  MENY-URL: https://meny.dk/opskrift/ristede-asparges-hvidloegsdrys-og-citron
+  MENY (7 ing): [1 fed] hvidløg, [1 skive] hvedebrød, [3 spsk] olivenolie, [ ] salt og sort peber, [2 stk] bundter grønne asparges, [0.5 stk] bæger frisk basilikum, [0.5 stk] citron
+    OPDATERET: Olivenolie |   => 3 spsk
+    UAENDRET:  Salt |  
+    OPDATERET: Citron |   => 0.5 stk
+    OPDATERET: Hvidløg |   => 1 fed
+    OPDATERET: Citroner |   => 0.5 stk
+  TILFOJET (3):
+    + hvedebrød | 1 skive
+    + bundter grønne asparges | 2 stk
+    + bæger frisk basilikum | 0.5 stk
+
+OPSKRIFT: Grillet flanksteak med nem bbq marinade, chiliflutes og grillet majs
+  MENY-URL: https://meny.dk/opskrift/grillet-flanksteak-nem-bbq-marinade-chiliflutes-og-grillet-majs
+  MENY (18 ing): [2 spsk] tomatketchup, [1 fed] hvidløg, [2 spsk] sojasauce, [1 spsk] olivenolie, [1 tsk] paprika, [1 spsk] brun farin, [1 tsk] groft salt, [ ] sort peber, [1 stk] flanksteak, [125 g] blødt smør, [1 stk] rød chilipeber, [1 tsk] paprika, [1 tsk] frisk timian, [1 fed] hvidløg, [1 tsk] revet citronskal, [ ] havsalt, [ ] sort peber, [4 stk] majskolber
+    OPDATERET: Olivenolie |   => 1 spsk
+    OPDATERET: Ketchup |   => 2 spsk
+    OPDATERET: Salt |   => 1 tsk
+    OPDATERET: Paprika |   => 1 tsk
+    OPDATERET: Hvidløg |   => 1 fed
+    INGEN MATCH: Citroner
+    OPDATERET: Frisk Chili |   => 1 stk
+  TILFOJET (10):
+    + sojasauce | 2 spsk
+    + brun farin | 1 spsk
+    + sort peber |  
+    + flanksteak | 1 stk
+    + blødt smør | 125 g
+    + frisk timian | 1 tsk
+    + revet citronskal | 1 tsk
+    + havsalt |  
+    + sort peber |  
+    + majskolber | 4 stk
+
+================================================================================
+STATISTIK: Rader=2614 | Opdateret=808 | Tilfojet=1431 | IngenMatch=261
