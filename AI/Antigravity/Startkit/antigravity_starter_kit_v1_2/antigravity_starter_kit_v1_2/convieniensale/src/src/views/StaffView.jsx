@@ -16,6 +16,7 @@ export default function StaffView() {
   } = useStaffData();
 
   const [searchQuery, setSearchQuery] = useState('');
+  const [activeTab, setActiveTab] = useState('Alle');
   const [isListening, setIsListening] = useState(false);
   const [toastMessage, setToastMessage] = useState(null);
   // eslint-disable-next-line react-hooks/purity
@@ -208,6 +209,44 @@ export default function StaffView() {
           </button>
         </div>
 
+        {/* Department Tabs */}
+        {categories.length > 0 && (
+          <div style={{
+            display: 'flex', gap: '0.5rem', marginBottom: '2rem', overflowX: 'auto', 
+            paddingBottom: '0.5rem', scrollbarWidth: 'none'
+          }}>
+            <button
+              onClick={() => setActiveTab('Alle')}
+              style={{
+                padding: '0.75rem 1.5rem', borderRadius: '24px', whiteSpace: 'nowrap',
+                background: activeTab === 'Alle' ? 'linear-gradient(135deg, #38bdf8, #3b82f6)' : 'rgba(255,255,255,0.05)',
+                color: activeTab === 'Alle' ? 'white' : '#94a3b8',
+                border: activeTab === 'Alle' ? 'none' : '1px solid rgba(255,255,255,0.1)',
+                fontWeight: activeTab === 'Alle' ? 'bold' : 'normal',
+                cursor: 'pointer', transition: 'all 0.2s', boxShadow: activeTab === 'Alle' ? '0 4px 12px rgba(56, 189, 248, 0.3)' : 'none'
+              }}
+            >
+              Alle afdelinger
+            </button>
+            {categories.map(cat => (
+              <button
+                key={cat}
+                onClick={() => setActiveTab(cat)}
+                style={{
+                  padding: '0.75rem 1.5rem', borderRadius: '24px', whiteSpace: 'nowrap',
+                  background: activeTab === cat ? 'linear-gradient(135deg, #38bdf8, #3b82f6)' : 'rgba(255,255,255,0.05)',
+                  color: activeTab === cat ? 'white' : '#94a3b8',
+                  border: activeTab === cat ? 'none' : '1px solid rgba(255,255,255,0.1)',
+                  fontWeight: activeTab === cat ? 'bold' : 'normal',
+                  cursor: 'pointer', transition: 'all 0.2s', boxShadow: activeTab === cat ? '0 4px 12px rgba(56, 189, 248, 0.3)' : 'none'
+                }}
+              >
+                {cat}
+              </button>
+            ))}
+          </div>
+        )}
+
         {/* Grid List */}
         {ingredients.length === 0 ? (
            <div style={{textAlign: 'center', padding: '5rem', color: '#94a3b8', fontSize: '1.2rem'}}>Synkroniserer med hovedlageret...</div>
@@ -215,7 +254,7 @@ export default function StaffView() {
            <div style={{textAlign: 'center', padding: '5rem', color: '#64748b', fontSize: '1.2rem'}}>Ingen varer matchede din søgning.</div>
         ) : (
           <div className="flex-col gap-8">
-            {categories.map(category => (
+            {(activeTab === 'Alle' ? categories : categories.filter(c => c === activeTab)).map(category => (
               <div key={category} style={{marginBottom: '2rem'}}>
                 <h3 style={{marginBottom: '1.5rem', color: '#f8fafc', fontSize: '1.5rem', fontFamily: 'Outfit, sans-serif', display: 'flex', alignItems: 'center', gap: '0.75rem'}}>
                   {category}
