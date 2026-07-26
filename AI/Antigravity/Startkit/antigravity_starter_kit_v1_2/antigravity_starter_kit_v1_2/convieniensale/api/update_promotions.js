@@ -46,14 +46,37 @@ export default async function handler(req, res) {
     }));
 
     // 2. Hvis PIN er gyldig, udfør opdateringen som admin
-    const { error: upsertError } = await supabase
-      .from('active_promotions')
-      .upsert({ 
-         store_id: storeId, 
-         selected_ingredients: selectedIds,
-         food_waste_ingredients: foodWasteIds || [],
-         updated_at: new Date().toISOString()
-      });
+      // FIX: Upsert kræver UNIQUE constraint, som mangler. Vi gør det manuelt.
+      const { data: existingPromo } = await supabase
+        .from('active_promotions')
+        .select('id')
+        .eq('store_id', storeId)
+        .limit(1)
+        .maybeSingle();
+
+      let upsertError = null;
+
+      if (existingPromo) {
+         const { error } = await supabase
+           .from('active_promotions')
+           .update({ 
+              selected_ingredients: selectedIds,
+              food_waste_ingredients: foodWasteIds || [],
+              updated_at: new Date().toISOString()
+           })
+           .eq('id', existingPromo.id);
+         upsertError = error;
+      } else {
+         const { error } = await supabase
+           .from('active_promotions')
+           .insert({ 
+              store_id: storeId, 
+              selected_ingredients: selectedIds,
+              food_waste_ingredients: foodWasteIds || [],
+              updated_at: new Date().toISOString()
+           });
+         upsertError = error;
+      }
 
     if (upsertError) {
       throw upsertError;

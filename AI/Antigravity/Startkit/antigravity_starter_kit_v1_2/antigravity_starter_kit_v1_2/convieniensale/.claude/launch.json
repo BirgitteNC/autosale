@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "convieniensale",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "C:\\Users\\birgi\\AI\\Antigravity\\Startkit\\antigravity_starter_kit_v1_2\\antigravity_starter_kit_v1_2\\convieniensale\\src", "--", "--port", "5175"],
+      "port": 5175
+    },
+    {
+      "name": "byggedok-client",
+      "runtimeExecutable": "vercel",
+      "runtimeArgs": ["dev", "C:\\Users\\birgi\\AI\\Claude Code\\antigravity_starter_kit_combined_v1_3\\byggedok\\client", "--listen", "5173", "--yes"],
+      "port": 5173
+    },
+    {
+      "name": "brainstore-hub",
+      "runtimeExecutable": "vercel",
+      "runtimeArgs": ["dev", "C:\\Users\\birgi\\AI\\Claude Code\\antigravity_starter_kit_combined_v1_3\\brainstore-hub", "--listen", "5174", "--yes"],
+      "port": 5174
+    }
+  ]
+}
