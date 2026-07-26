@@ -141,6 +141,10 @@ export default function CustomerMobileView() {
     const val = ingred.amount !== undefined ? ingred.amount : ingred['m\u00E6ngde'];
     const unitStr = ingred.unit || ingred.enhed || '';
     
+    if (unitStr.toLowerCase() === 'smag' || val === 0) {
+        return 'Efter smag';
+    }
+    
     if (val !== null && val !== undefined && !isNaN(val)) {
        const scaled = Number(val) * factor;
        // Fjerner unødige nul-decimaler og bruger dansk komma
