@@ -253,9 +253,6 @@ export default function SignageView() {
 
       <div style={{position: 'relative', zIndex: 10, display: 'flex', flex: 1, justifyContent: 'flex-end', padding: '4rem'}}>
          
-         <div style={{position: 'absolute', top: '4rem', left: '4rem', background: 'rgba(0,0,0,0.4)', backdropFilter: 'blur(16px)', color: 'white', padding: '1.25rem 2.5rem', borderRadius: '24px', fontSize: '1.75rem', fontWeight: '800', border: '1px solid rgba(255,255,255,0.15)', boxShadow: '0 20px 40px rgba(0,0,0,0.3)', letterSpacing: '2px'}}>
-             MENYMENU
-         </div>
 
          {/* Floating Glassmorphism Panel on the Right */}
          <div className="animate-fade-in" key={currentRecipe.id} style={{
