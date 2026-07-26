@@ -129,6 +129,9 @@ export default function SignageView() {
           }
       }
 
+      // Sørg for, at der ALTID maksimalt er 1 opskrift (dræb karrusellen én gang for alle)
+      scoredRecipes = scoredRecipes.slice(0, 1);
+      
       setRecipes(scoredRecipes);
       setIsLoaded(true);
       setCurrentIndex(0); // Reset til første opskrift ved opdatering
