@@ -119,7 +119,7 @@ export default function SignageView() {
              // Sekundær sortering: Ved lige mange varer, trumfer datovaren
              return b.foodWasteCount - a.foodWasteCount;
           });
-          scoredRecipes = scoredRecipes.slice(0, 3);
+          scoredRecipes = scoredRecipes.slice(0, 1);
           
           // Hvis der faktisk ER valgt varer, gemmer vi resultatet i skærmens notesbog til i morgen!
           if (currentWaste.length > 0 || currentSelected.length > 0) {
