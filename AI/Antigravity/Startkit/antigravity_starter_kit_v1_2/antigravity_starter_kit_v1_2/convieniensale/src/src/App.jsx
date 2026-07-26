@@ -14,11 +14,14 @@ function CustomerDemoRedirect() {
   return <Navigate to={`/recipe/${recipeId}`} replace />;
 }
 
-function App() {
+function AppContent() {
+  const location = window.location.pathname;
+  // Vis kun dev-menuen på admin siderne, skjul den på de rigtige skærme
+  const showHeader = location.includes('/admin');
+
   return (
-    <BrowserRouter>
-      <div className="app">
-        {/* Usynlig header for kunder, men god til dev test */}
+    <div className="app">
+      {showHeader && (
         <header className="app-header">
           <div className="logo">MenyMenu<span className="text-primary">.</span></div>
           <nav className="flex gap-4" style={{fontSize: '0.875rem'}}>
@@ -30,21 +33,29 @@ function App() {
             <Link to="/admin/super" className="text-muted" style={{textDecoration:'none'}}>Global Admin</Link>
           </nav>
         </header>
+      )}
 
-        <main>
-          <ErrorBoundary>
-            <Routes>
-              <Route path="/" element={<StaffView />} />
-              <Route path="/staff" element={<StaffView />} />
-              <Route path="/signage" element={<SignageView />} />
-              <Route path="/demo" element={<CustomerDemoRedirect />} />
-              <Route path="/recipe/:id" element={<CustomerMobileView />} />
-              <Route path="/admin/super" element={<SuperAdminView />} />
-              <Route path="/admin/store" element={<StoreAdminView />} />
-            </Routes>
-          </ErrorBoundary>
-        </main>
-      </div>
+      <main>
+        <ErrorBoundary>
+          <Routes>
+            <Route path="/" element={<StaffView />} />
+            <Route path="/staff" element={<StaffView />} />
+            <Route path="/signage" element={<SignageView />} />
+            <Route path="/demo" element={<CustomerDemoRedirect />} />
+            <Route path="/recipe/:id" element={<CustomerMobileView />} />
+            <Route path="/admin/super" element={<SuperAdminView />} />
+            <Route path="/admin/store" element={<StoreAdminView />} />
+          </Routes>
+        </ErrorBoundary>
+      </main>
+    </div>
+  );
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <AppContent />
     </BrowserRouter>
   );
 }
