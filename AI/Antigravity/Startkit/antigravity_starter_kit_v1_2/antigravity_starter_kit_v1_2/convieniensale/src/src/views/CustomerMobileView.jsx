@@ -141,8 +141,8 @@ export default function CustomerMobileView() {
     const val = ingred.amount !== undefined ? ingred.amount : ingred['m\u00E6ngde'];
     const unitStr = ingred.unit || ingred.enhed || '';
     
-    if (unitStr.toLowerCase() === 'smag' || val === 0) {
-        return 'Efter smag';
+    if (unitStr.toLowerCase().includes('smag') || unitStr.toLowerCase().includes('behov') || val === 0) {
+        return 'Efter behov';
     }
     
     if (val !== null && val !== undefined && !isNaN(val)) {
