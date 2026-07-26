@@ -39,7 +39,7 @@ export default function SignageView() {
       const ingCategoryMap = {};
       allIngredients.forEach(i => { ingCategoryMap[i.id] = i.kategori; });
 
-      const meatCategories = ['Kød', 'Slagter', 'Fiskeafdeling'];
+      const meatCategories = ['Slagter', 'Fisk'];
       const allSelectedIds = [...currentSelected, ...currentWaste];
       const userSelectedMeats = allSelectedIds.filter(id => meatCategories.includes(ingCategoryMap[id]));
 
