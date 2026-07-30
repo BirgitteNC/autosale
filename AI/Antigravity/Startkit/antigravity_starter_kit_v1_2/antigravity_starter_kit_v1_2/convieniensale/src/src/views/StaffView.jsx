@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import { ChevronRight, PackageSearch, Lock, Search, Mic, MicOff, Trash2, Clock, Target, Loader2 } from 'lucide-react';
+import { useState, useEffect, useRef } from 'react';
+import { ChevronRight, ChevronLeft, PackageSearch, Lock, Search, Mic, MicOff, Trash2, Clock, Target, Loader2 } from 'lucide-react';
 import { useStaffData } from '../hooks/useStaffData';
 
 export default function StaffView() {
@@ -21,7 +21,13 @@ export default function StaffView() {
   const [toastMessage, setToastMessage] = useState(null);
   // eslint-disable-next-line react-hooks/purity
   const [isTemporarilyUnlocked, setIsTemporarilyUnlocked] = useState(Date.now() < voksenUnlockUntil);
+  const tabsRef = useRef(null);
 
+  const scrollTabs = (direction) => {
+    if (tabsRef.current) {
+      tabsRef.current.scrollBy({ left: direction * 200, behavior: 'smooth' });
+    }
+  };
   useEffect(() => {
     const interval = setInterval(() => {
        setIsTemporarilyUnlocked(Date.now() < voksenUnlockUntil);
@@ -211,39 +217,71 @@ export default function StaffView() {
 
         {/* Department Tabs */}
         {categories.length > 0 && (
-          <div style={{
-            display: 'flex', gap: '0.5rem', marginBottom: '2rem', overflowX: 'auto', 
-            paddingBottom: '0.5rem', scrollbarWidth: 'none'
-          }}>
-            <button
-              onClick={() => setActiveTab('Alle')}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '2rem' }}>
+            <button 
+              onClick={() => scrollTabs(-1)}
               style={{
-                padding: '0.75rem 1.5rem', borderRadius: '24px', whiteSpace: 'nowrap',
-                background: activeTab === 'Alle' ? 'linear-gradient(135deg, #38bdf8, #3b82f6)' : 'rgba(255,255,255,0.05)',
-                color: activeTab === 'Alle' ? 'white' : '#94a3b8',
-                border: activeTab === 'Alle' ? 'none' : '1px solid rgba(255,255,255,0.1)',
-                fontWeight: activeTab === 'Alle' ? 'bold' : 'normal',
-                cursor: 'pointer', transition: 'all 0.2s', boxShadow: activeTab === 'Alle' ? '0 4px 12px rgba(56, 189, 248, 0.3)' : 'none'
+                background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.1)', 
+                borderRadius: '50%', width: '40px', height: '40px', display: 'flex', 
+                alignItems: 'center', justifyContent: 'center', color: 'white', cursor: 'pointer',
+                flexShrink: 0, transition: 'all 0.2s'
+              }}
+              onMouseOver={e => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
+              onMouseOut={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+            >
+              <ChevronLeft size={20} />
+            </button>
+            <div 
+              ref={tabsRef}
+              style={{
+                display: 'flex', gap: '0.5rem', overflowX: 'auto', 
+                paddingBottom: '0.5rem', scrollbarWidth: 'none', flex: 1,
+                scrollBehavior: 'smooth'
               }}
             >
-              Alle afdelinger
-            </button>
-            {categories.map(cat => (
               <button
-                key={cat}
-                onClick={() => setActiveTab(cat)}
+                onClick={() => setActiveTab('Alle')}
                 style={{
                   padding: '0.75rem 1.5rem', borderRadius: '24px', whiteSpace: 'nowrap',
-                  background: activeTab === cat ? 'linear-gradient(135deg, #38bdf8, #3b82f6)' : 'rgba(255,255,255,0.05)',
-                  color: activeTab === cat ? 'white' : '#94a3b8',
-                  border: activeTab === cat ? 'none' : '1px solid rgba(255,255,255,0.1)',
-                  fontWeight: activeTab === cat ? 'bold' : 'normal',
-                  cursor: 'pointer', transition: 'all 0.2s', boxShadow: activeTab === cat ? '0 4px 12px rgba(56, 189, 248, 0.3)' : 'none'
+                  background: activeTab === 'Alle' ? 'linear-gradient(135deg, #38bdf8, #3b82f6)' : 'rgba(255,255,255,0.05)',
+                  color: activeTab === 'Alle' ? 'white' : '#94a3b8',
+                  border: activeTab === 'Alle' ? 'none' : '1px solid rgba(255,255,255,0.1)',
+                  fontWeight: activeTab === 'Alle' ? 'bold' : 'normal',
+                  cursor: 'pointer', transition: 'all 0.2s', boxShadow: activeTab === 'Alle' ? '0 4px 12px rgba(56, 189, 248, 0.3)' : 'none'
                 }}
               >
-                {cat}
+                Alle afdelinger
               </button>
-            ))}
+              {categories.map(cat => (
+                <button
+                  key={cat}
+                  onClick={() => setActiveTab(cat)}
+                  style={{
+                    padding: '0.75rem 1.5rem', borderRadius: '24px', whiteSpace: 'nowrap',
+                    background: activeTab === cat ? 'linear-gradient(135deg, #38bdf8, #3b82f6)' : 'rgba(255,255,255,0.05)',
+                    color: activeTab === cat ? 'white' : '#94a3b8',
+                    border: activeTab === cat ? 'none' : '1px solid rgba(255,255,255,0.1)',
+                    fontWeight: activeTab === cat ? 'bold' : 'normal',
+                    cursor: 'pointer', transition: 'all 0.2s', boxShadow: activeTab === cat ? '0 4px 12px rgba(56, 189, 248, 0.3)' : 'none'
+                  }}
+                >
+                  {cat}
+                </button>
+              ))}
+            </div>
+            <button 
+              onClick={() => scrollTabs(1)}
+              style={{
+                background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.1)', 
+                borderRadius: '50%', width: '40px', height: '40px', display: 'flex', 
+                alignItems: 'center', justifyContent: 'center', color: 'white', cursor: 'pointer',
+                flexShrink: 0, transition: 'all 0.2s'
+              }}
+              onMouseOver={e => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
+              onMouseOut={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
+            >
+              <ChevronRight size={20} />
+            </button>
           </div>
         )}
 
