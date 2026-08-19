@@ -1,0 +1,24 @@
+TYPE 1 AUTO-MAP PATCH
+============================================================
+RETTET:  [madtærte med cherrytomater ricotta og mozzarella] Parmesan -> Parmigiano Reggiano 50 g
+RETTET:  [Bagt kartoffel med linsechili, korianderdressing og ost] Gulerødder -> Gulerod 1 stk
+RETTET:  [Grillede tortillas med krydrede kødboller, creme fraiche og rødløg] Hakket Kalv og Flæsk -> Hakket Grise- og Kalvekoed 400 g
+SLETTET: [Grillede tortillas med krydrede kødboller, creme fraiche og rødløg] [ing_hakket_gris_kalv]
+RETTET:  [Crostini med parmaskinke og nektarin] Skinketern -> Parmaskinke 60 g
+RETTET:  [Krydrede kødboller med frisk pasta og tomatsauce] Hakket Kalv og Flæsk -> Hakket Grise- og Kalvekoed 400 g
+SLETTET: [Krydrede kødboller med frisk pasta og tomatsauce] [ing_hakket_gris_kalv]
+RETTET:  [Frikadelleburger med rødbede-slaw] Hakket Kalv og Flæsk -> Hakket Grise- og Kalvekoed 600 g
+SLETTET: [Frikadelleburger med rødbede-slaw] [ing_hakket_gris_kalv]
+RETTET:  [Saftig wokret med skinketern] Skinketern -> Kogt Skinke i Tern 500 g
+RETTET:  [Cremet fiskesuppe med laks, kartofler og dild] Fersk Laks -> Laksefileter 250 g
+RETTET:  [Græskar-, æble- og klementinchutney] Klementiner -> Klementiner 1.5 stk
+RETTET:  [Fiskefrikadeller med fennikelsalat] Fennikel -> Fennikel 2 stk
+RETTET:  [Lun peach melba-salat med skinke og gedeost] Skinketern -> Lufttoerret Skinke 70 g
+RETTET:  [Oksecuvette med juletwist og julesalat] Klementiner -> Klementiner 2 stk
+RETTET:  [Salat af brombær, enoki svampe, æbler, hjertesalat og flydende ramsløg] Enoki Svampe -> Enokisvampe 200 g
+RETTET:  [Grillet ribeye med knuste kartofler, parmesanost og ærtepuré] Parmesan -> Parmigiano Reggiano 50 g
+SLETTET: [Grillet ribeye med knuste kartofler, parmesanost og ærtepuré] [ing_meny_auto_1293]
+RETTET:  [Pull apart bread med parmesan, hvidløg og persille] Parmesan -> Parmigiano Reggiano 100 g
+SLETTET: [Pull apart bread med parmesan, hvidløg og persille] [ing_meny_auto_1368]
+
+Resultat: 15 rettet, 5 slettet

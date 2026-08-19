@@ -1,0 +1,15 @@
+TORSKEFILETER PATCH
+============================================================
+RETTET:  [Sliders med torpedorejer og avocadocoleslaw] -> Torpedo Rejer 12 stk
+SLETTET: [Ovnstegt kylling med kartofler og svampesauce] Torskefileter fjernet (ingen torsk i opskriften)
+SLETTET: [Tacos med grillet laks, spidskålsalat og avocado] Torskefileter fjernet (ingen torsk i opskriften)
+RETTET:  [Tærte med laks, Anicia linser og spinat] -> Laksefileter 300 g
+RETTET:  [Muslinger med dijonsauce] -> Kammuslinger 1 kg
+RETTET:  [Rejer i hvidløg] -> Kaeemperejer 100 g
+RETTET:  [Høstsild med ­løvstikke] -> Benfri Sild 8 stk
+BEHOLD:  [Rødspætte med majssalsa] Torskefileter - ingen regel, behold
+RETTET:  [Grillet kulmule med søde kartofler, grønne asparges og basilikumspesto] -> Kulmulefilet 700 g
+RETTET:  [Fishburger med avocadosalat] -> Panerede Fiskefileter 2 stk
+RETTET:  [Menuierestegt rødspætte med pastinak i grov sennepscreme] -> Roedspaettefileter 8 stk
+
+Resultat: 8 rettet, 2 slettet
