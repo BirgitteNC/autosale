@@ -50,7 +50,7 @@ export function rankRecipes({
        uniqueRecipeRaavareIds.forEach(raavare_id => {
            const weight = perishabilityWeight(ingCategoryMap[raavare_id]);
            if (selectedIngredientIds.includes(raavare_id)) matchCount += weight;
-           if (foodWasteIngredientIds.includes(raavare_id)) wasteCount += weight;
+           if (foodWasteIngredientIds.includes(raavare_id)) wasteCount += Math.max(weight, 1.5);
        });
 
        // HÅRD REGEL: Kød-konflikt
