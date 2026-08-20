@@ -6,7 +6,7 @@ async function waitForServer(url, timeout = 30000) {
     try {
       await fetch(url);
       return true; // Server er oppe!
-    } catch (e) {
+    } catch {
       // Vent 1 sekund og prøv igen
       await new Promise(r => setTimeout(r, 1000));
     }
@@ -44,9 +44,11 @@ async function runAll() {
   let totalErrors = 0;
 
   const tests = [
-    'scripts/team_qa_verify_full_system.cjs',
-    'e2e/smoke_test.js',
-    'e2e/comprehension_test.js'
+    'src/scripts/team_qa_verify_full_system.cjs',
+    'scripts/team_qa_verify_demo_scenarios.cjs',
+    'src/e2e/smoke_test.js',
+    'src/e2e/comprehension_test.js',
+    'src/e2e/signage_sync_test.js'
   ];
 
   for (const test of tests) {
