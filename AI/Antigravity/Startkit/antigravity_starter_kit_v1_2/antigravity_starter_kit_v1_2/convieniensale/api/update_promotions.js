@@ -1,82 +1,78 @@
 // Vercel Serverless Function
 // Fil: api/update_promotions.js
 import { createClient } from '@supabase/supabase-js';
+import jwt from 'jsonwebtoken';
+import { requireStaffSession } from './utils/session.js';
 
 export default async function handler(req, res) {
-  // Tillad kun POST requests
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { pin, storeId, selectedIds, foodWasteIds } = req.body;
+  let { selectedIds, foodWasteIds, approvalToken } = req.body;
 
-  if (!pin || !storeId || !Array.isArray(selectedIds)) {
+  if (!Array.isArray(selectedIds)) {
     return res.status(400).json({ error: 'Missing required parameters' });
   }
+  
+  // Fjern alle duplikater fra arrays med det samme.
+  selectedIds = [...new Set(selectedIds)];
+  foodWasteIds = Array.isArray(foodWasteIds) ? [...new Set(foodWasteIds)] : [];
+  
+  if (selectedIds.length > 6 || foodWasteIds.length > 6) {
+      return res.status(400).json({ error: 'For mange varer valgt (max 6)' });
+  }
 
-  // Brug SERVICE ROLE KEY til at bypass RLS på serveren (Sikker, da den ikke er synlig i browseren)
-  // BEMÆRK: Disse SKAL hentes via environment variables i produktion
+  let sessionData;
+  try {
+    sessionData = requireStaffSession(req);
+  } catch (error) {
+    return res.status(401).json({ error: error.message });
+  }
+
+  const storeId = sessionData.storeId;
+
+  // Enforce Voksen-godkendelse for ungarbejdere
+  if (sessionData.role === 'young_worker') {
+    if (!approvalToken) {
+      return res.status(403).json({ error: 'Handling kræver godkendelse fra en voksen (manglende token)' });
+    }
+    try {
+      const secret = process.env.SESSION_SIGNING_KEY;
+      const decoded = jwt.verify(approvalToken, secret);
+      if (decoded.type !== 'adult_approval' || decoded.storeId !== storeId) {
+        throw new Error('Ugyldig godkendelse');
+      }
+    } catch {
+      return res.status(403).json({ error: 'Ugyldig eller udløbet voksen-godkendelse' });
+    }
+  }
+
   const supabaseUrl = process.env.VITE_SUPABASE_URL;
   const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
-  
   const supabase = createClient(supabaseUrl, supabaseServiceKey);
 
+
+
   try {
-    // 1. Verificer at PIN-koden faktisk matcher butikken!
-    const { data: pinData, error: pinError } = await supabase
-      .from('store_pins')
-      .select('*')
-      .eq('pin_code', pin)
-      .eq('store_id', storeId)
-      .single();
-
-    if (pinError || !pinData) {
-      console.error(JSON.stringify({ event: "AUDIT_FAILURE", type: "INVALID_PIN", storeId, pin, timestamp: new Date().toISOString() }));
-      return res.status(401).json({ error: 'Unauthorized: PIN matcher ikke butikken' });
-    }
-
-    // AUDIT LOGGING: Legal-Lars requirement
+    // Tjek at store_id faktisk eksisterer i Supabase og at brugerens session stemmer
     console.log(JSON.stringify({
       event: "AUDIT_SUCCESS",
       type: "PROMOTIONS_UPDATED",
       storeId,
-      approvedByPin: pin, // Voksen PIN
+      approvedByRole: sessionData.role,
       timestamp: new Date().toISOString(),
       payload: { selectedIds, foodWasteIds }
     }));
 
-    // 2. Hvis PIN er gyldig, udfør opdateringen som admin
-      // FIX: Upsert kræver UNIQUE constraint, som mangler. Vi gør det manuelt.
-      const { data: existingPromo } = await supabase
-        .from('active_promotions')
-        .select('id')
-        .eq('store_id', storeId)
-        .limit(1)
-        .maybeSingle();
-
-      let upsertError = null;
-
-      if (existingPromo) {
-         const { error } = await supabase
-           .from('active_promotions')
-           .update({ 
-              selected_ingredients: selectedIds,
-              food_waste_ingredients: foodWasteIds || [],
-              updated_at: new Date().toISOString()
-           })
-           .eq('id', existingPromo.id);
-         upsertError = error;
-      } else {
-         const { error } = await supabase
-           .from('active_promotions')
-           .insert({ 
-              store_id: storeId, 
-              selected_ingredients: selectedIds,
-              food_waste_ingredients: foodWasteIds || [],
-              updated_at: new Date().toISOString()
-           });
-         upsertError = error;
-      }
+    // Udfør opdateringen atomisk (ingen race-conditions)
+    // RPC 'set_active_promotions' håndterer indsættelse i databasen og udsender
+    // automatisk Realtime events til alle andre forbundne skærme i butikken.
+    const { error: upsertError } = await supabase.rpc('set_active_promotions', {
+      p_store_id: storeId,
+      p_selected_ids: selectedIds,
+      p_food_waste_ids: foodWasteIds || []
+    });
 
     if (upsertError) {
       throw upsertError;
