@@ -22,8 +22,20 @@ const PERISHABILITY_WEIGHT = {
   'Mælk og mejeriprodukter':  1.2,
 };
 
+// Kategorier hvor datovarer skal have ekstra boost oven i forgængelighed
+const DATOVARE_BOOST_KATEGORIER = new Set([
+  'Grønt', 'Frugt/Grønt', 'Slagter', 'Kød', 'Fisk', 'Fiskeafdeling',
+]);
+
 function perishabilityWeight(kategori) {
   return PERISHABILITY_WEIGHT[kategori] ?? 1.0;
+}
+
+// Datovarer i de mest forgængelige kategorier scorer dobbelt (weight × 2).
+// Øvrige datovarer får minimum 1.5 som før.
+function datovareWeight(kategori) {
+  const w = perishabilityWeight(kategori);
+  return DATOVARE_BOOST_KATEGORIER.has(kategori) ? w * 2 : Math.max(w, 1.5);
 }
 
 export function rankRecipes({
@@ -50,7 +62,7 @@ export function rankRecipes({
        uniqueRecipeRaavareIds.forEach(raavare_id => {
            const weight = perishabilityWeight(ingCategoryMap[raavare_id]);
            if (selectedIngredientIds.includes(raavare_id)) matchCount += weight;
-           if (foodWasteIngredientIds.includes(raavare_id)) wasteCount += Math.max(weight, 1.5);
+           if (foodWasteIngredientIds.includes(raavare_id)) wasteCount += datovareWeight(ingCategoryMap[raavare_id]);
        });
 
        // HÅRD REGEL: Kød-konflikt
