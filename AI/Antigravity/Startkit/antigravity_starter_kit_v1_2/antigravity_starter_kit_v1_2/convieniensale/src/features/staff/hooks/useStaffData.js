@@ -399,25 +399,6 @@ export function useStaffData() {
      }
   };
 
-  const handleAddIngredient = async (name, category = 'Kolonial') => {
-    if (!name.trim()) return;
-    const newIng = {
-      id: `ing_custom_${Date.now()}`,
-      navn: name.trim(),
-      kategori: category,
-      allergener: [],
-      standard_vare: false
-    };
-    const { error } = await supabase.from('ingredients').insert([newIng]);
-    if (!error) {
-      setIngredients(prev => [...prev, newIng]);
-      return true;
-    } else {
-      console.error("Fejl ved oprettelse af råvare:", error);
-      return false;
-    }
-  };
-
   return {
     isAuthenticated,
     storeId, userRole, voksenUnlockUntil,
@@ -430,7 +411,6 @@ export function useStaffData() {
     handleLogin, handleLogout,
     toggleIngredient, toggleFoodWaste, handleGenerate, validateVoksenPin,
     handleClearAll,
-    handleAddIngredient,
     userRoleDesc
   };
 }

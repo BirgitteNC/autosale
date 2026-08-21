@@ -69,7 +69,7 @@ export default async function handler(req, res) {
     if (credError || !credentials || credentials.length === 0) {
       console.error(JSON.stringify({ event: "AUDIT_FAILURE", type: "VALIDATE_PIN", storeId, reason: "Ugyldig butik" }));
       await logAttempt(supabase, ip, storeId, false);
-      return res.status(401).json({ error: 'Ugyldig butik' });
+      return res.status(401).json({ error: 'Godkendelse kunne ikke gennemføres' });
     }
 
     let validUser = null;
@@ -83,7 +83,7 @@ export default async function handler(req, res) {
     if (!validUser) {
       console.error(JSON.stringify({ event: "AUDIT_FAILURE", type: "VALIDATE_PIN", storeId, reason: "Ugyldig PIN" }));
       await logAttempt(supabase, ip, storeId, false);
-      return res.status(401).json({ error: 'Ugyldig PIN' });
+      return res.status(401).json({ error: 'Godkendelse kunne ikke gennemføres' });
     }
 
     await logAttempt(supabase, ip, storeId, true);
