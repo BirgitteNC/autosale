@@ -16,11 +16,12 @@ export default async function handler(req, res) {
   const supabase = createClient(supabaseUrl, supabaseServiceKey);
 
   try {
-    const oneDayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
+    // Slet forsøg ældre end rate-limit-vinduet (1 time) — ældre data bidrager alligevel ikke til rate limiting
+    const oneHourAgo = new Date(Date.now() - 60 * 60 * 1000).toISOString();
     const { error } = await supabase
       .from('login_attempts')
       .delete()
-      .lt('attempt_time', oneDayAgo);
+      .lt('attempt_time', oneHourAgo);
 
     if (error) throw error;
 

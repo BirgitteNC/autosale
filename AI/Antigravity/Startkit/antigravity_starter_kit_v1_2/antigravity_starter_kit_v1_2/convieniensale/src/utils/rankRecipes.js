@@ -33,7 +33,7 @@ function perishabilityWeight(kategori) {
 
 // Datovarer i de mest forgængelige kategorier scorer dobbelt (weight × 2).
 // Øvrige datovarer får minimum 1.5 som før.
-function datovareWeight(kategori) {
+export function datovareWeight(kategori) {
   const w = perishabilityWeight(kategori);
   return DATOVARE_BOOST_KATEGORIER.has(kategori) ? w * 2 : Math.max(w, 1.5);
 }
